@@ -1,0 +1,161 @@
+GOLDEN HOUR MEDICAL COORDINATOR - ROUTING AND DISPATCH RULES
+
+=== SECTION 1: HOSPITAL ROUTING RULES ===
+
+PRIORITY ORDER FOR HOSPITAL SELECTION:
+1. Specialty Match — Hospital must have the specialty matching the triage category
+2. Severity-Appropriate Level — Critical/High severity requires trauma center Level I/II or equivalent specialty center
+3. ICU Availability — Critical severity MUST have ICU bed available
+4. Available Beds — Hospital must have at least 1 available bed
+5. ETA — Shorter ETA preferred (weighted by severity: Critical = ETA weight x3, High = x2, Medium/Low = x1)
+6. Distance — Tiebreaker when ETAs are similar
+
+SPECIALTY-TO-HOSPITAL MATCHING:
+- Cardiology → Cardiac Center, hospitals with Cardiology specialty, cath lab availability
+- Neurology → Stroke Center, hospitals with Neurology specialty, CT/MRI capability
+- Trauma → Trauma Center Level I or II, hospitals with Trauma Surgery specialty
+- Respiratory → Hospitals with Pulmonology specialty, ventilator availability
+- General Emergency → Any Emergency Department with appropriate level
+
+FALLBACK LOGIC (when no exact match exists):
+1. If no specialty match within 30-minute ETA: Route to nearest hospital with ICU (for Critical/High) or nearest ED (for Medium/Low)
+2. If no ICU available for Critical patient: Route to nearest hospital AND flag "ICU NOT AVAILABLE - CRITICAL" warning
+3. If no beds available at matched hospital: Check next-best specialty match hospital
+4. If ALL matched hospitals full: Route to nearest hospital with any available bed AND flag "NO SPECIALTY MATCH - NEAREST AVAILABLE"
+5. NEVER skip routing — always select a hospital even if no ideal match exists
+
+ROUTING SCORE CALCULATION:
+Score = (Specialty Match × 40) + (ICU Available × 25) + (Bed Available × 15) + (ETA Score × 15) + (Distance Score × 5)
+Where:
+- Specialty Match: 1.0 (exact), 0.5 (related), 0.0 (none)
+- ICU Available: 1.0 (yes), 0.0 (no) — only weighted for Critical/High severity
+- Bed Available: 1.0 (>5 beds), 0.7 (2-5 beds), 0.3 (1 bed), 0.0 (none)
+- ETA Score: 1.0 (<10 min), 0.8 (10-20 min), 0.5 (20-30 min), 0.2 (>30 min)
+- Distance Score: 1.0 (<5 km), 0.7 (5-15 km), 0.3 (15-30 km), 0.1 (>30 km)
+
+Select hospital with highest score. If tie, prefer lower ETA.
+
+=== SECTION 2: AMBULANCE DISPATCH RULES ===
+
+EQUIPMENT LEVEL MATCHING:
+- Critical Severity → Critical Care ambulance (if available), otherwise ALS
+- High Severity → ALS (Advanced Life Support) ambulance
+- Medium Severity → ALS preferred, BLS (Basic Life Support) acceptable
+- Low Severity → BLS ambulance
+
+DISPATCH PRIORITY ORDER:
+1. Equipment Match — Ambulance must have appropriate equipment level
+2. Availability — Status must be "available" (not dispatched or maintenance)
+3. Proximity — Nearest available ambulance to patient location
+4. Crew Qualification — ALS crew for Critical/High, BLS acceptable for Medium/Low
+
+DISPATCH ALGORITHM:
+1. Filter ambulances by status = "available"
+2. Filter by equipment level >= required level
+3. Calculate distance/ETA from each ambulance to patient location
+4. Select nearest qualifying ambulance
+5. If no qualifying ambulance available:
+   a. Check if any ambulance of ANY equipment level is available
+   b. If yes: dispatch nearest available AND flag "EQUIPMENT MISMATCH"
+   c. If no ambulance available at all: flag "NO AMBULANCE AVAILABLE" — this is a CRITICAL alert
+
+DISTANCE/ETA ESTIMATION:
+- Urban areas: Average speed 40 km/h with emergency lights
+- Suburban areas: Average speed 60 km/h with emergency lights
+- Rural areas: Average speed 80 km/h with emergency lights
+- Add 2 minutes for crew mobilization
+- Formula: ETA = (distance_km / average_speed_kmh × 60) + 2 minutes
+
+AMBULANCE STATUS TRANSITIONS:
+- available → dispatched (when selected for incident)
+- dispatched → available (when incident complete or reassigned)
+- available → maintenance (scheduled maintenance)
+- maintenance → available (maintenance complete)
+
+=== SECTION 3: DOCTOR PREPARATION RULES ===
+
+PREPARATION BY TRIAGE CATEGORY:
+
+CARDIOLOGY PREPARATION:
+- Equipment: Cardiac catheterization lab, defibrillator, crash cart, 12-lead ECG, cardiac monitor, temporary pacemaker
+- Team: Interventional cardiologist, cardiac catheterization nurse, cardiac ICU nurse
+- Medications: Heparin, nitroglycerin, morphine, aspirin, clopidogrel, thrombolytics (tPA/TNK)
+- Labs: Troponin, BNP, CBC, BMP, coagulation panel, type and screen
+- Estimated prep time: 10-15 minutes for cath lab activation
+
+NEUROLOGY PREPARATION:
+- Equipment: CT scanner (immediate), MRI (standby), intubation equipment, ICP monitoring kit
+- Team: Neurologist, neuroradiologist, neurosurgeon (on standby for hemorrhagic stroke), stroke nurse
+- Medications: tPA (alteplase), labetalol, nicardipine, mannitol, hypertonic saline, anti-seizure medications
+- Labs: CBC, BMP, coagulation panel, glucose, type and screen
+- Estimated prep time: 5-10 minutes (CT), 15-20 minutes (full stroke team)
+
+TRAUMA PREPARATION:
+- Equipment: Trauma bay, surgical instruments, chest tube tray, central line kit, FAST ultrasound, ventilator, massive transfusion protocol blood products
+- Team: Trauma surgeon, emergency physician, anesthesiologist, OR team (standby), orthopedic surgeon (if needed), neurosurgeon (if head injury)
+- Medications: Blood products (PRBCs, FFP, platelets), TXA, ketamine, RSI medications
+- Labs: Type and crossmatch (4 units), CBC, BMP, coagulation, lactate, blood gas
+- Estimated prep time: 5-10 minutes (trauma bay), 15-20 minutes (OR standby)
+
+RESPIRATORY PREPARATION:
+- Equipment: Ventilator, BiPAP/CPAP, intubation equipment, bronchoscope, chest tube tray, nebulizer
+- Team: Pulmonologist, respiratory therapist, ICU nurse, anesthesiologist (intubation standby)
+- Medications: Albuterol, ipratropium, IV methylprednisolone, magnesium sulfate, epinephrine (if anaphylaxis), antibiotics (if sepsis/pneumonia)
+- Labs: ABG, CBC, BMP, procalcitonin, blood cultures, sputum culture
+- Estimated prep time: 5-10 minutes
+
+GENERAL EMERGENCY PREPARATION:
+- Equipment varies by presentation; minimum: IV supplies, monitoring, imaging capability
+- Team: Emergency physician, relevant specialty consultant
+- Medications: Based on presentation
+- Labs: Standard emergency panel (CBC, BMP, UA, coags)
+- Estimated prep time: 5-15 minutes depending on presentation
+
+=== SECTION 4: QA VALIDATION RULES ===
+
+CONSISTENCY CHECKS:
+1. Triage-Routing Consistency: Selected hospital specialty must match triage category (or fallback must be flagged)
+2. Severity Consistency: Severity level must be consistent between triage and risk prediction agents
+3. ETA Consistency: Hospital ETA in routing must match one of the ETAs from traffic agent
+4. Equipment Match: Ambulance equipment level must be appropriate for severity (or mismatch flagged)
+5. SBAR Completeness: All four SBAR sections must be populated
+6. Family Message Tone: Must NOT contain medical jargon, severity levels, or survival probabilities
+
+COMPLETENESS CHECKS:
+- Patient name: required
+- Symptoms: required
+- Location: required
+- Triage category: required
+- Severity level: required
+- Selected hospital: required
+- Ambulance ID: required
+- Survival probability: required (0-100)
+- Urgency score: required (1-10)
+- SBAR report: all 4 sections required
+- Family message: required
+- Doctor prep instructions: required
+- Case summary: required
+
+SCORING RUBRIC:
+- 10/10: All checks pass, all fields complete, full consistency
+- 8-9/10: Minor inconsistencies or non-critical fields missing
+- 6-7/10: Some inconsistencies that don't affect patient safety
+- 4-5/10: Missing critical fields or significant inconsistencies
+- 1-3/10: Major errors affecting routing or triage decisions
+- Pass: Score >= 7
+- Warning: Score 5-6
+- Fail: Score < 5
+
+AUDIT EVENT TYPES:
+- TRIAGE_COMPLETE: Triage classification recorded
+- RISK_ASSESSED: Risk prediction calculated
+- ETA_CALCULATED: Traffic/ETA estimates generated
+- HOSPITAL_SELECTED: Routing decision made
+- AMBULANCE_DISPATCHED: Ambulance assigned
+- HANDOFF_GENERATED: SBAR report created
+- FAMILY_NOTIFIED: Family message generated
+- DOCTOR_PREPPED: Preparation instructions sent
+- SUMMARY_CREATED: Case summary generated
+- QA_VALIDATED: Quality assurance check completed
+- WORKFLOW_COMPLETE: Full pipeline finished
+- ERROR_FLAGGED: Error or warning detected

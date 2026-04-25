@@ -1,0 +1,280 @@
+{
+  "agent_name": "Emergency Coordination Manager",
+  "agent_id": "69ec725b1f4eecc14353fa3c",
+  "description": "Manager agent that orchestrates the complete emergency coordination pipeline from triage through QA, managing all 10 sub-agents in sequence",
+  "agent_type": "json",
+  "accessor": "result",
+  "auto_generated": true,
+  "response_schema": {
+    "result": {
+      "triage": {
+        "category": "string",
+        "severity": "string",
+        "reasoning": "string",
+        "key_symptoms": [
+          "string"
+        ],
+        "recommended_actions": [
+          "string"
+        ]
+      },
+      "risk_prediction": {
+        "survival_probability": "number",
+        "urgency_score": "number",
+        "risk_level": "string",
+        "risk_factors": [
+          "string"
+        ],
+        "time_sensitivity": "string"
+      },
+      "traffic_eta": {
+        "patient_location": "string",
+        "hospital_etas": [
+          {
+            "hospital_name": "string",
+            "eta_minutes": "number",
+            "distance_km": "number"
+          }
+        ],
+        "fastest_hospital": "string",
+        "estimated_traffic_level": "string"
+      },
+      "routing": {
+        "selected_hospital": "string",
+        "hospital_details": {
+          "name": "string",
+          "specialty": "string",
+          "available_beds": "number",
+          "icu_available": "boolean",
+          "eta_minutes": "number",
+          "distance_km": "number"
+        },
+        "routing_reasoning": "string",
+        "fallback_applied": "boolean",
+        "alternative_hospitals": [
+          "string"
+        ]
+      },
+      "ambulance_dispatch": {
+        "ambulance_id": "string",
+        "crew_name": "string",
+        "equipment_level": "string",
+        "eta_to_patient": "string",
+        "distance_to_patient": "string",
+        "dispatch_status": "string",
+        "equipment_match": "boolean",
+        "dispatch_notes": "string"
+      },
+      "handoff_notification": {
+        "situation": "string",
+        "background": "string",
+        "assessment": "string",
+        "recommendation": "string",
+        "priority_level": "string",
+        "estimated_arrival": "string"
+      },
+      "family_notification": {
+        "family_message": "string",
+        "hospital_name": "string",
+        "recommended_actions_for_family": [
+          "string"
+        ],
+        "contact_information": "string"
+      },
+      "doctor_prep": {
+        "preparation_instructions": [
+          "string"
+        ],
+        "required_equipment": [
+          "string"
+        ],
+        "specialist_team": [
+          "string"
+        ],
+        "medications_to_prepare": [
+          "string"
+        ],
+        "lab_tests": [
+          "string"
+        ],
+        "estimated_prep_time": "string"
+      },
+      "case_summary": {
+        "case_overview": "string",
+        "patient_summary": "string",
+        "triage_result": "string",
+        "risk_assessment": "string",
+        "hospital_decision": "string",
+        "transport_details": "string",
+        "notification_status": "string",
+        "timeline": "string"
+      },
+      "qa_result": {
+        "overall_score": "number",
+        "status": "string",
+        "consistency_checks": [
+          {
+            "check_name": "string",
+            "result": "string",
+            "details": "string"
+          }
+        ],
+        "completeness_checks": [
+          {
+            "field": "string",
+            "present": "boolean",
+            "value": "string"
+          }
+        ],
+        "warnings": [
+          "string"
+        ],
+        "audit_events": [
+          {
+            "event": "string",
+            "timestamp": "string",
+            "details": "string"
+          }
+        ]
+      },
+      "coordination_status": "string",
+      "coordination_notes": "string"
+    }
+  },
+  "example_response": {
+    "result": {
+      "triage": {
+        "category": "sample string",
+        "severity": "sample string",
+        "reasoning": "sample string",
+        "key_symptoms": [
+          "sample string"
+        ],
+        "recommended_actions": [
+          "sample string"
+        ]
+      },
+      "risk_prediction": {
+        "survival_probability": 0,
+        "urgency_score": 0,
+        "risk_level": "sample string",
+        "risk_factors": [
+          "sample string"
+        ],
+        "time_sensitivity": "sample string"
+      },
+      "traffic_eta": {
+        "patient_location": "sample string",
+        "hospital_etas": [
+          {
+            "hospital_name": "sample string",
+            "eta_minutes": 0,
+            "distance_km": 0
+          }
+        ],
+        "fastest_hospital": "sample string",
+        "estimated_traffic_level": "sample string"
+      },
+      "routing": {
+        "selected_hospital": "sample string",
+        "hospital_details": {
+          "name": "sample string",
+          "specialty": "sample string",
+          "available_beds": 0,
+          "icu_available": false,
+          "eta_minutes": 0,
+          "distance_km": 0
+        },
+        "routing_reasoning": "sample string",
+        "fallback_applied": false,
+        "alternative_hospitals": [
+          "sample string"
+        ]
+      },
+      "ambulance_dispatch": {
+        "ambulance_id": "sample string",
+        "crew_name": "sample string",
+        "equipment_level": "sample string",
+        "eta_to_patient": "sample string",
+        "distance_to_patient": "sample string",
+        "dispatch_status": "sample string",
+        "equipment_match": false,
+        "dispatch_notes": "sample string"
+      },
+      "handoff_notification": {
+        "situation": "sample string",
+        "background": "sample string",
+        "assessment": "sample string",
+        "recommendation": "sample string",
+        "priority_level": "sample string",
+        "estimated_arrival": "sample string"
+      },
+      "family_notification": {
+        "family_message": "sample string",
+        "hospital_name": "sample string",
+        "recommended_actions_for_family": [
+          "sample string"
+        ],
+        "contact_information": "sample string"
+      },
+      "doctor_prep": {
+        "preparation_instructions": [
+          "sample string"
+        ],
+        "required_equipment": [
+          "sample string"
+        ],
+        "specialist_team": [
+          "sample string"
+        ],
+        "medications_to_prepare": [
+          "sample string"
+        ],
+        "lab_tests": [
+          "sample string"
+        ],
+        "estimated_prep_time": "sample string"
+      },
+      "case_summary": {
+        "case_overview": "sample string",
+        "patient_summary": "sample string",
+        "triage_result": "sample string",
+        "risk_assessment": "sample string",
+        "hospital_decision": "sample string",
+        "transport_details": "sample string",
+        "notification_status": "sample string",
+        "timeline": "sample string"
+      },
+      "qa_result": {
+        "overall_score": 0,
+        "status": "sample string",
+        "consistency_checks": [
+          {
+            "check_name": "sample string",
+            "result": "sample string",
+            "details": "sample string"
+          }
+        ],
+        "completeness_checks": [
+          {
+            "field": "sample string",
+            "present": false,
+            "value": "sample string"
+          }
+        ],
+        "warnings": [
+          "sample string"
+        ],
+        "audit_events": [
+          {
+            "event": "sample string",
+            "timestamp": "sample string",
+            "details": "sample string"
+          }
+        ]
+      },
+      "coordination_status": "sample string",
+      "coordination_notes": "sample string"
+    }
+  }
+}

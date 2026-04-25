@@ -1,0 +1,104 @@
+{
+  "app_name": "Golden Hour Medical Coordinator",
+  "workflow_type": "manager-subagent",
+  "manager_agent": {
+    "agent_id": "69ec725b1f4eecc14353fa3c",
+    "name": "Emergency Coordination Manager",
+    "provider": "openai",
+    "model": "gpt-4.1"
+  },
+  "sub_agents": [
+    {
+      "agent_id": "69ec722e3b210a4aa91bd426",
+      "name": "Triage Agent",
+      "has_knowledge_base": true,
+      "provider": "anthropic",
+      "model": "claude-sonnet-4-6"
+    },
+    {
+      "agent_id": "69ec722f35ced17b0b78ea71",
+      "name": "Risk Prediction Agent",
+      "has_knowledge_base": true,
+      "provider": "anthropic",
+      "model": "claude-sonnet-4-6"
+    },
+    {
+      "agent_id": "69ec722f39e03fb55fcc489e",
+      "name": "Traffic ETA Agent",
+      "has_knowledge_base": false,
+      "provider": "anthropic",
+      "model": "claude-sonnet-4-6"
+    },
+    {
+      "agent_id": "69ec722f7c404c6cf9491e76",
+      "name": "Routing Agent",
+      "has_knowledge_base": true,
+      "provider": "anthropic",
+      "model": "claude-sonnet-4-6"
+    },
+    {
+      "agent_id": "69ec72302aed0bb18664bbd8",
+      "name": "Ambulance Dispatcher Agent",
+      "has_knowledge_base": true,
+      "provider": "anthropic",
+      "model": "claude-sonnet-4-6"
+    },
+    {
+      "agent_id": "69ec723028084f7fe417ed4c",
+      "name": "Handoff Notifier Agent",
+      "has_knowledge_base": true,
+      "provider": "anthropic",
+      "model": "claude-sonnet-4-6"
+    },
+    {
+      "agent_id": "69ec7230a720fb4380836621",
+      "name": "Family Notifier Agent",
+      "has_knowledge_base": false,
+      "provider": "anthropic",
+      "model": "claude-sonnet-4-6"
+    },
+    {
+      "agent_id": "69ec723135ced17b0b78ea73",
+      "name": "Doctor Prep Agent",
+      "has_knowledge_base": true,
+      "provider": "anthropic",
+      "model": "claude-sonnet-4-6"
+    },
+    {
+      "agent_id": "69ec72312d2419110b70f200",
+      "name": "Summary Agent",
+      "has_knowledge_base": false,
+      "provider": "anthropic",
+      "model": "claude-sonnet-4-6"
+    },
+    {
+      "agent_id": "69ec72317e79c00077377b3f",
+      "name": "QA Monitoring Agent",
+      "has_knowledge_base": true,
+      "provider": "anthropic",
+      "model": "claude-sonnet-4-6"
+    }
+  ],
+  "knowledge_base": {
+    "rag_id": "69ec71a8f21aec41d26fc4af",
+    "rag_name": "medicalemergencyprotocolsts2x",
+    "display_name": "Medical Emergency Protocols"
+  },
+  "database": {
+    "db_name": "app_146ab2514fd810c2548e5d0b",
+    "collections": ["users", "incidents", "hospitals", "ambulances", "doctors", "notifications", "audit_logs", "workflow_runs"]
+  },
+  "agent_ids": [
+    "69ec725b1f4eecc14353fa3c",
+    "69ec722e3b210a4aa91bd426",
+    "69ec722f35ced17b0b78ea71",
+    "69ec722f39e03fb55fcc489e",
+    "69ec722f7c404c6cf9491e76",
+    "69ec72302aed0bb18664bbd8",
+    "69ec723028084f7fe417ed4c",
+    "69ec7230a720fb4380836621",
+    "69ec723135ced17b0b78ea73",
+    "69ec72312d2419110b70f200",
+    "69ec72317e79c00077377b3f"
+  ]
+}

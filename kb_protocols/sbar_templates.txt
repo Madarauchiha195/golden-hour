@@ -1,0 +1,84 @@
+GOLDEN HOUR MEDICAL COORDINATOR - SBAR HANDOFF TEMPLATES
+
+=== SBAR FORMAT OVERVIEW ===
+SBAR (Situation, Background, Assessment, Recommendation) is the standardized communication framework for all hospital handoff notifications in the Golden Hour system.
+
+=== TEMPLATE: CARDIAC EMERGENCY SBAR ===
+
+SITUATION:
+"This is [dispatcher/EMT name] from [unit/station]. We are transporting a [age]-year-old [sex] patient presenting with [chief complaint]. Patient is currently [stable/unstable]. ETA to your facility is [X] minutes. Ambulance [ID] is en route with [ALS/BLS/Critical Care] equipment."
+
+BACKGROUND:
+"Patient reports onset of symptoms [duration] ago. Medical history includes [relevant history]. Current medications: [medications]. Known allergies: [allergies]. Patient [has/has not] taken aspirin. [Additional relevant history: prior cardiac events, surgical history, family history of cardiac disease]."
+
+ASSESSMENT:
+"Triage category: Cardiology. Severity: [Critical/High/Medium/Low]. Vital signs: HR [X], BP [X/X], RR [X], SpO2 [X]%, Temp [X]. ECG shows [findings if available]. Patient is [alert/confused/unconscious]. Pain level: [X/10]. Risk assessment: Survival probability [X]%, Urgency score [X/10]."
+
+RECOMMENDATION:
+"Requesting [cath lab activation / cardiac monitoring / cardiology consult]. Please prepare [specific equipment: crash cart, defibrillator, thrombolytics, cardiac catheterization lab]. Recommend [IV access, cardiac enzymes, serial ECGs, chest X-ray]. Estimated preparation time needed: [X] minutes."
+
+=== TEMPLATE: NEUROLOGICAL EMERGENCY SBAR ===
+
+SITUATION:
+"This is [dispatcher/EMT name]. We are transporting a [age]-year-old [sex] with acute [stroke symptoms/seizure/head injury]. Symptom onset at [time]. Last known well at [time]. ETA [X] minutes via Ambulance [ID]."
+
+BACKGROUND:
+"Patient history: [hypertension, diabetes, atrial fibrillation, prior stroke/TIA, anticoagulation use]. Current medications: [list, especially anticoagulants]. Allergies: [list]. [Witnessed/unwitnessed] event. [Any interventions already performed]."
+
+ASSESSMENT:
+"Triage: Neurology, Severity: [level]. GCS: [X] (E[X]V[X]M[X]). NIHSS estimated: [X if available]. Pupils: [findings]. Focal deficits: [describe]. Vitals: HR [X], BP [X/X], RR [X], SpO2 [X]%, BGL [X]. Survival probability: [X]%, Urgency: [X/10]."
+
+RECOMMENDATION:
+"Requesting [stroke team activation / neurosurgery consult / CT scan immediate]. Please prepare [CT scanner, tPA if within window, neurology team, ICU bed]. Time-critical: [within tPA window yes/no]. Recommend [immediate CT head, CTA, labs including coagulation panel]."
+
+=== TEMPLATE: TRAUMA SBAR ===
+
+SITUATION:
+"Trauma alert. [Age]-year-old [sex], [mechanism of injury]. Patient is [stable/unstable/critical]. GCS [X]. ETA [X] minutes, Ambulance [ID], [ALS/BLS/Critical] level."
+
+BACKGROUND:
+"Mechanism: [details - speed, height, weapon, etc.]. Injuries identified: [list]. Interventions performed: [C-spine immobilization, hemorrhage control, IV access, intubation]. Medical history: [relevant]. Medications: [especially anticoagulants]. Allergies: [list]. Tetanus status: [if known]."
+
+ASSESSMENT:
+"Triage: Trauma, Severity: [level]. Primary survey: A-[patent/compromised], B-[RR, SpO2, breath sounds], C-[HR, BP, hemorrhage sites], D-[GCS, pupils], E-[injuries noted, temp]. Estimated blood loss: [volume]. Survival probability: [X]%, Urgency: [X/10]."
+
+RECOMMENDATION:
+"Requesting [trauma team activation / OR standby / massive transfusion protocol]. Prepare [trauma bay, blood products, surgical team, CT scanner, chest tube tray]. Specialty needs: [orthopedic, neurosurgery, vascular]. Estimated prep time: [X] minutes."
+
+=== TEMPLATE: RESPIRATORY EMERGENCY SBAR ===
+
+SITUATION:
+"Respiratory emergency. [Age]-year-old [sex] with [acute respiratory distress/asthma/COPD/PE]. Current SpO2 [X]% on [room air/O2 at X L/min]. ETA [X] minutes."
+
+BACKGROUND:
+"History of [respiratory conditions]. Current medications: [inhalers, steroids, home O2]. Recent illness: [URI, pneumonia]. Allergies: [list]. Smoking history: [pack-years]. Previous intubations: [yes/no]."
+
+ASSESSMENT:
+"Triage: Respiratory, Severity: [level]. Work of breathing: [mild/moderate/severe]. Breath sounds: [findings]. SpO2: [X]% on [O2 delivery]. RR: [X], HR: [X], BP: [X/X]. Accessory muscle use: [yes/no]. Able to speak in: [full sentences/phrases/words/unable]. Survival probability: [X]%."
+
+RECOMMENDATION:
+"Requesting [respiratory therapy / intubation setup / BiPAP/CPAP / ICU bed]. Prepare [ventilator, bronchodilators, IV steroids, chest X-ray, ABG kit]. If suspected PE: [CT angiography, heparin]. Estimated prep: [X] minutes."
+
+=== TEMPLATE: GENERAL EMERGENCY SBAR ===
+
+SITUATION:
+"Emergency transport. [Age]-year-old [sex] presenting with [chief complaint]. Patient is [stable/unstable]. ETA [X] minutes via Ambulance [ID]."
+
+BACKGROUND:
+"Onset [duration] ago. Associated symptoms: [list]. Medical history: [relevant conditions]. Surgical history: [relevant]. Medications: [list]. Allergies: [list]. Last oral intake: [time]."
+
+ASSESSMENT:
+"Triage: General Emergency, Severity: [level]. Vitals: HR [X], BP [X/X], RR [X], SpO2 [X]%, Temp [X], BGL [X]. Physical exam: [key findings]. Survival probability: [X]%, Urgency: [X/10]."
+
+RECOMMENDATION:
+"Requesting [specific consult/service]. Prepare [specific equipment/medications]. Labs recommended: [CBC, BMP, coags, type and screen, etc.]. Imaging: [CT, ultrasound, X-ray]. Estimated prep: [X] minutes."
+
+=== SBAR QUALITY CHECKLIST ===
+1. Patient identifiers present (age, sex)
+2. Chief complaint clearly stated
+3. ETA and transport unit identified
+4. Relevant medical history included
+5. Current vital signs documented
+6. Severity and risk assessment included
+7. Specific resource requests made
+8. Preparation time estimated
