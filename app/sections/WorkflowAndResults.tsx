@@ -8,7 +8,7 @@ import { Progress } from '@/components/ui/progress'
 import { Separator } from '@/components/ui/separator'
 import { Collapsible, CollapsibleContent, CollapsibleTrigger } from '@/components/ui/collapsible'
 import { Button } from '@/components/ui/button'
-import { FiCheck, FiClock, FiAlertTriangle, FiLoader, FiChevronDown, FiTarget, FiHeart, FiMapPin, FiTruck, FiMessageSquare, FiUsers, FiShield, FiFileText, FiActivity, FiPhone } from 'react-icons/fi'
+import { Check, Clock, AlertTriangle, Loader, ChevronDown, Target, Heart, MapPin, Truck, MessageSquare, Users, Shield, FileText, Activity, Phone } from 'lucide-react'
 
 export interface CoordinationResult {
   triage?: any
@@ -60,7 +60,7 @@ export function WorkflowProgress({ steps, isProcessing }: WorkflowProgressProps)
               <div key={step.id} className="flex items-start gap-2 py-1.5">
                 <div className="flex flex-col items-center">
                   <div className={`w-6 h-6 rounded flex items-center justify-center text-[11px] ${step.status === 'complete' ? 'bg-accent/20 text-accent' : step.status === 'running' ? 'bg-primary/20 text-primary animate-pulse' : step.status === 'error' ? 'bg-destructive/20 text-destructive' : 'bg-muted text-muted-foreground'}`}>
-                    {step.status === 'complete' ? <FiCheck className="w-3 h-3" /> : step.status === 'running' ? <FiLoader className="w-3 h-3 animate-spin" /> : step.status === 'error' ? <FiAlertTriangle className="w-3 h-3" /> : <FiClock className="w-3 h-3" />}
+                    {step.status === 'complete' ? <Check className="w-3 h-3" /> : step.status === 'running' ? <Loader className="w-3 h-3 animate-spin" /> : step.status === 'error' ? <AlertTriangle className="w-3 h-3" /> : <Clock className="w-3 h-3" />}
                   </div>
                   {idx < steps.length - 1 && <div className={`w-px h-4 mt-0.5 ${step.status === 'complete' ? 'bg-accent/40' : 'bg-border'}`} />}
                 </div>
@@ -114,7 +114,7 @@ export function FinalDecision({ result, onViewCaseSummary }: FinalDecisionProps)
     return (
       <Card className="h-full bg-card border-border flex items-center justify-center">
         <div className="text-center p-6">
-          <FiTarget className="w-8 h-8 text-muted-foreground mx-auto mb-2" />
+          <Target className="w-8 h-8 text-muted-foreground mx-auto mb-2" />
           <p className="text-xs text-muted-foreground">No active coordination</p>
           <p className="text-[10px] text-muted-foreground mt-1">Submit an incident to begin</p>
         </div>
@@ -123,14 +123,14 @@ export function FinalDecision({ result, onViewCaseSummary }: FinalDecisionProps)
   }
 
   const keyValues: { label: string; value: string; icon: React.ReactNode }[] = [
-    { label: 'Category', value: triage?.category ?? '--', icon: <FiTarget className="w-3 h-3" /> },
-    { label: 'Hospital', value: routing?.selected_hospital ?? routing?.hospital_details?.name ?? '--', icon: <FiMapPin className="w-3 h-3" /> },
-    { label: 'ETA', value: routing?.hospital_details?.eta_minutes ? `${routing.hospital_details.eta_minutes} min` : '--', icon: <FiClock className="w-3 h-3" /> },
-    { label: 'Ambulance', value: dispatch?.ambulance_id ?? '--', icon: <FiTruck className="w-3 h-3" /> },
-    { label: 'Amb. ETA', value: dispatch?.eta_to_patient ?? '--', icon: <FiClock className="w-3 h-3" /> },
-    { label: 'Dispatch', value: dispatch?.dispatch_status ?? '--', icon: <FiCheck className="w-3 h-3" /> },
-    { label: 'Risk Level', value: risk?.risk_level ?? '--', icon: <FiAlertTriangle className="w-3 h-3" /> },
-    { label: 'Time Sens.', value: risk?.time_sensitivity ?? '--', icon: <FiClock className="w-3 h-3" /> },
+    { label: 'Category', value: triage?.category ?? '--', icon: <Target className="w-3 h-3" /> },
+    { label: 'Hospital', value: routing?.selected_hospital ?? routing?.hospital_details?.name ?? '--', icon: <MapPin className="w-3 h-3" /> },
+    { label: 'ETA', value: routing?.hospital_details?.eta_minutes ? `${routing.hospital_details.eta_minutes} min` : '--', icon: <Clock className="w-3 h-3" /> },
+    { label: 'Ambulance', value: dispatch?.ambulance_id ?? '--', icon: <Truck className="w-3 h-3" /> },
+    { label: 'Amb. ETA', value: dispatch?.eta_to_patient ?? '--', icon: <Clock className="w-3 h-3" /> },
+    { label: 'Dispatch', value: dispatch?.dispatch_status ?? '--', icon: <Check className="w-3 h-3" /> },
+    { label: 'Risk Level', value: risk?.risk_level ?? '--', icon: <AlertTriangle className="w-3 h-3" /> },
+    { label: 'Time Sens.', value: risk?.time_sensitivity ?? '--', icon: <Clock className="w-3 h-3" /> },
   ]
 
   return (
@@ -146,7 +146,7 @@ export function FinalDecision({ result, onViewCaseSummary }: FinalDecisionProps)
               <Badge className={`text-[10px] ${severityColor(triage?.severity ?? '')}`}>{triage?.severity ?? 'Unknown'}</Badge>
               {survivalPct !== null && (
                 <div className="flex items-center gap-1">
-                  <FiHeart className="w-3 h-3 text-accent" />
+                  <Heart className="w-3 h-3 text-accent" />
                   <span className="text-[11px] font-semibold text-accent">{survivalPct}%</span>
                   <span className="text-[9px] text-muted-foreground">survival</span>
                 </div>
@@ -207,7 +207,7 @@ export function FinalDecision({ result, onViewCaseSummary }: FinalDecisionProps)
             <Separator className="bg-border" />
 
             {/* SBAR Handoff */}
-            <CollapsibleSection title="SBAR Handoff" icon={<FiMessageSquare className="w-3 h-3" />}>
+            <CollapsibleSection title="SBAR Handoff" icon={<MessageSquare className="w-3 h-3" />}>
               <div className="space-y-1.5">
                 {['situation', 'background', 'assessment', 'recommendation'].map(k => (
                   <div key={k}>
@@ -223,21 +223,21 @@ export function FinalDecision({ result, onViewCaseSummary }: FinalDecisionProps)
             </CollapsibleSection>
 
             {/* Family Notification */}
-            <CollapsibleSection title="Family Notification" icon={<FiUsers className="w-3 h-3" />}>
+            <CollapsibleSection title="Family Notification" icon={<Users className="w-3 h-3" />}>
               <p className="text-[11px] text-foreground">{family?.family_message ?? '--'}</p>
               <p className="text-[10px] text-muted-foreground mt-1">Hospital: {family?.hospital_name ?? '--'}</p>
               <p className="text-[10px] text-muted-foreground">Contact: {family?.contact_information ?? '--'}</p>
               {Array.isArray(family?.recommended_actions_for_family) && family.recommended_actions_for_family.length > 0 && (
                 <ul className="mt-1 space-y-0.5">
                   {family.recommended_actions_for_family.map((a: string, i: number) => (
-                    <li key={i} className="text-[10px] text-muted-foreground flex items-start gap-1"><FiCheck className="w-2.5 h-2.5 mt-0.5 text-accent flex-shrink-0" />{a}</li>
+                    <li key={i} className="text-[10px] text-muted-foreground flex items-start gap-1"><Check className="w-2.5 h-2.5 mt-0.5 text-accent flex-shrink-0" />{a}</li>
                   ))}
                 </ul>
               )}
             </CollapsibleSection>
 
             {/* Doctor Prep */}
-            <CollapsibleSection title="Doctor Preparation" icon={<FiShield className="w-3 h-3" />}>
+            <CollapsibleSection title="Doctor Preparation" icon={<Shield className="w-3 h-3" />}>
               <div className="space-y-1.5">
                 <p className="text-[10px] text-muted-foreground">Est. Prep: <span className="text-foreground">{doctorPrep?.estimated_prep_time ?? '--'}</span></p>
                 {renderList('Instructions', doctorPrep?.preparation_instructions)}
@@ -249,7 +249,7 @@ export function FinalDecision({ result, onViewCaseSummary }: FinalDecisionProps)
             </CollapsibleSection>
 
             {/* Routing Details */}
-            <CollapsibleSection title="Routing Details" icon={<FiMapPin className="w-3 h-3" />}>
+            <CollapsibleSection title="Routing Details" icon={<MapPin className="w-3 h-3" />}>
               <p className="text-[11px] text-foreground">{routing?.routing_reasoning ?? '--'}</p>
               <div className="mt-1 text-[10px] text-muted-foreground space-y-0.5">
                 <p>Beds: {routing?.hospital_details?.available_beds ?? '--'} | ICU: {routing?.hospital_details?.icu_available ? 'Yes' : 'No'}</p>
@@ -279,7 +279,7 @@ export function FinalDecision({ result, onViewCaseSummary }: FinalDecisionProps)
             )}
 
             <Button variant="outline" size="sm" className="w-full h-7 text-xs" onClick={onViewCaseSummary}>
-              <FiFileText className="w-3 h-3 mr-1" />View Full Case Summary
+              <FileText className="w-3 h-3 mr-1" />View Full Case Summary
             </Button>
           </div>
         </ScrollArea>
@@ -295,7 +295,7 @@ function CollapsibleSection({ title, icon, children }: { title: string; icon: Re
       <CollapsibleTrigger asChild>
         <button className="flex items-center justify-between w-full py-1 text-[11px] font-semibold text-foreground hover:text-primary transition-colors">
           <span className="flex items-center gap-1">{icon}{title}</span>
-          <FiChevronDown className={`w-3 h-3 transition-transform ${open ? 'rotate-180' : ''}`} />
+          <ChevronDown className={`w-3 h-3 transition-transform ${open ? 'rotate-180' : ''}`} />
         </button>
       </CollapsibleTrigger>
       <CollapsibleContent className="pl-4 pb-1">{children}</CollapsibleContent>
@@ -311,7 +311,7 @@ function renderList(label: string, items: any) {
       <span className="text-[9px] text-muted-foreground uppercase font-semibold">{label}</span>
       <ul className="space-y-0.5 mt-0.5">
         {arr.map((item: string, i: number) => (
-          <li key={i} className="text-[10px] text-foreground flex items-start gap-1"><FiCheck className="w-2.5 h-2.5 mt-0.5 text-accent flex-shrink-0" />{item}</li>
+          <li key={i} className="text-[10px] text-foreground flex items-start gap-1"><Check className="w-2.5 h-2.5 mt-0.5 text-accent flex-shrink-0" />{item}</li>
         ))}
       </ul>
     </div>

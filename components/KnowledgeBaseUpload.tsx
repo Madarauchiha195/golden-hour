@@ -33,7 +33,7 @@ export function KnowledgeBaseUpload({
 
   React.useEffect(() => {
     fetchDocuments(ragId)
-  }, [ragId])
+  }, [ragId, fetchDocuments])
 
   const handleDragOver = (e: React.DragEvent) => {
     e.preventDefault()

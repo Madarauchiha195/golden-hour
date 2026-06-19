@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { authMiddleware } from 'lyzr-architect';
+// Removed authMiddleware import
 import getHospitalModel from '@/models/Hospital';
 
 async function handler(req: NextRequest, { params }: { params: { id: string } }) {
@@ -27,7 +27,7 @@ async function handler(req: NextRequest, { params }: { params: { id: string } })
   }
 }
 
-const protectedHandler = authMiddleware(handler);
-export const GET = protectedHandler;
-export const PUT = protectedHandler;
-export const DELETE = protectedHandler;
+
+export const GET = handler;
+export const PUT = handler;
+export const DELETE = handler;

@@ -13,7 +13,7 @@ import { Dialog, DialogContent, DialogHeader, DialogTitle } from '@/components/u
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select'
 import { Checkbox } from '@/components/ui/checkbox'
 import { Separator } from '@/components/ui/separator'
-import { FiPlus, FiEdit, FiTrash2, FiX, FiCheck, FiAlertTriangle, FiFileText, FiMapPin, FiTruck, FiUsers } from 'react-icons/fi'
+import { Plus, Edit, Trash2, X, Check, AlertTriangle, FileText, MapPin, Truck, Users } from 'lucide-react'
 
 interface DataTablesPanelProps {
   hospitals: any[]
@@ -32,9 +32,9 @@ export function DataTablesPanel({ hospitals, ambulances, auditLogs, loadingData 
       <Tabs defaultValue="hospitals" className="flex flex-col h-full">
         <div className="px-3 pt-2">
           <TabsList className="h-7 bg-secondary">
-            <TabsTrigger value="hospitals" className="text-[10px] h-5 px-2"><FiMapPin className="w-2.5 h-2.5 mr-1" />Hospitals ({safeHospitals.length})</TabsTrigger>
-            <TabsTrigger value="ambulances" className="text-[10px] h-5 px-2"><FiTruck className="w-2.5 h-2.5 mr-1" />Ambulances ({safeAmbulances.length})</TabsTrigger>
-            <TabsTrigger value="audit" className="text-[10px] h-5 px-2"><FiFileText className="w-2.5 h-2.5 mr-1" />Audit ({safeLogs.length})</TabsTrigger>
+            <TabsTrigger value="hospitals" className="text-[10px] h-5 px-2"><MapPin className="w-2.5 h-2.5 mr-1" />Hospitals ({safeHospitals.length})</TabsTrigger>
+            <TabsTrigger value="ambulances" className="text-[10px] h-5 px-2"><Truck className="w-2.5 h-2.5 mr-1" />Ambulances ({safeAmbulances.length})</TabsTrigger>
+            <TabsTrigger value="audit" className="text-[10px] h-5 px-2"><FileText className="w-2.5 h-2.5 mr-1" />Audit ({safeLogs.length})</TabsTrigger>
           </TabsList>
         </div>
         <TabsContent value="hospitals" className="flex-1 overflow-hidden m-0 p-0">
@@ -57,7 +57,7 @@ export function DataTablesPanel({ hospitals, ambulances, auditLogs, loadingData 
                     <TableCell className="text-[11px] py-1.5 font-medium">{h?.name ?? '--'}</TableCell>
                     <TableCell className="text-[11px] py-1.5 text-muted-foreground">{h?.location ?? '--'}</TableCell>
                     <TableCell className="text-[11px] py-1.5">{h?.available_beds ?? '--'}/{h?.total_beds ?? '--'}</TableCell>
-                    <TableCell className="text-[11px] py-1.5">{h?.icu_available ? <FiCheck className="w-3 h-3 text-accent" /> : <FiX className="w-3 h-3 text-muted-foreground" />}</TableCell>
+                    <TableCell className="text-[11px] py-1.5">{h?.icu_available ? <Check className="w-3 h-3 text-accent" /> : <X className="w-3 h-3 text-muted-foreground" />}</TableCell>
                     <TableCell className="text-[11px] py-1.5"><Badge variant="outline" className="text-[8px] px-1 py-0">{h?.status ?? '--'}</Badge></TableCell>
                   </TableRow>
                 ))}
@@ -165,7 +165,7 @@ export function AdminPanel({ hospitals, ambulances, doctors, incidents, onRefres
 
         <TabsContent value="hospitals" className="flex-1 overflow-hidden m-0 px-4 pb-2">
           <div className="flex justify-end mb-1">
-            <Button size="sm" className="h-6 text-[10px]" onClick={() => setAddHospitalOpen(true)}><FiPlus className="w-3 h-3 mr-1" />Add Hospital</Button>
+            <Button size="sm" className="h-6 text-[10px]" onClick={() => setAddHospitalOpen(true)}><Plus className="w-3 h-3 mr-1" />Add Hospital</Button>
           </div>
           <ScrollArea className="h-[calc(100%-32px)]">
             <Table>
@@ -183,7 +183,7 @@ export function AdminPanel({ hospitals, ambulances, doctors, incidents, onRefres
                     <TableCell className="text-[11px] py-1 text-muted-foreground">{h?.location ?? '--'}</TableCell>
                     <TableCell className="text-[11px] py-1">{h?.available_beds ?? 0}/{h?.total_beds ?? 0}</TableCell>
                     <TableCell className="text-[11px] py-1">{h?.icu_available ? 'Yes' : 'No'}</TableCell>
-                    <TableCell className="text-[11px] py-1"><Button variant="ghost" size="sm" className="h-5 w-5 p-0 text-destructive" onClick={() => h?._id && onDeleteHospital(h._id)}><FiTrash2 className="w-3 h-3" /></Button></TableCell>
+                    <TableCell className="text-[11px] py-1"><Button variant="ghost" size="sm" className="h-5 w-5 p-0 text-destructive" onClick={() => h?._id && onDeleteHospital(h._id)}><Trash2 className="w-3 h-3" /></Button></TableCell>
                   </TableRow>
                 ))}
               </TableBody>
@@ -212,7 +212,7 @@ export function AdminPanel({ hospitals, ambulances, doctors, incidents, onRefres
 
         <TabsContent value="ambulances" className="flex-1 overflow-hidden m-0 px-4 pb-2">
           <div className="flex justify-end mb-1">
-            <Button size="sm" className="h-6 text-[10px]" onClick={() => setAddAmbOpen(true)}><FiPlus className="w-3 h-3 mr-1" />Add Ambulance</Button>
+            <Button size="sm" className="h-6 text-[10px]" onClick={() => setAddAmbOpen(true)}><Plus className="w-3 h-3 mr-1" />Add Ambulance</Button>
           </div>
           <ScrollArea className="h-[calc(100%-32px)]">
             <Table>
@@ -230,7 +230,7 @@ export function AdminPanel({ hospitals, ambulances, doctors, incidents, onRefres
                     <TableCell className="text-[11px] py-1">{a?.crew_name ?? '--'}</TableCell>
                     <TableCell className="text-[11px] py-1">{a?.equipment_level ?? '--'}</TableCell>
                     <TableCell className="text-[11px] py-1">{a?.status ?? '--'}</TableCell>
-                    <TableCell className="text-[11px] py-1"><Button variant="ghost" size="sm" className="h-5 w-5 p-0 text-destructive" onClick={() => a?._id && onDeleteAmbulance(a._id)}><FiTrash2 className="w-3 h-3" /></Button></TableCell>
+                    <TableCell className="text-[11px] py-1"><Button variant="ghost" size="sm" className="h-5 w-5 p-0 text-destructive" onClick={() => a?._id && onDeleteAmbulance(a._id)}><Trash2 className="w-3 h-3" /></Button></TableCell>
                   </TableRow>
                 ))}
               </TableBody>
@@ -256,7 +256,7 @@ export function AdminPanel({ hospitals, ambulances, doctors, incidents, onRefres
 
         <TabsContent value="doctors" className="flex-1 overflow-hidden m-0 px-4 pb-2">
           <div className="flex justify-end mb-1">
-            <Button size="sm" className="h-6 text-[10px]" onClick={() => setAddDocOpen(true)}><FiPlus className="w-3 h-3 mr-1" />Add Doctor</Button>
+            <Button size="sm" className="h-6 text-[10px]" onClick={() => setAddDocOpen(true)}><Plus className="w-3 h-3 mr-1" />Add Doctor</Button>
           </div>
           <ScrollArea className="h-[calc(100%-32px)]">
             <Table>
@@ -272,9 +272,9 @@ export function AdminPanel({ hospitals, ambulances, doctors, incidents, onRefres
                   <TableRow key={d?._id ?? i} className="border-border">
                     <TableCell className="text-[11px] py-1">{d?.name ?? '--'}</TableCell>
                     <TableCell className="text-[11px] py-1">{d?.specialty ?? '--'}</TableCell>
-                    <TableCell className="text-[11px] py-1">{d?.available ? <FiCheck className="w-3 h-3 text-accent" /> : <FiX className="w-3 h-3 text-destructive" />}</TableCell>
+                    <TableCell className="text-[11px] py-1">{d?.available ? <Check className="w-3 h-3 text-accent" /> : <X className="w-3 h-3 text-destructive" />}</TableCell>
                     <TableCell className="text-[11px] py-1">{d?.contact ?? '--'}</TableCell>
-                    <TableCell className="text-[11px] py-1"><Button variant="ghost" size="sm" className="h-5 w-5 p-0 text-destructive" onClick={() => d?._id && onDeleteDoctor(d._id)}><FiTrash2 className="w-3 h-3" /></Button></TableCell>
+                    <TableCell className="text-[11px] py-1"><Button variant="ghost" size="sm" className="h-5 w-5 p-0 text-destructive" onClick={() => d?._id && onDeleteDoctor(d._id)}><Trash2 className="w-3 h-3" /></Button></TableCell>
                   </TableRow>
                 ))}
               </TableBody>
@@ -398,7 +398,7 @@ export function CaseSummaryModal({ open, onClose, result }: CaseSummaryModalProp
                   <span className="text-[10px] text-muted-foreground font-semibold">Consistency Checks</span>
                   {consistencyChecks.map((c: any, i: number) => (
                     <div key={i} className="flex items-start gap-2 py-0.5">
-                      {c?.result === 'pass' ? <FiCheck className="w-3 h-3 text-accent mt-0.5" /> : <FiAlertTriangle className="w-3 h-3 text-amber-500 mt-0.5" />}
+                      {c?.result === 'pass' ? <Check className="w-3 h-3 text-accent mt-0.5" /> : <AlertTriangle className="w-3 h-3 text-amber-500 mt-0.5" />}
                       <div><span className="text-[10px] font-medium text-foreground">{c?.check_name ?? '--'}</span><p className="text-[10px] text-muted-foreground">{c?.details ?? ''}</p></div>
                     </div>
                   ))}
@@ -411,7 +411,7 @@ export function CaseSummaryModal({ open, onClose, result }: CaseSummaryModalProp
                   <div className="grid grid-cols-2 gap-1 mt-1">
                     {completenessChecks.map((c: any, i: number) => (
                       <div key={i} className="flex items-center gap-1 text-[10px]">
-                        {c?.present ? <FiCheck className="w-2.5 h-2.5 text-accent" /> : <FiX className="w-2.5 h-2.5 text-destructive" />}
+                        {c?.present ? <Check className="w-2.5 h-2.5 text-accent" /> : <X className="w-2.5 h-2.5 text-destructive" />}
                         <span className="text-muted-foreground">{c?.field ?? '--'}</span>
                       </div>
                     ))}
@@ -423,7 +423,7 @@ export function CaseSummaryModal({ open, onClose, result }: CaseSummaryModalProp
                 <div>
                   <span className="text-[10px] text-muted-foreground font-semibold">Warnings</span>
                   {warnings.map((w: string, i: number) => (
-                    <div key={i} className="flex items-start gap-1 text-[10px] text-amber-500"><FiAlertTriangle className="w-2.5 h-2.5 mt-0.5 flex-shrink-0" />{w}</div>
+                    <div key={i} className="flex items-start gap-1 text-[10px] text-amber-500"><AlertTriangle className="w-2.5 h-2.5 mt-0.5 flex-shrink-0" />{w}</div>
                   ))}
                 </div>
               )}

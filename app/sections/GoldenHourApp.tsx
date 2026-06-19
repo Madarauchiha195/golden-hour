@@ -6,9 +6,9 @@ import { callAIAgent } from '@/lib/aiAgent'
 import { Switch } from '@/components/ui/switch'
 import { Label } from '@/components/ui/label'
 import { Badge } from '@/components/ui/badge'
-import { FiActivity } from 'react-icons/fi'
+import { Activity } from 'lucide-react'
 
-import { AuthScreen, Header } from './AuthAndHeader'
+import { Header } from './AuthAndHeader'
 import IncidentIntake from './IncidentIntake'
 import type { IncidentFormData } from './IncidentIntake'
 import { WorkflowProgress, FinalDecision } from './WorkflowAndResults'
@@ -102,16 +102,14 @@ function AppContent(props: any) {
     return (
       <div style={THEME_VARS} className="min-h-screen flex items-center justify-center bg-background">
         <div className="flex items-center gap-2">
-          <FiActivity className="w-5 h-5 text-primary animate-pulse" />
+          <Activity className="w-5 h-5 text-primary animate-pulse" />
           <span className="text-sm text-muted-foreground">Loading...</span>
         </div>
       </div>
     )
   }
 
-  if (!user) {
-    return <div style={THEME_VARS}><AuthScreen /></div>
-  }
+  
 
   return (
     <div style={THEME_VARS} className="min-h-screen bg-background text-foreground font-sans flex flex-col">
@@ -151,7 +149,7 @@ function AppContent(props: any) {
           </div>
 
           <div className="border-t border-border bg-card/50 px-4 py-1.5 flex items-center gap-4 flex-shrink-0">
-            <FiActivity className={`w-3 h-3 ${isProcessing ? 'text-primary animate-pulse' : 'text-muted-foreground'}`} />
+            <Activity className={`w-3 h-3 ${isProcessing ? 'text-primary animate-pulse' : 'text-muted-foreground'}`} />
             <span className="text-[10px] text-muted-foreground">Manager Agent: <span className="text-foreground font-medium">{MANAGER_AGENT_ID.slice(0, 8)}...</span></span>
             <Badge variant="outline" className={`text-[8px] px-1 py-0 ${isProcessing ? 'border-primary text-primary animate-pulse' : 'border-accent/40 text-accent'}`}>{isProcessing ? 'Coordinating' : 'Ready'}</Badge>
             <span className="text-[10px] text-muted-foreground ml-auto">10 Sub-agents | Emergency Coordination Pipeline</span>

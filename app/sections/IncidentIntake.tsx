@@ -10,7 +10,7 @@ import { Badge } from '@/components/ui/badge'
 import { ScrollArea } from '@/components/ui/scroll-area'
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select'
 import { Collapsible, CollapsibleContent, CollapsibleTrigger } from '@/components/ui/collapsible'
-import { FiUser, FiMapPin, FiChevronDown, FiAlertTriangle, FiClock, FiFileText } from 'react-icons/fi'
+import { User, MapPin, ChevronDown, AlertTriangle, Clock, FileText } from 'lucide-react'
 
 export interface IncidentFormData {
   patient_name: string
@@ -79,7 +79,7 @@ export default function IncidentIntake({ formData, onFormChange, onSubmit, isPro
     } else {
       onFormChange(EMPTY_DATA)
     }
-  }, [sampleMode])
+  }, [sampleMode, onFormChange])
 
   const updateField = (field: string, value: string) => {
     onFormChange({ ...formData, [field]: value })
@@ -96,7 +96,7 @@ export default function IncidentIntake({ formData, onFormChange, onSubmit, isPro
       <ScrollArea className="flex-1">
         <div className="p-3 space-y-3">
           <div className="flex items-center gap-2 mb-1">
-            <FiAlertTriangle className="w-4 h-4 text-destructive" />
+            <AlertTriangle className="w-4 h-4 text-destructive" />
             <span className="text-xs font-semibold text-foreground uppercase tracking-wider">New Incident</span>
           </div>
 
@@ -131,7 +131,7 @@ export default function IncidentIntake({ formData, onFormChange, onSubmit, isPro
             <div>
               <Label className="text-[11px] text-muted-foreground">Location *</Label>
               <div className="relative">
-                <FiMapPin className="absolute left-2 top-1.5 w-3 h-3 text-muted-foreground" />
+                <MapPin className="absolute left-2 top-1.5 w-3 h-3 text-muted-foreground" />
                 <Input className="h-7 text-xs bg-input border-border pl-6" placeholder="Patient location" value={formData.location} onChange={(e) => updateField('location', e.target.value)} />
               </div>
             </div>
@@ -144,7 +144,7 @@ export default function IncidentIntake({ formData, onFormChange, onSubmit, isPro
           <Collapsible open={vitalsOpen} onOpenChange={setVitalsOpen}>
             <CollapsibleTrigger asChild>
               <Button variant="ghost" size="sm" className="w-full h-7 text-xs text-muted-foreground justify-between">
-                Vitals & History <FiChevronDown className={`w-3 h-3 transition-transform ${vitalsOpen ? 'rotate-180' : ''}`} />
+                Vitals & History <ChevronDown className={`w-3 h-3 transition-transform ${vitalsOpen ? 'rotate-180' : ''}`} />
               </Button>
             </CollapsibleTrigger>
             <CollapsibleContent className="space-y-2 pt-2">
@@ -195,9 +195,9 @@ export default function IncidentIntake({ formData, onFormChange, onSubmit, isPro
 
           <Button onClick={onSubmit} disabled={isProcessing || !formData.patient_name || !formData.symptoms || !formData.location} className="w-full h-9 text-xs font-semibold bg-destructive hover:bg-destructive/90 text-destructive-foreground">
             {isProcessing ? (
-              <><FiClock className="w-3 h-3 mr-1 animate-spin" /> Coordinating...</>
+              <><Clock className="w-3 h-3 mr-1 animate-spin" /> Coordinating...</>
             ) : (
-              <><FiAlertTriangle className="w-3 h-3 mr-1" /> Launch Emergency Coordination</>
+              <><AlertTriangle className="w-3 h-3 mr-1" /> Launch Emergency Coordination</>
             )}
           </Button>
 
