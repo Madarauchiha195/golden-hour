@@ -121,7 +121,17 @@ export async function callAIAgent(
           }
     }
 
-    const { task_id, user_id, session_id } = submitData
+    const { task_id, user_id, session_id, status } = submitData
+
+    // If the server completed it synchronously, skip polling
+    if (status === 'completed') {
+      return {
+        ...submitData,
+        agent_id,
+        user_id,
+        session_id,
+      }
+    }
 
     // 2. Poll POST /api/agent with { task_id } — adaptive backoff from CSR
     const startTime = Date.now()
