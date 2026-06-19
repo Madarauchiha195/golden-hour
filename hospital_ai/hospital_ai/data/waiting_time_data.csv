@@ -1,0 +1,5001 @@
+department,time_of_day,day_of_week,number_of_patients,doctor_count,emergency_cases,waiting_time_minutes
+Orthopedics,11,Monday,19,3,19,326
+Pediatrics,14,Sunday,11,8,9,155
+Neurology,7,Sunday,82,1,16,600
+Pediatrics,3,Friday,54,5,12,300
+Pediatrics,14,Monday,69,1,16,589
+Cardiology,19,Tuesday,71,7,17,315
+Neurology,16,Thursday,48,5,12,240
+Neurology,12,Tuesday,35,2,16,345
+Neurology,17,Saturday,47,1,14,456
+Pediatrics,1,Sunday,81,7,11,275
+Orthopedics,12,Wednesday,52,1,9,407
+Neurology,12,Wednesday,86,3,12,342
+General Medicine,21,Sunday,85,6,10,229
+Pediatrics,14,Saturday,85,6,2,107
+Cardiology,19,Wednesday,65,7,9,191
+Orthopedics,9,Sunday,79,1,10,551
+General Medicine,2,Wednesday,88,7,5,182
+General Medicine,18,Sunday,14,2,0,41
+Cardiology,2,Friday,33,6,5,142
+Orthopedics,21,Thursday,52,8,4,104
+Pediatrics,13,Thursday,85,5,6,188
+Emergency,7,Tuesday,66,3,11,288
+Orthopedics,22,Saturday,17,8,11,227
+Cardiology,3,Sunday,48,8,6,154
+General Medicine,19,Monday,51,4,1,83
+Pediatrics,10,Tuesday,68,8,0,50
+Orthopedics,10,Tuesday,95,5,17,364
+Emergency,10,Sunday,57,5,11,223
+Emergency,1,Sunday,94,3,6,296
+Neurology,16,Tuesday,96,7,18,349
+Neurology,8,Tuesday,81,9,2,89
+Cardiology,1,Thursday,80,9,9,233
+Orthopedics,23,Monday,48,1,10,474
+Orthopedics,14,Tuesday,32,1,4,224
+General Medicine,15,Thursday,6,5,1,27
+General Medicine,3,Tuesday,61,1,7,501
+General Medicine,7,Wednesday,61,4,13,279
+Neurology,8,Tuesday,38,1,7,305
+Orthopedics,4,Sunday,91,2,5,383
+Orthopedics,15,Saturday,62,2,0,164
+Emergency,12,Saturday,56,4,0,84
+Neurology,6,Tuesday,33,8,7,138
+Pediatrics,19,Friday,39,2,10,253
+Neurology,16,Wednesday,79,9,17,312
+Pediatrics,2,Monday,52,9,9,212
+Emergency,4,Tuesday,37,2,11,320
+Cardiology,18,Monday,79,1,19,600
+Orthopedics,11,Wednesday,77,9,15,277
+Emergency,6,Tuesday,82,2,4,269
+Orthopedics,8,Friday,13,8,15,254
+General Medicine,5,Thursday,52,3,11,320
+Cardiology,16,Friday,71,1,5,442
+Cardiology,15,Sunday,97,1,4,552
+Emergency,22,Friday,87,2,0,272
+Cardiology,2,Thursday,40,7,18,363
+Pediatrics,20,Sunday,75,6,9,209
+Cardiology,3,Thursday,96,2,13,536
+Orthopedics,9,Saturday,48,4,2,98
+Orthopedics,4,Thursday,86,2,5,360
+Orthopedics,20,Tuesday,64,1,4,388
+Orthopedics,21,Monday,67,3,16,359
+Pediatrics,9,Saturday,9,4,17,272
+Neurology,11,Saturday,91,5,11,260
+General Medicine,9,Monday,90,5,4,156
+Emergency,12,Saturday,94,7,8,194
+Orthopedics,10,Thursday,80,8,11,230
+Cardiology,21,Friday,44,9,19,316
+Orthopedics,15,Wednesday,23,7,8,136
+Cardiology,7,Thursday,51,5,2,92
+General Medicine,7,Sunday,69,9,0,51
+General Medicine,7,Sunday,71,8,14,269
+General Medicine,12,Friday,95,9,9,198
+Cardiology,1,Friday,22,8,13,255
+Orthopedics,11,Saturday,54,6,6,141
+General Medicine,9,Tuesday,34,4,3,100
+Pediatrics,11,Tuesday,70,9,4,116
+Cardiology,10,Saturday,9,9,19,294
+Cardiology,14,Saturday,97,9,15,289
+Orthopedics,15,Monday,46,3,2,113
+Cardiology,16,Monday,88,3,16,392
+Cardiology,1,Wednesday,98,6,12,326
+General Medicine,17,Wednesday,9,6,5,91
+Orthopedics,11,Wednesday,54,6,4,104
+General Medicine,18,Wednesday,89,5,15,325
+General Medicine,22,Friday,62,5,10,268
+Orthopedics,17,Friday,83,2,16,461
+Emergency,16,Monday,88,7,4,129
+General Medicine,5,Tuesday,12,4,5,110
+Pediatrics,14,Saturday,35,3,9,201
+Pediatrics,2,Sunday,16,8,0,28
+Cardiology,5,Tuesday,25,4,9,211
+Pediatrics,2,Thursday,98,4,16,452
+Cardiology,0,Friday,66,8,2,89
+Emergency,12,Wednesday,95,1,1,504
+Orthopedics,20,Wednesday,94,9,16,303
+Orthopedics,13,Thursday,37,7,3,79
+Orthopedics,12,Tuesday,30,2,1,105
+Pediatrics,3,Wednesday,94,6,4,179
+Emergency,6,Tuesday,44,8,9,167
+Pediatrics,21,Saturday,69,5,0,83
+Pediatrics,9,Thursday,63,6,0,61
+Emergency,6,Sunday,19,8,3,67
+Emergency,20,Tuesday,5,6,6,99
+Emergency,14,Saturday,15,9,13,213
+Emergency,14,Tuesday,59,9,13,233
+Orthopedics,3,Tuesday,6,9,17,320
+Neurology,22,Wednesday,69,6,1,99
+Neurology,22,Monday,99,9,0,81
+Emergency,5,Friday,48,3,15,369
+Neurology,23,Tuesday,20,5,17,348
+Neurology,19,Tuesday,26,2,15,305
+Emergency,4,Tuesday,22,8,5,117
+Neurology,19,Monday,51,4,9,209
+Pediatrics,11,Saturday,85,6,1,97
+Cardiology,0,Sunday,34,6,6,154
+Cardiology,7,Sunday,14,5,16,267
+Emergency,0,Thursday,62,1,2,417
+Orthopedics,4,Wednesday,66,7,19,406
+Emergency,21,Monday,89,8,11,232
+Orthopedics,5,Saturday,84,1,1,524
+Cardiology,20,Tuesday,10,7,6,110
+Emergency,2,Saturday,71,4,16,410
+General Medicine,14,Monday,45,6,18,313
+Pediatrics,4,Monday,47,9,11,249
+Neurology,23,Monday,89,5,8,260
+Orthopedics,13,Thursday,81,8,13,253
+General Medicine,17,Friday,22,5,1,43
+Neurology,15,Wednesday,62,2,3,212
+Neurology,5,Thursday,64,4,18,429
+Emergency,23,Thursday,92,2,15,549
+Neurology,13,Friday,31,7,16,273
+Pediatrics,23,Thursday,72,7,1,89
+General Medicine,7,Monday,26,3,16,298
+Neurology,6,Monday,28,7,18,301
+Emergency,7,Saturday,44,1,7,336
+Pediatrics,12,Tuesday,78,1,19,600
+Cardiology,5,Thursday,70,9,5,149
+General Medicine,17,Tuesday,44,6,11,215
+Neurology,1,Wednesday,10,5,17,326
+Emergency,7,Sunday,22,6,1,51
+Cardiology,10,Monday,85,6,18,352
+Cardiology,0,Saturday,91,1,9,600
+Orthopedics,21,Wednesday,34,5,2,74
+Pediatrics,5,Saturday,25,9,11,227
+Neurology,15,Sunday,66,4,15,318
+Emergency,19,Sunday,14,3,11,186
+Orthopedics,11,Friday,17,1,7,197
+Pediatrics,10,Monday,80,2,4,263
+Orthopedics,9,Wednesday,13,3,10,174
+General Medicine,2,Friday,72,4,9,282
+Pediatrics,12,Sunday,43,7,2,67
+Pediatrics,2,Wednesday,28,6,8,181
+Neurology,14,Saturday,38,8,11,194
+Pediatrics,15,Friday,65,9,5,128
+Orthopedics,12,Friday,45,6,18,317
+Pediatrics,16,Monday,9,7,15,233
+Neurology,2,Tuesday,83,4,13,374
+Neurology,19,Saturday,54,2,3,188
+General Medicine,10,Saturday,8,9,17,275
+Orthopedics,20,Friday,55,9,9,175
+Cardiology,18,Friday,56,4,17,331
+Cardiology,21,Monday,43,3,11,243
+Pediatrics,10,Tuesday,12,6,18,287
+General Medicine,15,Saturday,49,3,7,199
+Emergency,20,Sunday,92,1,0,466
+Pediatrics,2,Thursday,32,4,13,301
+General Medicine,21,Thursday,31,1,5,241
+Orthopedics,5,Tuesday,69,2,13,454
+Orthopedics,13,Wednesday,38,3,1,88
+Orthopedics,23,Monday,85,8,8,219
+Orthopedics,17,Tuesday,66,4,11,251
+Orthopedics,16,Thursday,66,4,4,153
+General Medicine,3,Friday,42,9,1,69
+General Medicine,22,Thursday,30,7,18,365
+Neurology,14,Friday,28,2,6,172
+Cardiology,10,Monday,43,3,6,163
+Orthopedics,2,Friday,25,4,9,218
+Emergency,2,Tuesday,98,4,16,451
+General Medicine,15,Friday,51,8,13,242
+Emergency,4,Wednesday,52,6,10,238
+Emergency,20,Tuesday,17,3,19,321
+Emergency,9,Monday,7,9,5,81
+Neurology,18,Tuesday,36,8,7,129
+General Medicine,3,Wednesday,39,9,18,358
+Emergency,18,Monday,23,5,18,305
+Orthopedics,10,Thursday,18,3,16,277
+Pediatrics,1,Wednesday,52,4,17,391
+Emergency,9,Monday,90,5,11,266
+Neurology,10,Sunday,85,9,8,161
+General Medicine,19,Friday,72,9,15,272
+Neurology,15,Tuesday,49,3,17,348
+Emergency,18,Monday,23,7,15,249
+General Medicine,22,Tuesday,68,6,15,357
+Pediatrics,23,Friday,70,4,3,167
+Emergency,10,Monday,83,5,6,180
+Neurology,13,Thursday,70,2,0,180
+Cardiology,1,Sunday,79,7,19,417
+Orthopedics,22,Sunday,49,4,0,87
+Neurology,4,Wednesday,91,2,7,415
+General Medicine,4,Monday,78,6,7,228
+Emergency,18,Friday,71,2,9,325
+Orthopedics,20,Monday,73,2,0,186
+Emergency,11,Tuesday,7,7,13,216
+General Medicine,17,Saturday,42,1,13,417
+Emergency,3,Monday,81,7,9,243
+Cardiology,21,Sunday,46,5,18,331
+Orthopedics,16,Sunday,87,1,15,600
+Orthopedics,9,Sunday,44,6,8,165
+General Medicine,19,Thursday,54,7,19,329
+Cardiology,5,Monday,39,1,15,523
+Neurology,13,Wednesday,28,9,19,323
+Emergency,10,Monday,92,7,7,181
+Pediatrics,10,Saturday,21,1,6,205
+Emergency,17,Sunday,44,3,10,234
+Emergency,22,Tuesday,78,5,5,198
+Neurology,21,Sunday,70,4,14,300
+Emergency,17,Monday,48,2,18,401
+Cardiology,23,Thursday,27,1,13,409
+Cardiology,22,Friday,10,4,14,280
+Orthopedics,10,Monday,70,7,5,135
+General Medicine,20,Monday,25,4,9,176
+Pediatrics,11,Wednesday,39,9,13,216
+Emergency,4,Thursday,33,8,15,302
+Emergency,22,Saturday,11,8,12,241
+Neurology,8,Friday,97,5,10,262
+General Medicine,8,Sunday,57,1,2,322
+Cardiology,21,Tuesday,41,9,7,132
+Pediatrics,9,Monday,27,2,2,111
+Orthopedics,21,Saturday,12,6,1,36
+Cardiology,18,Friday,80,5,13,284
+General Medicine,0,Tuesday,52,8,19,398
+Orthopedics,6,Saturday,14,3,14,237
+Neurology,3,Thursday,83,6,2,137
+Neurology,0,Thursday,28,6,0,30
+Emergency,14,Friday,94,3,14,372
+General Medicine,7,Sunday,51,7,19,326
+Pediatrics,11,Tuesday,57,4,1,93
+Orthopedics,21,Thursday,43,5,17,309
+Cardiology,21,Friday,71,9,0,52
+General Medicine,17,Thursday,70,6,8,187
+General Medicine,14,Thursday,10,4,2,46
+Neurology,16,Saturday,25,8,1,30
+Emergency,13,Saturday,77,9,3,102
+Emergency,13,Thursday,78,5,15,316
+Orthopedics,17,Wednesday,40,2,0,115
+Neurology,19,Saturday,7,6,8,135
+General Medicine,17,Tuesday,92,8,7,175
+Pediatrics,15,Friday,90,5,5,171
+Neurology,0,Friday,82,1,19,600
+Orthopedics,22,Sunday,46,8,17,349
+Orthopedics,10,Tuesday,49,9,15,258
+Neurology,14,Tuesday,48,1,7,356
+Orthopedics,11,Tuesday,95,8,3,115
+Neurology,7,Sunday,37,2,2,137
+Cardiology,21,Tuesday,64,4,14,293
+Neurology,19,Monday,90,2,5,314
+Neurology,5,Sunday,97,2,0,303
+Orthopedics,2,Friday,87,3,17,498
+Orthopedics,23,Monday,87,8,10,263
+Emergency,12,Sunday,74,4,2,120
+Emergency,12,Thursday,87,7,12,257
+Cardiology,1,Thursday,81,3,16,468
+Emergency,4,Friday,30,3,17,370
+Neurology,16,Thursday,90,2,13,422
+Orthopedics,5,Tuesday,25,6,6,149
+Emergency,1,Sunday,6,6,6,126
+Emergency,3,Monday,51,1,13,548
+Cardiology,21,Tuesday,34,7,14,251
+General Medicine,10,Thursday,31,4,11,215
+Cardiology,7,Saturday,75,3,11,289
+Neurology,11,Monday,24,8,7,124
+Orthopedics,7,Tuesday,54,2,15,375
+Cardiology,10,Sunday,99,9,8,185
+Emergency,21,Friday,27,8,1,38
+Orthopedics,19,Tuesday,17,8,13,217
+Orthopedics,7,Saturday,85,3,15,373
+Emergency,7,Thursday,8,4,4,73
+Cardiology,16,Monday,18,2,4,120
+Emergency,19,Friday,24,2,19,360
+General Medicine,19,Monday,17,4,17,288
+Orthopedics,22,Friday,7,6,17,315
+Pediatrics,15,Sunday,94,5,4,173
+Pediatrics,13,Monday,94,1,10,600
+Neurology,10,Thursday,86,1,12,600
+Emergency,6,Sunday,82,6,2,109
+Emergency,15,Sunday,51,3,16,335
+Neurology,12,Friday,7,3,17,278
+Neurology,14,Wednesday,5,7,13,202
+Neurology,23,Monday,94,1,11,600
+Orthopedics,15,Monday,28,1,13,342
+General Medicine,20,Tuesday,39,3,17,333
+Emergency,22,Friday,18,8,19,368
+Orthopedics,23,Saturday,71,1,1,450
+Neurology,8,Wednesday,17,4,6,113
+Emergency,2,Thursday,51,9,14,300
+Orthopedics,18,Tuesday,54,4,9,207
+General Medicine,19,Wednesday,82,8,14,264
+Orthopedics,4,Friday,89,7,16,388
+General Medicine,9,Wednesday,30,3,10,221
+Neurology,16,Sunday,7,7,1,27
+General Medicine,14,Monday,55,7,17,295
+Emergency,22,Sunday,44,3,3,161
+Neurology,7,Monday,72,2,8,311
+Emergency,14,Tuesday,40,9,16,276
+Pediatrics,20,Friday,55,1,16,521
+Cardiology,13,Friday,5,7,16,248
+General Medicine,19,Wednesday,37,4,15,280
+Cardiology,6,Tuesday,11,2,19,323
+Cardiology,20,Friday,56,2,7,251
+General Medicine,22,Saturday,15,8,14,283
+Neurology,11,Saturday,31,7,0,23
+Pediatrics,16,Sunday,18,7,18,294
+Emergency,16,Monday,90,5,14,310
+Orthopedics,9,Wednesday,84,8,8,188
+Emergency,18,Thursday,50,2,4,190
+Orthopedics,13,Monday,80,2,15,438
+Emergency,10,Tuesday,14,5,12,206
+General Medicine,1,Friday,28,1,15,451
+Pediatrics,17,Monday,65,6,10,209
+Orthopedics,6,Thursday,22,4,12,213
+Neurology,11,Thursday,90,6,5,158
+Emergency,1,Saturday,13,7,19,362
+Emergency,19,Tuesday,21,3,16,291
+Orthopedics,17,Monday,62,8,4,109
+Neurology,5,Wednesday,17,7,16,319
+Neurology,23,Monday,54,1,0,327
+General Medicine,9,Saturday,10,6,4,69
+General Medicine,19,Sunday,89,7,4,132
+General Medicine,14,Thursday,55,4,6,162
+General Medicine,4,Tuesday,40,2,15,402
+General Medicine,19,Tuesday,75,9,17,302
+General Medicine,2,Wednesday,29,7,5,128
+Pediatrics,4,Tuesday,15,1,1,115
+Neurology,7,Saturday,48,8,12,222
+General Medicine,7,Saturday,18,3,9,170
+Neurology,7,Saturday,33,4,19,326
+Neurology,11,Tuesday,78,5,10,242
+Cardiology,23,Tuesday,54,1,1,349
+Pediatrics,22,Saturday,9,6,7,155
+General Medicine,7,Tuesday,76,6,18,340
+Emergency,10,Tuesday,73,2,19,473
+Orthopedics,13,Thursday,92,6,16,325
+Emergency,7,Monday,61,8,15,270
+Pediatrics,23,Friday,30,6,9,204
+Orthopedics,9,Tuesday,10,4,4,84
+Pediatrics,6,Friday,20,4,13,232
+Neurology,16,Sunday,64,9,18,315
+Orthopedics,3,Friday,16,6,3,72
+Neurology,12,Thursday,79,8,19,352
+Emergency,3,Tuesday,7,8,15,285
+Emergency,4,Saturday,67,7,14,318
+Orthopedics,21,Friday,68,3,8,242
+Orthopedics,3,Tuesday,66,1,2,442
+General Medicine,17,Wednesday,10,5,8,131
+Pediatrics,5,Sunday,23,2,17,390
+General Medicine,23,Saturday,22,2,3,127
+Pediatrics,23,Wednesday,84,7,18,406
+General Medicine,22,Wednesday,91,3,3,258
+Neurology,21,Friday,47,8,8,164
+Orthopedics,1,Wednesday,77,9,0,73
+Emergency,22,Thursday,7,8,0,13
+Pediatrics,10,Thursday,76,6,19,361
+Pediatrics,13,Friday,42,5,18,324
+Emergency,4,Tuesday,72,3,2,191
+General Medicine,5,Monday,80,3,9,329
+Pediatrics,9,Tuesday,48,7,11,214
+Neurology,7,Tuesday,99,5,17,361
+Orthopedics,13,Tuesday,93,6,13,283
+Emergency,23,Tuesday,84,6,9,263
+Orthopedics,2,Saturday,67,9,9,212
+Pediatrics,11,Monday,46,1,17,489
+Pediatrics,15,Saturday,68,8,0,65
+Emergency,22,Wednesday,58,5,14,328
+Neurology,16,Sunday,82,6,7,191
+Cardiology,0,Tuesday,81,6,2,128
+Emergency,22,Sunday,75,1,17,600
+Cardiology,9,Thursday,80,3,8,261
+General Medicine,22,Friday,41,6,15,322
+Cardiology,9,Friday,8,9,14,231
+Neurology,20,Saturday,6,6,4,78
+General Medicine,23,Saturday,48,6,12,274
+Cardiology,1,Thursday,71,1,19,600
+General Medicine,8,Tuesday,72,9,6,140
+Cardiology,21,Sunday,80,4,15,335
+Neurology,12,Sunday,87,2,6,323
+Cardiology,15,Monday,78,1,15,600
+Cardiology,17,Wednesday,66,3,12,297
+Cardiology,18,Friday,5,3,16,255
+Emergency,11,Wednesday,21,5,8,150
+Emergency,7,Monday,20,1,11,275
+Emergency,16,Saturday,13,7,12,201
+Neurology,14,Sunday,57,1,8,405
+General Medicine,9,Friday,77,4,4,167
+Pediatrics,14,Wednesday,63,6,6,153
+Cardiology,14,Saturday,13,1,0,75
+Cardiology,22,Monday,16,7,3,78
+Neurology,6,Wednesday,45,7,3,70
+Cardiology,12,Sunday,19,3,15,269
+Emergency,16,Tuesday,70,4,4,152
+Pediatrics,8,Saturday,79,6,3,123
+Orthopedics,7,Monday,15,7,5,101
+Cardiology,19,Wednesday,12,4,2,46
+Emergency,20,Sunday,59,9,7,150
+Orthopedics,17,Tuesday,10,9,16,249
+Pediatrics,12,Tuesday,57,9,17,296
+Orthopedics,15,Monday,24,6,17,284
+Emergency,8,Thursday,43,2,11,286
+General Medicine,11,Sunday,76,2,0,203
+General Medicine,11,Sunday,38,4,11,223
+Orthopedics,5,Friday,61,9,10,222
+Neurology,18,Monday,23,3,12,215
+Orthopedics,6,Tuesday,75,6,2,107
+Cardiology,2,Tuesday,35,2,7,247
+Cardiology,15,Monday,86,1,2,465
+General Medicine,17,Thursday,44,5,16,295
+Neurology,15,Friday,18,8,12,200
+Emergency,22,Wednesday,85,2,9,435
+Cardiology,6,Monday,41,9,16,273
+General Medicine,3,Friday,48,8,2,89
+Pediatrics,7,Sunday,13,3,12,208
+General Medicine,12,Friday,62,1,5,396
+Cardiology,12,Saturday,24,4,13,232
+Cardiology,16,Tuesday,96,8,9,201
+General Medicine,16,Wednesday,54,3,19,373
+Emergency,4,Monday,24,2,15,359
+Orthopedics,5,Tuesday,40,7,17,362
+Cardiology,18,Saturday,31,4,12,221
+General Medicine,12,Saturday,76,6,9,211
+General Medicine,13,Tuesday,36,5,5,124
+Neurology,21,Thursday,5,2,9,154
+Orthopedics,3,Friday,21,2,4,142
+Pediatrics,6,Monday,13,9,5,98
+Emergency,7,Monday,88,2,6,325
+Pediatrics,12,Monday,49,8,10,192
+Orthopedics,5,Tuesday,70,8,15,331
+Orthopedics,5,Sunday,36,1,11,432
+Orthopedics,23,Thursday,49,1,11,498
+Pediatrics,20,Wednesday,13,4,19,318
+Orthopedics,2,Saturday,34,2,4,195
+General Medicine,2,Tuesday,88,1,15,600
+Pediatrics,12,Sunday,42,9,5,110
+Orthopedics,21,Wednesday,64,3,8,223
+General Medicine,1,Saturday,5,1,4,112
+Neurology,15,Saturday,9,2,15,266
+Orthopedics,21,Thursday,67,8,17,311
+Pediatrics,5,Friday,40,5,18,386
+Cardiology,7,Monday,69,7,11,220
+Orthopedics,22,Wednesday,82,6,1,118
+Cardiology,7,Tuesday,77,1,9,522
+General Medicine,5,Wednesday,98,6,11,306
+Neurology,13,Friday,28,7,13,233
+Emergency,2,Monday,8,4,17,325
+Neurology,9,Wednesday,82,8,18,334
+Orthopedics,2,Friday,93,8,5,161
+Cardiology,11,Tuesday,72,7,4,118
+Cardiology,16,Thursday,29,2,15,308
+Pediatrics,4,Sunday,78,6,13,326
+Cardiology,19,Saturday,11,6,12,209
+Pediatrics,8,Tuesday,17,7,1,34
+General Medicine,20,Monday,72,6,1,87
+Emergency,19,Saturday,47,2,11,295
+Orthopedics,6,Sunday,61,8,0,45
+Pediatrics,21,Tuesday,40,4,18,334
+Emergency,3,Tuesday,18,9,15,298
+Cardiology,12,Tuesday,86,8,6,152
+Cardiology,12,Tuesday,76,3,6,227
+Emergency,9,Saturday,31,3,15,281
+Cardiology,17,Monday,41,8,5,106
+General Medicine,16,Sunday,91,2,17,492
+General Medicine,19,Friday,75,9,0,55
+Emergency,19,Wednesday,80,4,0,108
+Pediatrics,12,Thursday,29,6,13,226
+Pediatrics,16,Sunday,71,3,5,202
+Emergency,21,Wednesday,94,3,5,245
+Pediatrics,3,Wednesday,8,3,3,73
+Pediatrics,0,Thursday,83,2,11,464
+General Medicine,0,Sunday,97,8,17,393
+Pediatrics,14,Saturday,78,9,9,181
+Neurology,12,Monday,89,8,2,94
+Orthopedics,16,Thursday,20,3,2,76
+Cardiology,23,Monday,23,7,7,146
+Neurology,7,Saturday,33,2,0,87
+Pediatrics,17,Wednesday,55,4,17,326
+General Medicine,12,Monday,22,6,14,235
+Emergency,22,Saturday,62,5,19,434
+Pediatrics,13,Saturday,48,9,16,280
+General Medicine,7,Friday,20,4,10,182
+Orthopedics,7,Thursday,69,5,12,264
+Pediatrics,14,Friday,6,4,19,305
+Emergency,12,Wednesday,60,8,9,188
+General Medicine,6,Thursday,83,8,12,241
+General Medicine,4,Wednesday,32,3,16,367
+General Medicine,16,Friday,69,1,0,371
+Orthopedics,15,Sunday,9,6,19,300
+Pediatrics,22,Saturday,26,2,15,359
+Orthopedics,1,Wednesday,17,2,15,332
+Cardiology,21,Thursday,69,3,2,154
+Cardiology,17,Thursday,20,8,1,40
+Pediatrics,16,Wednesday,90,3,5,235
+Orthopedics,6,Thursday,68,7,10,201
+Emergency,12,Saturday,36,9,2,60
+General Medicine,17,Sunday,84,8,0,59
+General Medicine,13,Saturday,55,1,10,426
+Pediatrics,17,Thursday,83,7,12,255
+Cardiology,12,Wednesday,62,7,4,111
+Cardiology,10,Friday,50,8,17,298
+General Medicine,20,Thursday,56,5,14,260
+Pediatrics,20,Thursday,67,9,17,304
+Orthopedics,15,Thursday,80,9,14,262
+Cardiology,22,Thursday,64,8,19,392
+Orthopedics,16,Wednesday,69,6,19,349
+Cardiology,7,Friday,85,6,19,362
+Cardiology,18,Friday,59,1,6,398
+Neurology,19,Monday,61,6,16,301
+Cardiology,14,Thursday,96,4,7,227
+Emergency,8,Thursday,75,4,12,285
+Pediatrics,19,Monday,77,2,15,417
+Pediatrics,9,Friday,90,4,9,251
+Orthopedics,11,Tuesday,30,5,13,235
+Cardiology,20,Saturday,16,5,5,97
+Emergency,22,Tuesday,75,5,19,451
+Orthopedics,19,Friday,50,4,6,163
+Neurology,0,Sunday,51,1,5,411
+Orthopedics,19,Thursday,83,8,16,305
+Orthopedics,8,Tuesday,42,3,7,182
+Cardiology,21,Wednesday,25,2,11,232
+Neurology,14,Wednesday,18,9,3,64
+Orthopedics,0,Monday,6,7,9,184
+Emergency,11,Friday,76,9,5,126
+Emergency,2,Friday,74,2,6,345
+Pediatrics,10,Tuesday,37,9,7,135
+Neurology,1,Thursday,10,9,2,45
+Neurology,15,Friday,94,9,7,159
+Pediatrics,8,Tuesday,41,4,14,279
+Orthopedics,14,Tuesday,18,3,0,34
+Neurology,11,Saturday,41,6,12,220
+Emergency,0,Saturday,12,3,17,347
+Emergency,12,Friday,81,9,14,259
+Cardiology,13,Tuesday,17,3,6,124
+Neurology,7,Monday,44,2,14,328
+Orthopedics,7,Monday,96,8,2,98
+Pediatrics,11,Saturday,62,6,13,251
+Pediatrics,0,Friday,22,8,19,369
+Orthopedics,10,Thursday,61,7,3,101
+General Medicine,7,Sunday,87,3,3,199
+Cardiology,9,Monday,42,8,2,62
+Pediatrics,18,Monday,36,1,4,254
+Neurology,10,Saturday,90,1,10,600
+Cardiology,6,Saturday,70,8,7,163
+Neurology,10,Friday,81,9,1,64
+Emergency,16,Saturday,91,6,15,305
+Cardiology,0,Wednesday,29,5,9,211
+Pediatrics,20,Sunday,96,2,17,505
+Cardiology,20,Tuesday,62,9,6,128
+Cardiology,7,Monday,79,6,4,137
+Cardiology,22,Wednesday,37,8,6,148
+General Medicine,23,Thursday,92,9,5,172
+Cardiology,5,Wednesday,70,9,0,56
+Neurology,21,Friday,34,8,10,188
+Emergency,17,Thursday,85,8,12,250
+Orthopedics,5,Thursday,38,3,11,281
+Cardiology,4,Saturday,90,3,0,194
+Pediatrics,12,Wednesday,73,2,14,401
+Cardiology,18,Friday,52,1,0,268
+Pediatrics,21,Monday,44,4,2,96
+Neurology,7,Sunday,55,2,14,353
+Pediatrics,8,Saturday,84,2,8,332
+Orthopedics,16,Wednesday,17,5,13,219
+Emergency,2,Monday,94,4,7,286
+Pediatrics,18,Wednesday,35,1,3,228
+Pediatrics,10,Saturday,43,9,19,318
+Emergency,23,Monday,67,4,19,459
+Orthopedics,16,Saturday,52,5,5,129
+Cardiology,20,Wednesday,91,7,0,77
+Pediatrics,18,Thursday,52,2,17,403
+Emergency,1,Sunday,65,8,5,151
+Neurology,7,Tuesday,16,2,13,235
+Emergency,18,Sunday,82,5,10,241
+Neurology,6,Thursday,60,2,16,403
+Orthopedics,16,Saturday,22,2,8,185
+Cardiology,5,Sunday,31,4,6,168
+Emergency,18,Saturday,32,4,13,246
+General Medicine,23,Saturday,86,8,16,358
+Pediatrics,5,Monday,84,6,7,217
+Orthopedics,1,Friday,56,8,15,321
+Emergency,5,Saturday,20,7,11,229
+Pediatrics,22,Sunday,81,4,11,324
+Emergency,4,Sunday,62,2,4,282
+Neurology,18,Sunday,97,9,4,111
+Emergency,19,Thursday,13,2,13,228
+General Medicine,3,Tuesday,30,1,5,285
+Emergency,21,Saturday,32,8,6,122
+Emergency,16,Saturday,81,9,16,294
+General Medicine,10,Saturday,40,1,8,333
+Orthopedics,3,Monday,13,7,12,242
+Emergency,12,Saturday,51,2,8,257
+General Medicine,19,Thursday,82,6,15,304
+Pediatrics,16,Wednesday,55,5,3,94
+Neurology,8,Friday,80,1,1,424
+Neurology,3,Sunday,61,2,12,410
+Emergency,22,Saturday,36,2,12,347
+Orthopedics,13,Monday,71,6,18,335
+Orthopedics,18,Thursday,61,1,11,479
+Pediatrics,2,Saturday,58,4,3,161
+Emergency,13,Monday,20,5,9,167
+Neurology,7,Wednesday,66,2,15,400
+Orthopedics,23,Tuesday,88,2,18,600
+Emergency,0,Saturday,60,7,7,184
+Orthopedics,9,Thursday,27,7,5,112
+General Medicine,17,Monday,21,6,3,75
+Orthopedics,15,Monday,84,1,6,511
+Neurology,7,Saturday,42,3,13,271
+Cardiology,0,Monday,76,9,12,265
+Pediatrics,11,Tuesday,87,1,4,508
+Pediatrics,7,Monday,34,2,8,217
+Neurology,23,Sunday,62,8,2,91
+Orthopedics,15,Friday,82,7,9,209
+Emergency,17,Sunday,26,9,14,234
+Orthopedics,3,Friday,21,4,19,401
+Neurology,5,Monday,19,4,16,321
+Pediatrics,11,Saturday,52,7,5,125
+Orthopedics,8,Friday,36,1,2,218
+Pediatrics,14,Thursday,81,9,17,306
+Emergency,15,Friday,89,2,4,291
+Pediatrics,23,Sunday,44,1,12,494
+Pediatrics,11,Monday,61,7,0,53
+Cardiology,23,Saturday,62,6,16,366
+Cardiology,22,Wednesday,95,3,2,241
+General Medicine,13,Saturday,20,1,18,387
+Cardiology,12,Saturday,32,5,19,320
+Pediatrics,1,Saturday,5,4,11,208
+Neurology,2,Thursday,45,5,7,191
+Pediatrics,23,Tuesday,52,1,7,445
+Neurology,21,Sunday,35,1,14,399
+Neurology,9,Monday,40,5,10,194
+Cardiology,8,Tuesday,37,6,19,323
+Orthopedics,19,Wednesday,37,5,0,45
+Emergency,7,Tuesday,86,2,15,458
+Cardiology,9,Monday,27,9,13,230
+Cardiology,18,Sunday,64,5,6,158
+Orthopedics,2,Sunday,91,5,5,198
+Emergency,23,Monday,83,9,3,117
+Pediatrics,4,Wednesday,94,3,7,325
+General Medicine,2,Monday,34,5,18,376
+General Medicine,15,Wednesday,93,5,2,132
+Pediatrics,16,Wednesday,49,2,3,181
+Cardiology,14,Monday,84,4,12,292
+Emergency,2,Friday,43,2,1,160
+Cardiology,11,Sunday,49,5,10,212
+Neurology,8,Wednesday,82,2,15,441
+Cardiology,20,Monday,85,9,9,195
+Cardiology,11,Friday,16,6,14,224
+Pediatrics,14,Sunday,97,8,9,206
+Pediatrics,1,Wednesday,36,9,1,55
+Pediatrics,22,Sunday,60,8,5,146
+General Medicine,17,Friday,28,5,13,230
+Neurology,19,Sunday,17,5,1,44
+Pediatrics,11,Thursday,24,6,9,165
+Emergency,22,Saturday,83,1,16,600
+General Medicine,3,Thursday,60,8,7,181
+Orthopedics,22,Friday,57,2,15,451
+Emergency,15,Wednesday,72,6,13,261
+Emergency,22,Monday,58,9,9,209
+Pediatrics,15,Tuesday,38,3,12,248
+Orthopedics,0,Monday,32,2,0,105
+Orthopedics,21,Sunday,54,5,9,200
+General Medicine,1,Tuesday,6,9,11,218
+Orthopedics,2,Tuesday,98,6,16,397
+Neurology,20,Sunday,30,8,13,223
+Pediatrics,19,Sunday,55,8,4,105
+Orthopedics,16,Wednesday,51,7,18,321
+General Medicine,19,Friday,30,5,4,98
+Neurology,21,Monday,88,2,14,442
+Cardiology,20,Friday,96,5,12,287
+Cardiology,0,Thursday,88,7,16,371
+Neurology,19,Wednesday,79,7,0,69
+General Medicine,5,Wednesday,78,2,13,467
+Neurology,14,Thursday,65,7,3,106
+Pediatrics,13,Monday,27,6,8,146
+Pediatrics,19,Saturday,41,7,16,278
+Cardiology,14,Thursday,45,8,2,72
+Orthopedics,13,Monday,56,4,12,257
+General Medicine,20,Tuesday,87,1,11,600
+Cardiology,23,Sunday,86,8,15,351
+Orthopedics,4,Wednesday,53,8,3,116
+Orthopedics,5,Monday,31,3,17,379
+Pediatrics,16,Friday,10,3,2,57
+Emergency,10,Sunday,78,5,16,328
+Emergency,15,Friday,70,3,0,125
+Neurology,11,Sunday,28,5,18,301
+Pediatrics,14,Wednesday,42,8,3,75
+Orthopedics,22,Thursday,32,1,16,491
+General Medicine,3,Saturday,32,2,6,218
+Emergency,17,Thursday,70,2,1,206
+Orthopedics,20,Monday,65,4,11,255
+Emergency,2,Thursday,50,9,4,126
+Emergency,21,Wednesday,73,2,15,411
+Emergency,7,Monday,79,9,7,159
+General Medicine,22,Tuesday,78,7,7,203
+Pediatrics,2,Thursday,47,8,12,255
+General Medicine,7,Thursday,63,1,13,511
+Cardiology,17,Saturday,6,5,10,163
+Orthopedics,9,Monday,19,9,5,93
+Pediatrics,19,Friday,41,4,15,281
+Pediatrics,16,Thursday,75,2,14,411
+Pediatrics,7,Wednesday,24,6,15,252
+Pediatrics,22,Thursday,39,2,12,339
+General Medicine,10,Saturday,38,3,11,237
+Pediatrics,4,Tuesday,90,8,17,381
+Neurology,12,Saturday,35,3,17,331
+Orthopedics,20,Thursday,91,2,13,430
+Pediatrics,22,Friday,23,6,1,47
+Orthopedics,4,Sunday,72,3,1,183
+Neurology,23,Thursday,28,1,2,220
+Neurology,12,Monday,88,3,7,262
+Orthopedics,5,Thursday,43,6,10,230
+Emergency,4,Friday,96,3,11,406
+Cardiology,8,Monday,58,9,3,79
+Emergency,15,Wednesday,43,7,8,164
+Emergency,1,Monday,21,5,16,326
+General Medicine,0,Saturday,23,2,15,356
+Emergency,7,Tuesday,52,9,16,267
+Pediatrics,18,Saturday,39,5,14,254
+General Medicine,10,Sunday,36,7,19,315
+General Medicine,11,Monday,51,9,6,122
+Neurology,11,Wednesday,51,4,9,210
+Emergency,6,Thursday,68,9,3,91
+Neurology,12,Monday,50,1,13,450
+Orthopedics,7,Saturday,39,6,13,231
+Cardiology,21,Monday,98,2,13,445
+General Medicine,8,Monday,21,8,13,222
+Orthopedics,6,Monday,46,5,19,340
+Orthopedics,20,Wednesday,33,3,17,324
+Pediatrics,23,Friday,74,2,14,501
+Cardiology,14,Friday,21,8,18,293
+Orthopedics,1,Monday,85,7,12,292
+Orthopedics,22,Wednesday,18,9,11,221
+Cardiology,19,Wednesday,28,8,18,306
+Cardiology,11,Sunday,61,4,18,361
+Orthopedics,0,Monday,54,2,19,512
+Cardiology,22,Saturday,61,2,1,211
+Orthopedics,21,Saturday,65,2,2,206
+Orthopedics,7,Tuesday,43,6,9,183
+Pediatrics,4,Monday,59,7,4,139
+Emergency,14,Tuesday,40,6,11,207
+Orthopedics,0,Saturday,41,2,6,245
+Neurology,0,Saturday,18,4,8,181
+General Medicine,9,Monday,31,3,1,83
+Emergency,21,Tuesday,87,4,9,246
+Emergency,9,Tuesday,35,5,5,112
+Emergency,20,Monday,77,7,11,226
+Pediatrics,14,Sunday,85,9,5,128
+Orthopedics,16,Tuesday,87,2,2,249
+Pediatrics,21,Sunday,48,8,9,166
+Orthopedics,5,Thursday,72,3,8,306
+Pediatrics,2,Saturday,52,9,19,387
+Pediatrics,12,Friday,61,4,4,145
+General Medicine,15,Sunday,79,3,2,171
+Neurology,7,Sunday,26,6,4,99
+Pediatrics,14,Sunday,8,9,7,120
+General Medicine,16,Wednesday,85,7,7,175
+Cardiology,16,Tuesday,76,4,13,296
+Neurology,21,Tuesday,50,3,16,336
+Pediatrics,12,Wednesday,63,4,10,238
+Emergency,16,Tuesday,38,3,15,306
+Cardiology,5,Wednesday,15,3,5,131
+Cardiology,16,Sunday,35,9,10,184
+General Medicine,15,Monday,15,4,9,160
+Cardiology,13,Thursday,60,9,8,159
+Neurology,12,Sunday,42,5,14,252
+Pediatrics,5,Thursday,25,7,6,146
+Pediatrics,2,Saturday,98,5,17,435
+Emergency,13,Sunday,14,1,0,83
+General Medicine,13,Friday,30,2,14,303
+Emergency,14,Tuesday,95,5,1,115
+Cardiology,7,Friday,12,6,1,30
+Emergency,14,Monday,12,7,9,149
+Neurology,21,Thursday,64,2,19,444
+Pediatrics,12,Sunday,76,9,14,261
+Cardiology,16,Monday,38,6,9,181
+Emergency,20,Monday,20,2,18,330
+General Medicine,23,Tuesday,17,2,12,269
+Neurology,2,Monday,91,3,10,371
+Neurology,5,Sunday,80,1,1,510
+Emergency,4,Sunday,95,9,12,297
+Pediatrics,21,Thursday,26,4,0,46
+Emergency,16,Sunday,31,5,4,99
+Cardiology,22,Friday,68,7,6,176
+Emergency,1,Thursday,6,1,12,267
+Neurology,14,Tuesday,30,3,12,237
+Emergency,4,Thursday,96,3,19,551
+Pediatrics,19,Wednesday,87,2,5,299
+General Medicine,5,Friday,73,8,19,418
+Orthopedics,5,Wednesday,88,5,11,317
+Emergency,17,Wednesday,34,1,7,275
+Pediatrics,17,Saturday,12,2,8,163
+Pediatrics,3,Sunday,42,1,17,571
+General Medicine,16,Tuesday,65,6,10,216
+Neurology,13,Monday,85,9,19,353
+Pediatrics,13,Wednesday,69,7,10,207
+Pediatrics,12,Thursday,71,5,14,283
+Pediatrics,6,Monday,50,3,8,219
+Pediatrics,11,Thursday,94,8,2,89
+Cardiology,22,Thursday,99,4,16,444
+Cardiology,14,Monday,76,9,16,292
+Neurology,18,Monday,47,5,2,82
+Emergency,10,Sunday,63,6,18,332
+Pediatrics,14,Thursday,50,5,8,179
+General Medicine,11,Tuesday,76,7,16,311
+Emergency,2,Sunday,39,7,17,336
+General Medicine,16,Friday,43,1,14,435
+Emergency,2,Saturday,96,2,0,294
+Neurology,18,Friday,55,7,9,181
+Pediatrics,19,Tuesday,8,8,7,123
+Pediatrics,3,Sunday,84,4,9,303
+Orthopedics,2,Saturday,81,6,1,113
+General Medicine,15,Sunday,88,3,18,420
+Emergency,11,Monday,55,7,13,250
+Emergency,7,Saturday,9,3,7,125
+Cardiology,23,Thursday,59,7,18,394
+Orthopedics,16,Friday,24,8,0,21
+Cardiology,6,Saturday,28,3,15,286
+Cardiology,10,Thursday,40,2,14,320
+Cardiology,17,Sunday,38,6,19,318
+General Medicine,0,Tuesday,58,4,4,168
+General Medicine,2,Saturday,38,8,2,86
+Neurology,3,Thursday,87,2,16,565
+Neurology,12,Sunday,21,4,9,169
+Cardiology,5,Sunday,9,2,4,118
+Orthopedics,13,Sunday,93,2,10,393
+Emergency,4,Tuesday,22,2,5,177
+General Medicine,15,Monday,59,1,3,349
+Orthopedics,14,Tuesday,57,4,6,169
+Pediatrics,14,Tuesday,54,2,18,419
+General Medicine,3,Friday,76,9,6,172
+General Medicine,7,Sunday,95,9,13,260
+Neurology,15,Thursday,83,7,16,304
+Emergency,15,Saturday,49,6,16,296
+Emergency,3,Friday,17,3,12,267
+Pediatrics,12,Sunday,20,7,0,31
+Pediatrics,12,Wednesday,90,1,1,468
+General Medicine,1,Tuesday,88,9,17,369
+Cardiology,2,Wednesday,17,4,3,87
+Neurology,21,Sunday,24,6,12,208
+Neurology,7,Friday,70,6,0,61
+General Medicine,23,Thursday,51,3,3,171
+Orthopedics,14,Friday,23,4,1,51
+Cardiology,10,Thursday,49,3,3,142
+General Medicine,8,Thursday,41,6,15,279
+Cardiology,6,Sunday,58,1,3,342
+Cardiology,12,Monday,10,8,8,132
+Cardiology,1,Sunday,18,8,16,317
+General Medicine,7,Tuesday,8,9,19,299
+Neurology,6,Friday,90,6,1,101
+Neurology,23,Thursday,59,1,2,409
+Cardiology,11,Sunday,38,3,14,281
+Orthopedics,18,Sunday,31,1,6,249
+Emergency,6,Friday,11,5,3,59
+General Medicine,9,Friday,7,3,11,185
+Emergency,15,Thursday,51,2,0,135
+Orthopedics,2,Saturday,6,3,16,317
+General Medicine,9,Wednesday,84,9,3,108
+Cardiology,5,Tuesday,29,8,3,96
+Neurology,17,Tuesday,64,3,8,233
+Emergency,17,Saturday,83,2,9,348
+Pediatrics,4,Monday,28,5,18,358
+Pediatrics,20,Saturday,19,1,18,375
+Orthopedics,6,Monday,99,4,14,348
+Cardiology,1,Monday,18,8,16,309
+Emergency,10,Saturday,58,1,6,382
+Cardiology,12,Tuesday,82,5,2,131
+Emergency,22,Wednesday,10,4,4,94
+Orthopedics,4,Tuesday,82,6,15,363
+Orthopedics,5,Sunday,85,7,6,190
+Pediatrics,23,Tuesday,22,9,15,288
+Cardiology,13,Tuesday,24,1,8,254
+General Medicine,11,Saturday,66,4,0,83
+Pediatrics,3,Saturday,85,6,2,139
+Cardiology,22,Sunday,84,7,7,211
+Pediatrics,5,Sunday,44,7,17,354
+General Medicine,9,Saturday,43,8,17,290
+Neurology,17,Tuesday,56,8,18,317
+Neurology,14,Wednesday,36,8,6,119
+Neurology,7,Monday,77,8,19,344
+Neurology,8,Friday,31,8,5,99
+Emergency,4,Monday,56,6,10,235
+Neurology,9,Sunday,67,9,4,110
+General Medicine,19,Sunday,78,3,11,317
+Orthopedics,5,Monday,67,6,0,82
+Orthopedics,15,Friday,21,5,18,300
+Emergency,23,Tuesday,53,8,10,229
+Neurology,2,Wednesday,85,4,14,389
+Neurology,9,Wednesday,86,4,15,340
+Neurology,10,Monday,27,5,2,67
+Pediatrics,10,Friday,76,6,10,211
+Cardiology,16,Sunday,17,4,10,168
+Pediatrics,3,Thursday,27,2,9,257
+Cardiology,3,Tuesday,61,2,1,211
+Neurology,16,Monday,66,3,19,400
+Neurology,8,Wednesday,58,2,4,209
+Pediatrics,18,Sunday,24,1,7,232
+Pediatrics,4,Saturday,90,8,12,292
+Cardiology,21,Saturday,56,5,14,283
+Orthopedics,23,Friday,27,1,1,185
+Cardiology,5,Friday,39,9,11,240
+Pediatrics,2,Monday,71,8,7,194
+General Medicine,21,Thursday,38,4,18,326
+Pediatrics,0,Wednesday,37,8,0,44
+General Medicine,19,Monday,50,7,7,152
+Emergency,21,Thursday,85,7,9,199
+Pediatrics,15,Sunday,49,1,12,432
+Emergency,22,Friday,23,6,4,109
+Orthopedics,10,Saturday,98,4,8,249
+Cardiology,12,Tuesday,91,2,9,375
+General Medicine,9,Sunday,19,7,13,224
+Cardiology,2,Saturday,82,9,10,246
+Emergency,8,Wednesday,70,5,13,271
+General Medicine,11,Wednesday,43,8,2,63
+Cardiology,22,Saturday,22,5,15,306
+Pediatrics,13,Sunday,74,7,19,345
+Neurology,0,Saturday,63,7,16,359
+Emergency,17,Thursday,36,9,4,87
+Cardiology,16,Monday,25,3,6,140
+Emergency,8,Friday,44,1,16,473
+Emergency,8,Thursday,96,2,19,533
+General Medicine,22,Tuesday,31,6,10,220
+General Medicine,9,Saturday,6,9,11,182
+Neurology,18,Tuesday,84,3,1,170
+Pediatrics,14,Tuesday,43,2,18,387
+Emergency,4,Thursday,90,1,4,600
+Cardiology,14,Friday,60,2,10,310
+Orthopedics,19,Sunday,17,3,18,312
+Emergency,22,Wednesday,60,7,6,183
+Emergency,1,Monday,70,2,5,308
+Neurology,12,Wednesday,82,5,10,239
+Pediatrics,23,Friday,60,2,13,430
+Orthopedics,15,Wednesday,32,7,3,77
+General Medicine,14,Saturday,68,8,7,152
+General Medicine,9,Saturday,75,8,8,175
+Cardiology,13,Thursday,86,8,1,71
+Orthopedics,9,Tuesday,68,9,10,197
+General Medicine,13,Friday,60,1,19,595
+Cardiology,22,Friday,45,1,6,396
+Pediatrics,8,Wednesday,45,2,3,173
+Cardiology,13,Thursday,8,6,13,210
+General Medicine,2,Wednesday,61,1,0,390
+Neurology,19,Wednesday,34,5,11,203
+Neurology,15,Friday,92,5,18,364
+Neurology,1,Wednesday,88,4,4,208
+General Medicine,9,Tuesday,50,5,7,159
+Neurology,2,Wednesday,60,1,10,556
+Orthopedics,10,Tuesday,35,6,3,92
+Pediatrics,10,Friday,92,7,14,294
+Cardiology,20,Thursday,11,8,19,292
+Cardiology,20,Saturday,94,2,11,414
+General Medicine,21,Tuesday,81,7,19,360
+Neurology,12,Thursday,58,6,9,198
+Neurology,6,Thursday,12,9,15,238
+Emergency,22,Tuesday,59,8,7,183
+Pediatrics,16,Friday,73,4,19,381
+Orthopedics,1,Monday,48,9,7,174
+Cardiology,11,Thursday,17,1,5,162
+Emergency,9,Thursday,97,6,2,124
+Emergency,17,Friday,24,8,7,126
+General Medicine,21,Friday,82,4,9,249
+Cardiology,10,Wednesday,36,2,4,158
+General Medicine,15,Friday,64,2,10,318
+Orthopedics,16,Thursday,54,1,3,329
+Emergency,18,Tuesday,31,5,16,288
+Emergency,17,Monday,29,6,2,59
+Pediatrics,2,Sunday,56,4,17,403
+Orthopedics,20,Wednesday,72,4,7,199
+Emergency,15,Sunday,25,5,11,197
+Orthopedics,5,Tuesday,22,5,15,304
+Cardiology,11,Monday,43,9,13,222
+Neurology,10,Monday,19,8,15,252
+Emergency,14,Monday,57,9,3,87
+Pediatrics,14,Saturday,42,3,0,77
+Cardiology,15,Tuesday,52,3,0,96
+Orthopedics,9,Wednesday,56,1,14,505
+General Medicine,11,Wednesday,92,6,19,376
+Cardiology,12,Monday,76,4,19,392
+Emergency,3,Tuesday,32,8,2,67
+Orthopedics,6,Saturday,89,2,13,428
+Neurology,21,Monday,20,2,8,174
+Cardiology,1,Friday,20,7,18,352
+Emergency,14,Sunday,39,5,7,158
+Pediatrics,7,Wednesday,21,1,1,135
+General Medicine,6,Sunday,77,7,3,106
+Orthopedics,14,Thursday,56,7,0,54
+Cardiology,22,Monday,97,6,10,292
+Cardiology,13,Friday,86,4,4,176
+Neurology,7,Wednesday,16,8,1,38
+Neurology,11,Sunday,87,2,12,413
+Pediatrics,12,Saturday,52,2,16,384
+General Medicine,10,Tuesday,26,2,16,309
+Pediatrics,16,Wednesday,53,3,17,351
+Emergency,16,Sunday,56,6,8,178
+Emergency,23,Tuesday,83,1,5,595
+Pediatrics,3,Sunday,5,2,19,378
+General Medicine,20,Tuesday,70,2,2,216
+Pediatrics,7,Saturday,68,1,7,452
+General Medicine,4,Saturday,12,3,2,68
+General Medicine,15,Monday,90,7,0,70
+Orthopedics,3,Monday,29,1,19,532
+General Medicine,21,Wednesday,70,7,12,244
+Neurology,14,Saturday,77,5,4,143
+General Medicine,11,Friday,77,9,15,285
+General Medicine,4,Sunday,81,2,15,522
+General Medicine,22,Sunday,74,1,11,600
+Emergency,15,Sunday,98,9,12,246
+Neurology,13,Wednesday,83,8,3,100
+Neurology,9,Sunday,55,6,8,169
+Pediatrics,6,Thursday,57,5,15,287
+Orthopedics,12,Tuesday,19,8,0,17
+General Medicine,19,Sunday,54,8,4,107
+Cardiology,4,Tuesday,75,5,4,166
+Orthopedics,2,Monday,79,7,18,405
+Orthopedics,14,Sunday,42,1,8,344
+Neurology,3,Friday,44,4,7,212
+Orthopedics,14,Saturday,70,2,18,452
+General Medicine,13,Saturday,43,3,17,334
+General Medicine,19,Monday,78,1,14,600
+Emergency,18,Thursday,21,2,3,114
+General Medicine,12,Wednesday,11,1,14,273
+General Medicine,9,Wednesday,43,8,12,222
+Neurology,20,Friday,72,4,17,356
+General Medicine,4,Monday,39,3,19,432
+Emergency,22,Monday,55,1,4,428
+Cardiology,19,Thursday,51,2,17,397
+Neurology,19,Sunday,40,3,7,191
+Cardiology,5,Wednesday,68,3,0,141
+Neurology,3,Sunday,99,6,18,445
+Pediatrics,1,Monday,93,8,16,368
+Orthopedics,21,Sunday,17,6,1,38
+Pediatrics,15,Saturday,22,2,18,336
+General Medicine,17,Friday,25,2,15,300
+Cardiology,4,Wednesday,69,7,17,383
+General Medicine,21,Thursday,12,1,1,89
+Orthopedics,3,Friday,52,1,5,410
+Neurology,12,Tuesday,89,7,6,158
+Orthopedics,18,Saturday,47,9,5,110
+Emergency,22,Thursday,57,5,5,170
+Orthopedics,1,Friday,89,1,8,600
+Emergency,12,Monday,31,5,7,152
+Orthopedics,10,Tuesday,23,1,8,245
+Emergency,21,Thursday,27,9,11,203
+Cardiology,3,Monday,54,4,17,407
+General Medicine,21,Saturday,55,9,5,114
+General Medicine,19,Tuesday,47,2,3,163
+Pediatrics,19,Wednesday,55,7,6,151
+General Medicine,14,Monday,73,2,17,446
+Neurology,3,Friday,45,4,19,427
+Orthopedics,8,Sunday,76,6,4,129
+Pediatrics,6,Thursday,15,2,17,310
+Neurology,18,Tuesday,84,2,9,359
+Neurology,18,Monday,92,2,7,339
+Emergency,5,Wednesday,89,3,0,178
+General Medicine,5,Sunday,56,5,14,332
+Cardiology,19,Thursday,27,9,2,57
+Cardiology,14,Thursday,53,6,14,267
+Pediatrics,14,Monday,42,9,13,224
+Cardiology,19,Wednesday,51,5,0,57
+Orthopedics,8,Saturday,76,6,7,168
+Cardiology,3,Sunday,11,8,6,124
+Pediatrics,17,Saturday,70,3,8,238
+Cardiology,17,Tuesday,98,2,17,506
+Orthopedics,4,Monday,81,3,11,373
+Emergency,19,Sunday,66,9,7,153
+Pediatrics,22,Tuesday,91,6,7,224
+Emergency,10,Saturday,33,4,5,127
+Emergency,4,Sunday,42,3,2,140
+Emergency,21,Thursday,88,2,1,243
+Neurology,3,Tuesday,37,4,13,293
+General Medicine,11,Wednesday,33,9,7,137
+Neurology,1,Friday,83,4,5,233
+General Medicine,12,Saturday,27,5,3,78
+Emergency,9,Saturday,7,8,4,70
+Pediatrics,8,Wednesday,97,2,12,422
+General Medicine,9,Sunday,49,3,8,209
+Orthopedics,6,Sunday,12,6,12,195
+Orthopedics,3,Sunday,90,7,8,224
+Cardiology,18,Tuesday,33,4,15,274
+General Medicine,9,Monday,6,1,11,204
+Pediatrics,2,Thursday,54,7,1,75
+Neurology,20,Friday,69,9,18,316
+Emergency,18,Monday,24,1,15,362
+Cardiology,20,Monday,56,1,12,471
+Orthopedics,1,Wednesday,89,1,4,600
+Neurology,19,Tuesday,41,7,5,123
+Neurology,9,Saturday,76,9,16,297
+Emergency,1,Saturday,31,3,16,360
+General Medicine,1,Wednesday,51,8,16,327
+Orthopedics,23,Tuesday,10,9,2,52
+Pediatrics,16,Wednesday,64,3,12,303
+Neurology,15,Saturday,49,3,11,261
+Emergency,15,Monday,48,1,5,323
+Pediatrics,13,Thursday,87,2,12,407
+General Medicine,6,Sunday,22,7,13,221
+Orthopedics,20,Tuesday,69,3,6,211
+General Medicine,10,Friday,29,7,4,87
+Neurology,23,Friday,31,5,13,279
+Pediatrics,0,Monday,11,8,17,329
+Pediatrics,10,Wednesday,48,5,3,97
+Pediatrics,22,Wednesday,33,3,0,86
+Neurology,20,Saturday,99,9,6,154
+Neurology,3,Monday,48,7,19,388
+General Medicine,6,Saturday,40,5,12,235
+Cardiology,14,Saturday,23,7,3,78
+General Medicine,17,Friday,10,9,12,211
+Orthopedics,11,Saturday,29,5,3,90
+Emergency,16,Sunday,35,7,2,60
+Pediatrics,0,Saturday,13,9,7,147
+Cardiology,10,Friday,88,1,19,600
+Emergency,0,Sunday,78,4,7,250
+Cardiology,14,Wednesday,41,1,16,448
+General Medicine,20,Tuesday,31,8,14,237
+Neurology,9,Thursday,17,3,3,78
+Pediatrics,6,Saturday,45,2,5,194
+General Medicine,1,Sunday,70,4,5,203
+Emergency,9,Tuesday,89,3,9,296
+Emergency,23,Friday,28,5,3,91
+Emergency,3,Tuesday,48,8,8,192
+Emergency,11,Thursday,64,8,15,271
+Emergency,18,Tuesday,13,7,6,112
+Cardiology,10,Sunday,6,8,13,212
+General Medicine,7,Tuesday,60,5,5,149
+Pediatrics,17,Tuesday,34,6,0,42
+Neurology,10,Tuesday,26,8,17,278
+Neurology,10,Monday,79,1,11,569
+General Medicine,12,Saturday,85,6,14,298
+General Medicine,2,Friday,17,6,0,31
+Neurology,11,Thursday,75,5,14,299
+Neurology,2,Friday,20,4,14,286
+Cardiology,9,Monday,49,1,15,484
+Orthopedics,16,Monday,69,8,0,43
+Pediatrics,21,Sunday,15,6,2,44
+Emergency,1,Monday,74,3,11,352
+Orthopedics,16,Saturday,24,3,6,142
+General Medicine,15,Monday,67,6,4,128
+Neurology,1,Tuesday,94,7,0,87
+Orthopedics,21,Friday,16,8,0,10
+Pediatrics,19,Wednesday,66,5,14,290
+General Medicine,5,Thursday,98,6,7,239
+Emergency,9,Monday,96,1,10,600
+Emergency,9,Friday,95,6,13,293
+Pediatrics,7,Sunday,46,9,12,216
+Pediatrics,0,Monday,87,4,18,460
+Neurology,12,Saturday,73,1,11,546
+Emergency,23,Monday,62,9,18,374
+General Medicine,8,Monday,9,4,3,65
+Orthopedics,21,Monday,31,2,3,129
+General Medicine,9,Sunday,32,1,2,195
+Cardiology,14,Monday,30,3,5,132
+Cardiology,4,Thursday,95,7,4,174
+Pediatrics,21,Friday,53,2,10,287
+Neurology,15,Saturday,25,9,8,149
+Cardiology,12,Monday,5,2,2,43
+Emergency,21,Monday,96,5,8,234
+General Medicine,19,Monday,62,8,11,222
+General Medicine,17,Monday,83,8,2,86
+Pediatrics,10,Tuesday,59,3,19,393
+Orthopedics,8,Tuesday,85,2,16,465
+Pediatrics,15,Wednesday,30,9,11,188
+Orthopedics,1,Monday,88,3,17,505
+Pediatrics,1,Wednesday,29,8,3,87
+Pediatrics,11,Thursday,81,2,9,344
+Pediatrics,7,Wednesday,37,3,17,327
+Orthopedics,8,Friday,93,1,7,576
+Orthopedics,11,Tuesday,76,6,8,193
+Pediatrics,8,Tuesday,73,7,18,329
+Cardiology,9,Monday,10,4,12,198
+Neurology,1,Monday,27,1,5,268
+Neurology,15,Thursday,34,3,6,148
+Neurology,19,Saturday,82,9,5,139
+Orthopedics,6,Thursday,58,5,10,219
+Orthopedics,1,Friday,91,6,16,402
+Cardiology,0,Monday,15,4,18,364
+Neurology,18,Monday,35,1,11,343
+Neurology,3,Thursday,10,5,12,240
+Pediatrics,23,Thursday,15,5,17,325
+Orthopedics,21,Thursday,81,5,6,176
+Neurology,1,Tuesday,16,6,4,99
+General Medicine,13,Wednesday,70,2,15,406
+Cardiology,1,Wednesday,57,1,3,405
+General Medicine,14,Monday,40,2,0,106
+General Medicine,11,Tuesday,21,6,3,83
+Cardiology,4,Thursday,32,5,2,87
+General Medicine,19,Monday,96,5,3,154
+Neurology,6,Tuesday,26,6,0,31
+Orthopedics,23,Friday,11,7,11,221
+Cardiology,20,Saturday,19,9,12,190
+Pediatrics,9,Tuesday,15,7,1,44
+General Medicine,13,Sunday,28,2,8,196
+Cardiology,13,Monday,71,6,6,164
+Emergency,4,Wednesday,34,9,12,257
+Emergency,17,Sunday,74,7,1,68
+Orthopedics,23,Thursday,70,2,0,222
+Neurology,13,Saturday,65,3,17,375
+Orthopedics,1,Friday,82,8,6,182
+Orthopedics,11,Saturday,45,9,17,289
+Orthopedics,21,Saturday,86,4,18,385
+Orthopedics,23,Tuesday,55,9,7,170
+Pediatrics,5,Monday,48,2,11,360
+Pediatrics,3,Monday,99,5,10,313
+Cardiology,12,Saturday,17,2,8,173
+Emergency,3,Thursday,94,1,3,600
+Orthopedics,21,Monday,16,5,6,114
+Cardiology,13,Saturday,86,2,16,464
+Emergency,15,Monday,13,7,10,173
+General Medicine,3,Thursday,89,8,1,86
+Neurology,23,Friday,52,2,17,467
+Pediatrics,0,Sunday,53,7,11,266
+General Medicine,12,Saturday,57,4,8,197
+Emergency,3,Wednesday,60,1,10,540
+General Medicine,19,Wednesday,44,3,4,139
+Neurology,17,Saturday,28,1,6,236
+Emergency,5,Tuesday,76,5,0,107
+General Medicine,2,Friday,37,8,4,115
+Pediatrics,22,Tuesday,27,1,5,258
+Pediatrics,12,Sunday,81,9,12,233
+Cardiology,15,Wednesday,58,3,10,259
+General Medicine,4,Thursday,57,5,7,209
+Orthopedics,3,Saturday,53,9,19,383
+General Medicine,20,Sunday,82,5,1,102
+Emergency,7,Monday,82,9,14,276
+Emergency,18,Wednesday,84,8,9,196
+General Medicine,13,Friday,53,7,7,160
+Neurology,6,Wednesday,64,1,1,346
+Pediatrics,13,Friday,94,4,14,342
+Emergency,5,Friday,94,9,5,168
+Pediatrics,11,Saturday,69,8,4,113
+Emergency,15,Friday,36,4,2,85
+Cardiology,16,Tuesday,83,1,10,568
+Orthopedics,12,Sunday,25,4,10,190
+Emergency,22,Thursday,22,3,15,322
+Pediatrics,13,Wednesday,98,6,2,120
+Cardiology,6,Thursday,64,5,8,192
+Emergency,13,Sunday,17,5,2,57
+Neurology,14,Monday,28,2,18,353
+Orthopedics,11,Sunday,34,3,10,215
+Emergency,16,Wednesday,6,6,13,214
+Cardiology,8,Thursday,87,2,1,240
+Neurology,21,Thursday,29,4,6,136
+General Medicine,14,Saturday,54,2,9,292
+Cardiology,11,Saturday,18,9,9,148
+Cardiology,1,Sunday,10,3,19,371
+Neurology,4,Sunday,80,6,0,81
+Cardiology,12,Monday,88,1,5,526
+Neurology,19,Friday,91,3,13,356
+Emergency,22,Wednesday,34,8,1,56
+Neurology,7,Saturday,34,5,5,114
+Neurology,13,Wednesday,42,8,0,32
+Orthopedics,14,Monday,62,2,2,195
+Neurology,10,Saturday,98,7,3,117
+Neurology,0,Saturday,45,9,12,263
+General Medicine,20,Friday,98,7,2,103
+Emergency,2,Wednesday,61,3,14,385
+Orthopedics,16,Wednesday,40,7,12,216
+General Medicine,18,Wednesday,68,8,10,199
+Pediatrics,13,Friday,20,1,3,146
+Emergency,21,Saturday,92,3,16,403
+Emergency,22,Monday,82,5,4,175
+Pediatrics,7,Wednesday,94,6,7,194
+Neurology,12,Thursday,76,3,9,267
+General Medicine,19,Friday,18,4,6,122
+Cardiology,2,Tuesday,35,5,16,331
+Orthopedics,4,Monday,70,3,6,265
+Cardiology,8,Thursday,72,4,18,375
+Pediatrics,5,Wednesday,69,5,8,235
+Emergency,21,Tuesday,59,2,1,186
+Emergency,1,Monday,88,9,19,417
+Orthopedics,12,Friday,82,8,18,329
+Emergency,4,Tuesday,44,6,5,143
+Emergency,7,Saturday,29,3,9,189
+Orthopedics,22,Sunday,29,2,12,311
+General Medicine,0,Tuesday,7,7,1,35
+General Medicine,19,Sunday,73,8,9,190
+Orthopedics,11,Thursday,30,1,9,287
+Pediatrics,22,Monday,44,6,4,136
+Emergency,10,Thursday,42,7,3,88
+Emergency,6,Thursday,42,9,1,57
+Pediatrics,14,Wednesday,72,3,6,221
+General Medicine,21,Friday,11,2,17,297
+Neurology,23,Tuesday,98,5,16,410
+Neurology,10,Monday,34,1,10,333
+Neurology,21,Saturday,23,6,17,275
+General Medicine,15,Friday,39,9,7,131
+General Medicine,2,Friday,37,9,11,249
+Pediatrics,19,Monday,37,7,0,34
+Emergency,13,Friday,82,7,19,353
+Pediatrics,2,Wednesday,42,8,11,245
+Pediatrics,0,Friday,14,2,5,143
+General Medicine,20,Wednesday,61,6,2,85
+Neurology,14,Tuesday,32,5,4,97
+Cardiology,0,Tuesday,82,5,13,349
+Emergency,16,Thursday,42,3,11,246
+General Medicine,1,Wednesday,20,3,12,273
+Neurology,19,Saturday,25,6,12,213
+Cardiology,5,Tuesday,96,7,16,382
+Cardiology,7,Friday,10,1,14,270
+General Medicine,15,Monday,45,3,5,160
+Orthopedics,18,Monday,19,1,11,268
+Emergency,0,Sunday,7,3,1,41
+Cardiology,2,Wednesday,47,5,3,125
+General Medicine,2,Saturday,51,9,19,396
+General Medicine,4,Thursday,18,3,11,235
+Neurology,11,Friday,70,9,2,90
+Orthopedics,11,Wednesday,33,1,16,418
+Emergency,19,Sunday,8,6,5,93
+Pediatrics,12,Monday,30,9,16,261
+Neurology,19,Wednesday,16,5,16,262
+Cardiology,8,Friday,6,2,10,178
+Cardiology,6,Saturday,21,5,6,122
+Neurology,3,Saturday,39,1,1,256
+General Medicine,18,Tuesday,14,9,18,283
+Cardiology,21,Friday,90,9,1,71
+Orthopedics,18,Sunday,47,6,12,225
+Emergency,5,Tuesday,25,9,15,300
+Orthopedics,12,Tuesday,19,3,16,276
+Cardiology,10,Tuesday,39,4,10,212
+Pediatrics,12,Wednesday,89,6,8,196
+Emergency,12,Sunday,89,4,8,246
+Emergency,21,Monday,89,1,13,600
+Neurology,19,Saturday,64,7,12,239
+Neurology,14,Wednesday,48,5,10,205
+Pediatrics,20,Monday,9,8,11,178
+General Medicine,12,Saturday,77,9,2,77
+Emergency,21,Sunday,22,5,0,37
+Pediatrics,10,Sunday,25,8,7,131
+Neurology,18,Friday,76,1,18,600
+Neurology,7,Saturday,78,1,12,572
+Emergency,19,Saturday,55,7,6,130
+Orthopedics,7,Sunday,45,6,12,231
+Cardiology,9,Saturday,28,5,5,107
+Neurology,15,Thursday,28,5,2,72
+General Medicine,18,Friday,42,9,5,105
+General Medicine,22,Wednesday,48,1,2,340
+Neurology,10,Wednesday,61,8,12,226
+Orthopedics,12,Monday,63,2,12,352
+Orthopedics,8,Wednesday,38,7,12,213
+Pediatrics,19,Tuesday,79,6,0,72
+General Medicine,23,Saturday,99,2,7,432
+Pediatrics,18,Wednesday,86,3,4,217
+General Medicine,15,Monday,27,4,19,323
+Cardiology,6,Monday,90,7,16,311
+Cardiology,18,Tuesday,47,8,8,158
+Emergency,11,Monday,86,2,12,406
+Pediatrics,14,Sunday,44,8,12,215
+Neurology,22,Thursday,51,9,4,121
+Pediatrics,13,Sunday,45,7,13,233
+Neurology,10,Saturday,51,1,10,419
+Orthopedics,9,Saturday,24,6,13,228
+Pediatrics,10,Saturday,81,8,6,147
+Orthopedics,5,Friday,69,5,16,387
+Cardiology,1,Wednesday,72,2,3,275
+Cardiology,10,Thursday,28,5,9,173
+Emergency,18,Wednesday,40,8,9,166
+Pediatrics,5,Thursday,49,2,14,412
+Orthopedics,13,Wednesday,6,1,19,324
+Neurology,19,Tuesday,32,4,11,211
+Cardiology,5,Sunday,30,4,8,191
+Cardiology,16,Monday,27,9,2,53
+Neurology,9,Monday,83,3,14,364
+Orthopedics,0,Sunday,40,4,11,271
+Orthopedics,2,Tuesday,95,3,14,444
+Pediatrics,7,Thursday,10,2,0,33
+Pediatrics,7,Sunday,39,4,14,274
+General Medicine,19,Friday,42,8,10,184
+General Medicine,21,Thursday,39,1,4,260
+Emergency,14,Monday,78,8,6,157
+Cardiology,23,Friday,98,8,11,277
+Pediatrics,6,Wednesday,57,3,19,388
+Orthopedics,10,Friday,42,6,5,116
+Neurology,6,Thursday,97,4,2,164
+Orthopedics,3,Tuesday,63,1,9,554
+Cardiology,11,Wednesday,47,1,3,285
+General Medicine,5,Thursday,8,5,12,233
+Orthopedics,13,Wednesday,9,8,18,286
+Emergency,11,Friday,72,1,4,431
+Cardiology,10,Monday,49,2,17,386
+General Medicine,18,Thursday,84,7,0,68
+Neurology,20,Tuesday,29,8,15,246
+General Medicine,4,Sunday,82,3,15,457
+Emergency,13,Friday,15,8,15,247
+Cardiology,20,Thursday,33,1,18,445
+Neurology,23,Tuesday,38,9,15,313
+Emergency,15,Thursday,90,2,0,233
+General Medicine,12,Friday,18,2,19,335
+Emergency,21,Thursday,28,4,19,331
+Cardiology,21,Wednesday,63,3,9,250
+Pediatrics,19,Friday,43,4,1,87
+Emergency,21,Thursday,30,6,13,226
+Emergency,3,Sunday,47,7,7,172
+General Medicine,10,Monday,40,5,5,135
+General Medicine,16,Thursday,43,2,2,153
+Neurology,6,Wednesday,65,3,15,346
+General Medicine,13,Tuesday,20,3,16,279
+Orthopedics,10,Sunday,63,5,11,240
+Cardiology,21,Tuesday,10,5,18,283
+Cardiology,8,Sunday,60,4,19,367
+Pediatrics,22,Tuesday,12,8,2,50
+Pediatrics,12,Monday,98,6,12,267
+Cardiology,22,Wednesday,31,6,15,305
+Pediatrics,17,Friday,75,1,10,538
+Neurology,10,Tuesday,31,6,19,329
+General Medicine,14,Sunday,93,3,15,394
+Cardiology,21,Wednesday,50,6,19,340
+Pediatrics,18,Thursday,45,6,1,60
+Cardiology,0,Monday,83,2,3,316
+Orthopedics,3,Wednesday,29,1,3,233
+Emergency,13,Wednesday,90,3,16,393
+General Medicine,13,Friday,22,5,0,24
+Cardiology,2,Wednesday,16,4,0,28
+Emergency,16,Friday,91,7,4,138
+Pediatrics,2,Monday,55,4,11,297
+Emergency,15,Monday,43,8,5,107
+General Medicine,13,Thursday,93,7,5,152
+Cardiology,19,Friday,14,9,16,263
+Orthopedics,12,Friday,98,1,12,600
+Pediatrics,14,Tuesday,78,5,7,189
+Cardiology,13,Tuesday,81,4,11,274
+General Medicine,23,Thursday,58,6,14,330
+Pediatrics,18,Monday,33,1,18,444
+Neurology,5,Saturday,45,6,19,411
+Emergency,9,Tuesday,13,1,16,311
+General Medicine,14,Wednesday,67,1,8,462
+Neurology,20,Monday,81,8,17,308
+Cardiology,21,Saturday,41,2,1,132
+Orthopedics,19,Wednesday,18,6,10,175
+Pediatrics,5,Sunday,77,6,19,425
+Emergency,22,Friday,76,6,16,373
+Pediatrics,9,Monday,43,8,17,294
+Cardiology,6,Sunday,44,4,14,270
+Pediatrics,21,Thursday,58,3,6,198
+Emergency,16,Friday,7,6,15,245
+Cardiology,17,Friday,59,4,0,81
+Pediatrics,16,Wednesday,37,2,17,348
+Orthopedics,8,Sunday,75,6,7,176
+General Medicine,9,Friday,23,5,6,120
+Cardiology,9,Tuesday,38,9,1,39
+General Medicine,6,Monday,82,6,11,246
+Cardiology,15,Tuesday,54,3,15,328
+Orthopedics,17,Wednesday,51,5,8,182
+General Medicine,5,Saturday,50,8,19,388
+Neurology,19,Wednesday,60,9,10,194
+Emergency,0,Monday,61,8,14,305
+Neurology,0,Friday,87,3,2,226
+Pediatrics,11,Sunday,55,9,12,218
+Orthopedics,20,Sunday,58,3,12,285
+Neurology,1,Thursday,94,8,1,99
+Cardiology,3,Wednesday,85,9,5,178
+Pediatrics,16,Monday,32,7,5,102
+Pediatrics,3,Thursday,23,4,11,241
+Neurology,10,Friday,31,9,3,64
+Neurology,21,Saturday,52,3,4,157
+Orthopedics,3,Wednesday,23,3,7,194
+Emergency,0,Saturday,55,2,5,265
+Neurology,6,Monday,11,3,2,55
+Neurology,17,Saturday,33,1,7,279
+General Medicine,8,Saturday,47,4,18,343
+Cardiology,2,Monday,73,8,10,255
+General Medicine,7,Monday,98,5,17,357
+General Medicine,23,Wednesday,62,2,9,363
+Pediatrics,18,Saturday,12,3,19,314
+Emergency,3,Thursday,46,1,11,494
+Cardiology,17,Monday,80,2,19,506
+Orthopedics,19,Friday,46,1,7,354
+Orthopedics,10,Saturday,17,2,18,317
+Neurology,13,Monday,30,3,15,280
+Neurology,17,Thursday,22,1,17,383
+Orthopedics,15,Sunday,46,9,8,155
+Neurology,2,Wednesday,55,5,3,127
+Emergency,14,Saturday,88,8,8,178
+General Medicine,3,Sunday,20,5,1,54
+Neurology,4,Monday,7,8,8,158
+Pediatrics,16,Monday,95,7,8,199
+Neurology,6,Friday,83,4,17,369
+Cardiology,15,Friday,49,7,10,188
+Emergency,13,Saturday,26,6,12,207
+Cardiology,15,Sunday,27,3,5,134
+Cardiology,6,Sunday,63,9,8,170
+Pediatrics,8,Monday,66,9,15,269
+Emergency,3,Saturday,72,5,3,153
+Emergency,21,Monday,58,8,1,56
+Emergency,10,Friday,61,7,6,143
+Emergency,1,Thursday,27,9,14,288
+Emergency,11,Tuesday,64,7,5,139
+Pediatrics,11,Tuesday,77,4,10,255
+Neurology,3,Monday,92,4,19,490
+Cardiology,17,Sunday,89,8,16,298
+Emergency,20,Friday,59,6,3,101
+Neurology,6,Wednesday,84,9,18,326
+Neurology,0,Wednesday,67,7,6,176
+Cardiology,22,Tuesday,60,7,10,240
+Pediatrics,12,Thursday,59,4,12,269
+Orthopedics,5,Tuesday,29,3,2,108
+Orthopedics,5,Monday,30,8,13,267
+Neurology,11,Thursday,53,7,1,66
+General Medicine,7,Wednesday,67,4,17,348
+General Medicine,23,Sunday,49,4,4,166
+Cardiology,21,Friday,77,1,12,571
+Orthopedics,18,Friday,83,7,12,250
+Neurology,4,Monday,43,1,13,491
+Pediatrics,17,Tuesday,69,4,11,259
+Orthopedics,4,Monday,73,3,12,374
+Neurology,9,Friday,60,3,17,363
+Neurology,0,Wednesday,13,1,12,299
+Emergency,9,Friday,74,4,3,144
+Pediatrics,4,Thursday,32,1,9,359
+Emergency,11,Sunday,49,8,4,100
+Cardiology,21,Sunday,30,1,17,418
+Emergency,6,Saturday,32,6,7,139
+Emergency,8,Friday,44,7,13,245
+Orthopedics,21,Friday,19,2,1,73
+General Medicine,20,Sunday,10,4,7,117
+Neurology,11,Saturday,31,3,15,288
+Pediatrics,22,Thursday,42,9,6,147
+Emergency,0,Tuesday,72,7,2,117
+Pediatrics,10,Friday,79,2,3,252
+General Medicine,20,Sunday,89,6,6,172
+General Medicine,14,Monday,68,9,3,103
+Emergency,1,Friday,34,3,8,211
+Cardiology,19,Monday,86,6,16,319
+Emergency,6,Thursday,7,3,16,262
+Orthopedics,20,Friday,66,3,19,403
+Neurology,11,Sunday,16,4,13,214
+Cardiology,21,Thursday,95,9,13,259
+Emergency,17,Thursday,34,8,12,208
+Pediatrics,2,Tuesday,89,1,3,599
+Cardiology,6,Friday,42,1,12,406
+Cardiology,10,Monday,89,7,16,315
+Emergency,17,Monday,64,3,14,323
+Cardiology,11,Friday,42,7,17,296
+Pediatrics,5,Saturday,19,9,10,202
+General Medicine,4,Tuesday,22,3,3,108
+Cardiology,0,Tuesday,56,3,19,470
+General Medicine,11,Tuesday,33,2,10,239
+Pediatrics,10,Monday,64,1,9,467
+Emergency,3,Thursday,25,9,12,243
+Neurology,17,Sunday,21,6,7,129
+Cardiology,3,Saturday,22,6,12,246
+Neurology,16,Tuesday,61,8,8,165
+Pediatrics,1,Monday,41,5,0,61
+Cardiology,23,Monday,64,9,0,53
+General Medicine,21,Thursday,42,5,14,268
+Orthopedics,1,Friday,16,2,3,108
+Neurology,11,Friday,79,6,19,363
+Cardiology,5,Sunday,88,9,0,77
+Neurology,9,Sunday,77,3,11,311
+Cardiology,22,Tuesday,5,4,10,194
+Emergency,20,Sunday,62,8,18,323
+General Medicine,22,Tuesday,7,6,14,272
+Neurology,15,Saturday,67,7,9,198
+Orthopedics,13,Sunday,25,7,0,24
+Orthopedics,6,Thursday,27,4,2,73
+Pediatrics,18,Tuesday,13,6,13,214
+Cardiology,22,Thursday,87,9,14,319
+Neurology,16,Monday,59,3,0,108
+Pediatrics,8,Tuesday,23,8,9,171
+Neurology,12,Monday,66,7,0,60
+Cardiology,21,Wednesday,91,4,14,331
+Orthopedics,4,Thursday,95,3,2,236
+Emergency,22,Wednesday,95,7,19,438
+Orthopedics,4,Tuesday,43,9,11,237
+Pediatrics,9,Monday,80,3,18,412
+General Medicine,20,Tuesday,31,9,15,246
+Emergency,9,Wednesday,50,8,7,146
+Pediatrics,6,Tuesday,38,3,13,255
+Cardiology,14,Saturday,37,8,17,279
+Emergency,6,Friday,96,4,0,128
+Pediatrics,14,Wednesday,99,6,1,110
+Cardiology,2,Tuesday,54,2,11,381
+Orthopedics,18,Monday,24,8,16,267
+General Medicine,9,Tuesday,44,9,1,52
+Cardiology,14,Monday,99,7,16,321
+Neurology,2,Friday,62,8,6,171
+Cardiology,5,Tuesday,35,7,5,133
+Cardiology,11,Sunday,42,4,5,139
+General Medicine,14,Sunday,90,1,7,557
+Neurology,5,Friday,49,3,4,183
+Pediatrics,12,Wednesday,45,7,14,252
+Pediatrics,18,Monday,13,7,6,107
+Cardiology,2,Sunday,13,3,2,71
+Neurology,7,Saturday,67,1,9,473
+Neurology,7,Wednesday,83,9,2,88
+General Medicine,22,Monday,81,6,13,328
+Orthopedics,19,Friday,26,7,2,58
+Pediatrics,14,Sunday,20,1,0,111
+General Medicine,3,Thursday,36,1,0,220
+Emergency,18,Tuesday,70,4,18,376
+Pediatrics,20,Friday,94,7,3,126
+General Medicine,2,Monday,18,8,1,47
+Pediatrics,12,Monday,42,9,10,190
+Orthopedics,7,Monday,12,1,11,236
+Emergency,22,Monday,25,4,12,263
+Orthopedics,15,Tuesday,60,4,15,311
+Emergency,12,Wednesday,50,3,15,325
+Cardiology,2,Saturday,47,7,18,370
+General Medicine,15,Thursday,96,1,19,600
+Emergency,8,Tuesday,50,9,19,316
+Orthopedics,13,Monday,52,8,8,165
+Pediatrics,12,Tuesday,74,2,15,425
+Emergency,20,Friday,88,2,6,323
+General Medicine,6,Saturday,35,8,12,217
+Emergency,14,Monday,37,1,3,239
+Neurology,6,Thursday,48,7,12,217
+Pediatrics,5,Monday,75,9,7,194
+General Medicine,1,Saturday,12,3,1,65
+General Medicine,8,Thursday,77,7,6,154
+Cardiology,21,Saturday,6,6,10,168
+Orthopedics,23,Thursday,21,7,16,313
+Cardiology,16,Wednesday,56,7,13,240
+General Medicine,4,Sunday,49,1,12,522
+Pediatrics,11,Wednesday,41,3,14,284
+Emergency,0,Tuesday,46,1,8,432
+Emergency,9,Tuesday,48,5,2,103
+Pediatrics,10,Thursday,85,3,12,328
+General Medicine,15,Monday,42,1,12,401
+Emergency,13,Sunday,98,2,8,366
+Emergency,7,Friday,10,5,17,277
+Emergency,23,Friday,72,3,4,223
+Orthopedics,16,Monday,55,6,10,207
+Orthopedics,17,Monday,39,9,1,47
+Neurology,11,Wednesday,62,6,16,302
+Cardiology,16,Friday,61,2,19,442
+Pediatrics,13,Thursday,77,2,3,246
+Pediatrics,15,Saturday,10,8,17,272
+Pediatrics,13,Tuesday,17,8,19,304
+Neurology,8,Saturday,63,6,7,174
+Orthopedics,3,Wednesday,90,7,18,413
+General Medicine,22,Friday,96,1,11,600
+General Medicine,10,Sunday,34,9,10,181
+Neurology,5,Monday,6,5,15,274
+General Medicine,14,Sunday,62,9,4,114
+Pediatrics,4,Sunday,40,2,2,157
+Cardiology,10,Friday,76,8,11,226
+Emergency,17,Thursday,49,7,14,258
+Orthopedics,12,Wednesday,13,4,15,245
+Orthopedics,10,Monday,69,3,12,307
+Neurology,13,Saturday,81,4,6,197
+Orthopedics,17,Thursday,54,4,14,286
+Pediatrics,18,Saturday,83,8,2,94
+General Medicine,23,Tuesday,36,4,11,263
+Pediatrics,14,Wednesday,47,5,7,156
+Neurology,8,Thursday,99,2,11,424
+Pediatrics,7,Thursday,82,4,17,366
+General Medicine,19,Saturday,58,7,2,80
+Cardiology,0,Monday,51,3,11,311
+Neurology,3,Tuesday,18,1,1,129
+Cardiology,13,Saturday,52,8,13,231
+Emergency,1,Thursday,59,8,13,286
+Cardiology,15,Wednesday,33,6,3,84
+Emergency,2,Thursday,51,7,16,338
+Emergency,7,Friday,67,2,14,393
+Cardiology,5,Wednesday,23,5,15,310
+Neurology,15,Wednesday,95,7,4,139
+General Medicine,23,Thursday,13,9,16,306
+Pediatrics,15,Monday,41,1,6,297
+Pediatrics,6,Wednesday,96,3,14,382
+General Medicine,12,Friday,56,6,16,293
+Emergency,12,Saturday,61,7,11,211
+Emergency,4,Monday,92,6,10,278
+Neurology,19,Monday,32,1,18,439
+Orthopedics,21,Monday,40,4,10,198
+Cardiology,17,Wednesday,68,6,1,79
+Emergency,14,Monday,22,8,14,238
+Pediatrics,17,Thursday,93,4,4,186
+Neurology,1,Monday,39,7,17,358
+Cardiology,9,Friday,72,3,15,352
+Neurology,22,Tuesday,82,8,3,134
+Cardiology,12,Friday,43,1,9,353
+Cardiology,17,Wednesday,94,4,1,145
+General Medicine,14,Monday,12,8,14,226
+Emergency,11,Monday,92,4,3,176
+Neurology,14,Thursday,84,2,15,442
+Neurology,12,Saturday,88,2,6,314
+General Medicine,17,Monday,19,4,11,201
+Pediatrics,14,Sunday,11,4,2,61
+Pediatrics,22,Friday,21,2,16,364
+Emergency,10,Wednesday,90,7,8,194
+Emergency,18,Tuesday,90,6,7,183
+Orthopedics,2,Monday,68,3,5,243
+General Medicine,6,Tuesday,16,8,14,229
+Pediatrics,20,Monday,86,8,9,202
+Cardiology,13,Wednesday,60,1,5,385
+Neurology,13,Saturday,50,3,14,313
+Emergency,21,Friday,51,5,13,253
+Neurology,12,Wednesday,83,2,18,484
+Neurology,11,Tuesday,20,5,12,215
+Orthopedics,23,Monday,73,3,13,398
+Pediatrics,8,Tuesday,6,9,2,48
+Emergency,0,Friday,96,1,3,600
+Neurology,18,Sunday,58,4,13,278
+Emergency,10,Wednesday,31,6,13,224
+Cardiology,22,Tuesday,35,9,7,160
+Orthopedics,21,Tuesday,45,3,9,221
+Cardiology,22,Friday,40,3,8,237
+Emergency,23,Sunday,51,5,13,302
+Emergency,21,Monday,47,7,7,143
+Pediatrics,18,Sunday,69,5,10,234
+Neurology,17,Tuesday,54,8,9,183
+Neurology,11,Friday,97,5,17,360
+Cardiology,22,Monday,5,7,3,76
+Orthopedics,0,Sunday,76,6,3,147
+General Medicine,18,Sunday,61,2,11,319
+Neurology,19,Sunday,20,3,17,297
+Pediatrics,16,Saturday,32,4,7,161
+Cardiology,4,Monday,90,5,2,146
+Cardiology,2,Sunday,86,9,17,366
+General Medicine,1,Saturday,26,6,6,149
+Pediatrics,2,Wednesday,45,1,0,289
+Orthopedics,7,Friday,80,3,12,321
+Pediatrics,15,Sunday,23,7,2,54
+Orthopedics,5,Monday,93,8,2,107
+Pediatrics,12,Saturday,54,7,14,257
+Pediatrics,22,Saturday,63,5,18,402
+Emergency,21,Wednesday,73,8,3,98
+Cardiology,21,Thursday,38,9,12,217
+Pediatrics,15,Friday,43,7,12,214
+General Medicine,15,Thursday,78,9,14,262
+Pediatrics,2,Monday,11,1,18,407
+Neurology,12,Friday,56,9,15,262
+Cardiology,13,Wednesday,64,3,6,208
+Neurology,7,Monday,56,6,2,90
+Cardiology,11,Friday,83,8,19,347
+Neurology,22,Friday,28,3,1,86
+Pediatrics,22,Thursday,30,4,17,356
+Pediatrics,21,Monday,94,7,10,225
+Emergency,20,Wednesday,94,7,0,77
+General Medicine,7,Wednesday,14,4,15,242
+Neurology,20,Monday,21,9,16,250
+Orthopedics,8,Monday,82,3,15,370
+Emergency,0,Saturday,6,8,9,180
+Neurology,5,Tuesday,81,8,16,361
+Neurology,22,Thursday,31,4,2,84
+Emergency,18,Monday,77,7,17,325
+Pediatrics,22,Monday,75,4,18,449
+Neurology,10,Tuesday,52,1,13,469
+Pediatrics,10,Tuesday,78,1,1,411
+Emergency,22,Friday,13,1,11,289
+Pediatrics,12,Sunday,90,2,10,387
+Cardiology,10,Wednesday,27,6,16,277
+Orthopedics,17,Thursday,75,5,5,164
+Neurology,22,Friday,77,2,18,562
+General Medicine,14,Monday,31,8,12,208
+Orthopedics,0,Tuesday,92,9,6,178
+Pediatrics,20,Saturday,97,7,10,230
+Neurology,6,Wednesday,85,9,6,140
+Pediatrics,22,Friday,88,4,12,350
+Cardiology,12,Saturday,75,7,12,255
+Emergency,11,Wednesday,47,5,0,66
+Neurology,17,Sunday,11,5,18,296
+Cardiology,23,Sunday,96,3,18,530
+Cardiology,18,Saturday,87,9,14,272
+Neurology,14,Tuesday,67,5,13,275
+Pediatrics,7,Friday,88,6,2,121
+General Medicine,18,Friday,48,3,19,372
+Cardiology,9,Sunday,43,7,3,81
+Orthopedics,6,Wednesday,44,9,6,124
+Cardiology,17,Saturday,11,9,0,19
+General Medicine,15,Tuesday,74,5,18,352
+Pediatrics,19,Monday,29,7,2,57
+Pediatrics,5,Friday,63,3,19,488
+Orthopedics,8,Monday,17,6,14,229
+Cardiology,20,Tuesday,90,8,12,253
+Pediatrics,12,Sunday,85,8,13,262
+General Medicine,20,Friday,90,2,6,334
+Neurology,7,Friday,66,6,0,75
+Emergency,15,Saturday,12,7,12,200
+Emergency,12,Monday,49,7,3,100
+Emergency,12,Sunday,22,3,11,214
+Cardiology,16,Saturday,92,9,6,153
+Orthopedics,22,Thursday,64,2,1,223
+Pediatrics,19,Monday,64,3,16,354
+Neurology,4,Monday,6,2,0,34
+General Medicine,21,Thursday,70,9,13,249
+Neurology,20,Tuesday,95,4,0,121
+General Medicine,16,Tuesday,18,2,2,97
+Cardiology,8,Friday,52,3,10,254
+Emergency,1,Wednesday,60,4,6,206
+Cardiology,17,Saturday,16,6,8,146
+Orthopedics,8,Wednesday,96,5,2,135
+Orthopedics,5,Friday,59,3,0,131
+General Medicine,10,Wednesday,32,8,18,299
+Pediatrics,5,Monday,93,8,1,102
+Pediatrics,5,Monday,8,7,4,84
+General Medicine,12,Thursday,94,3,16,417
+Orthopedics,10,Thursday,40,1,18,475
+Orthopedics,13,Friday,54,5,4,126
+Orthopedics,1,Friday,7,1,13,283
+Cardiology,7,Sunday,5,6,9,148
+Orthopedics,2,Friday,21,7,6,140
+Neurology,22,Monday,75,5,7,228
+Emergency,20,Wednesday,66,4,7,198
+Orthopedics,2,Saturday,52,2,6,273
+General Medicine,0,Sunday,66,5,12,303
+Emergency,23,Sunday,73,9,13,298
+Cardiology,18,Sunday,23,4,18,304
+General Medicine,17,Friday,38,2,10,251
+Emergency,16,Friday,53,6,1,65
+General Medicine,19,Monday,84,8,16,300
+Cardiology,23,Saturday,51,2,5,246
+Neurology,12,Monday,95,9,8,175
+Cardiology,2,Saturday,54,7,18,385
+Cardiology,0,Monday,93,2,4,366
+General Medicine,3,Wednesday,30,5,8,193
+Pediatrics,12,Friday,60,5,6,166
+Orthopedics,16,Tuesday,82,7,3,109
+Orthopedics,10,Tuesday,18,5,17,274
+Neurology,1,Friday,82,6,17,404
+Neurology,15,Sunday,29,9,19,302
+Orthopedics,1,Friday,8,3,16,315
+Pediatrics,18,Friday,83,3,3,194
+Orthopedics,22,Friday,36,8,15,321
+Pediatrics,18,Sunday,86,6,4,138
+Neurology,15,Saturday,82,3,8,264
+Emergency,21,Wednesday,69,2,1,200
+General Medicine,18,Tuesday,65,2,1,190
+Neurology,8,Thursday,24,2,3,113
+Neurology,0,Tuesday,78,5,19,448
+Cardiology,9,Tuesday,14,5,19,305
+Cardiology,18,Sunday,92,1,16,600
+Cardiology,0,Monday,38,2,19,458
+General Medicine,1,Friday,65,2,18,548
+Cardiology,15,Friday,96,4,2,163
+Pediatrics,11,Friday,31,7,4,86
+Orthopedics,7,Monday,44,3,9,216
+Emergency,22,Sunday,69,5,5,178
+Neurology,17,Wednesday,37,9,2,56
+Pediatrics,1,Wednesday,72,5,16,387
+Emergency,12,Sunday,75,9,9,193
+Pediatrics,5,Thursday,13,1,11,287
+Pediatrics,20,Wednesday,20,9,0,11
+Neurology,5,Sunday,9,5,17,325
+Orthopedics,8,Wednesday,27,8,18,294
+Cardiology,15,Friday,47,5,19,342
+General Medicine,10,Saturday,93,6,3,131
+Orthopedics,6,Sunday,61,8,14,247
+General Medicine,9,Tuesday,55,2,8,262
+Neurology,9,Wednesday,17,3,5,107
+Neurology,19,Wednesday,28,9,11,195
+Neurology,17,Monday,15,5,17,278
+Emergency,23,Thursday,56,5,14,319
+General Medicine,19,Saturday,21,9,18,287
+Orthopedics,8,Monday,41,3,8,204
+Orthopedics,14,Friday,17,4,12,208
+Pediatrics,3,Tuesday,66,7,15,334
+Pediatrics,7,Thursday,95,2,12,426
+Pediatrics,8,Monday,88,8,0,66
+Neurology,12,Sunday,12,5,17,276
+Orthopedics,8,Wednesday,60,1,2,345
+General Medicine,3,Wednesday,97,3,16,493
+Neurology,16,Thursday,87,9,4,121
+Emergency,15,Wednesday,74,5,5,159
+Pediatrics,14,Sunday,48,8,16,273
+Neurology,2,Monday,64,1,16,600
+Neurology,19,Monday,45,7,0,47
+Emergency,4,Wednesday,25,7,6,138
+Cardiology,22,Wednesday,90,8,15,348
+Orthopedics,4,Friday,46,3,4,179
+General Medicine,19,Tuesday,78,1,15,600
+Cardiology,14,Thursday,78,9,3,98
+Pediatrics,17,Monday,33,1,10,327
+Neurology,14,Thursday,84,6,13,276
+Emergency,1,Friday,69,9,12,276
+Emergency,12,Monday,21,2,7,167
+Orthopedics,3,Friday,34,4,19,408
+Cardiology,9,Friday,30,2,14,296
+Orthopedics,12,Saturday,57,4,17,337
+Neurology,9,Wednesday,23,2,6,164
+Orthopedics,8,Sunday,57,1,18,567
+General Medicine,7,Saturday,89,3,8,279
+Emergency,2,Thursday,21,8,10,202
+Emergency,15,Sunday,50,5,9,190
+Pediatrics,13,Thursday,89,4,13,321
+Pediatrics,8,Wednesday,57,5,15,294
+Neurology,20,Sunday,68,6,7,176
+General Medicine,10,Saturday,49,6,0,51
+Cardiology,2,Thursday,53,5,11,275
+Orthopedics,4,Saturday,23,6,2,70
+Neurology,9,Wednesday,75,9,1,66
+Pediatrics,12,Sunday,85,5,15,317
+Orthopedics,3,Sunday,69,6,3,143
+Pediatrics,23,Monday,41,4,1,87
+Orthopedics,12,Friday,74,3,11,299
+Cardiology,11,Friday,30,6,16,274
+Neurology,4,Saturday,6,5,19,366
+Orthopedics,9,Sunday,63,4,9,224
+General Medicine,23,Thursday,9,5,19,367
+Emergency,8,Saturday,41,7,7,145
+General Medicine,19,Saturday,35,1,17,435
+General Medicine,6,Tuesday,80,1,17,600
+Emergency,1,Sunday,98,1,17,600
+General Medicine,21,Friday,52,2,1,151
+Orthopedics,23,Sunday,10,9,11,208
+Orthopedics,22,Wednesday,19,5,9,191
+Orthopedics,6,Saturday,19,9,7,129
+Emergency,7,Tuesday,65,5,18,353
+General Medicine,6,Tuesday,20,7,9,159
+Emergency,20,Friday,24,6,10,175
+Orthopedics,22,Friday,81,2,13,491
+General Medicine,13,Friday,48,3,14,305
+General Medicine,18,Wednesday,46,5,9,200
+Pediatrics,4,Tuesday,50,4,3,148
+Pediatrics,22,Thursday,99,6,6,220
+Cardiology,17,Wednesday,38,8,10,186
+Neurology,19,Monday,68,8,2,78
+Pediatrics,11,Saturday,33,3,4,128
+Emergency,22,Friday,7,4,1,46
+Pediatrics,16,Tuesday,13,1,11,227
+Cardiology,12,Saturday,79,2,4,268
+General Medicine,1,Sunday,79,9,6,181
+Cardiology,12,Wednesday,29,2,3,124
+General Medicine,6,Monday,90,6,10,224
+General Medicine,9,Sunday,46,7,8,162
+Neurology,22,Wednesday,50,6,3,122
+Pediatrics,5,Wednesday,77,8,8,216
+Emergency,2,Thursday,88,9,11,268
+Emergency,2,Saturday,63,8,15,323
+Orthopedics,17,Thursday,25,5,0,29
+General Medicine,10,Wednesday,78,8,7,164
+Emergency,21,Monday,26,9,0,24
+Neurology,19,Tuesday,33,8,19,319
+General Medicine,4,Tuesday,67,2,18,539
+Neurology,18,Sunday,77,2,3,243
+Emergency,21,Saturday,65,3,13,314
+Emergency,18,Friday,68,7,13,254
+Orthopedics,14,Friday,73,9,8,162
+Emergency,15,Tuesday,44,8,8,155
+General Medicine,23,Wednesday,79,9,16,353
+General Medicine,8,Wednesday,5,6,14,223
+General Medicine,3,Thursday,69,1,9,589
+Orthopedics,14,Saturday,66,4,16,332
+Orthopedics,11,Thursday,58,6,8,180
+Emergency,22,Friday,64,6,3,131
+Cardiology,2,Tuesday,50,8,13,283
+Cardiology,22,Sunday,9,1,2,102
+Orthopedics,13,Wednesday,26,2,11,238
+Emergency,16,Tuesday,94,2,0,242
+Cardiology,18,Monday,57,6,0,57
+Emergency,5,Tuesday,74,7,12,279
+Emergency,3,Monday,36,2,13,351
+Emergency,6,Thursday,15,5,15,246
+Pediatrics,18,Thursday,14,6,6,107
+General Medicine,16,Friday,43,4,9,197
+Emergency,15,Tuesday,35,1,14,388
+Pediatrics,14,Tuesday,16,3,7,140
+Orthopedics,21,Monday,84,9,10,207
+Cardiology,7,Thursday,42,6,13,245
+General Medicine,18,Monday,71,2,12,378
+Cardiology,7,Thursday,70,9,12,219
+General Medicine,17,Monday,56,4,8,195
+Cardiology,15,Thursday,9,8,16,254
+General Medicine,19,Monday,15,7,17,276
+Cardiology,18,Sunday,29,3,18,330
+Cardiology,9,Thursday,39,8,12,211
+Cardiology,16,Saturday,39,4,11,211
+Cardiology,12,Monday,26,2,19,365
+Orthopedics,12,Tuesday,41,5,19,338
+Emergency,6,Friday,90,1,7,568
+Neurology,9,Saturday,59,8,10,195
+Pediatrics,1,Saturday,79,8,6,181
+Neurology,3,Monday,99,3,0,198
+Neurology,5,Friday,76,1,9,600
+General Medicine,23,Tuesday,68,4,14,373
+Emergency,17,Saturday,24,9,3,68
+General Medicine,22,Tuesday,8,9,0,28
+Emergency,5,Thursday,22,1,10,318
+Emergency,22,Sunday,55,7,4,146
+Cardiology,16,Friday,72,6,18,353
+Orthopedics,13,Sunday,24,7,18,293
+Cardiology,23,Wednesday,13,7,3,74
+Orthopedics,10,Thursday,84,8,1,83
+General Medicine,18,Friday,30,8,6,115
+Orthopedics,1,Monday,29,2,12,313
+General Medicine,2,Sunday,72,4,19,457
+Neurology,10,Monday,45,4,11,227
+Neurology,5,Tuesday,63,8,1,77
+Orthopedics,13,Saturday,49,3,8,210
+Orthopedics,18,Sunday,45,3,15,299
+General Medicine,15,Wednesday,42,2,7,227
+Cardiology,20,Monday,23,1,17,387
+General Medicine,21,Friday,18,8,3,68
+Cardiology,23,Sunday,25,9,10,209
+Neurology,6,Sunday,19,9,16,255
+Emergency,7,Saturday,7,8,7,117
+Orthopedics,18,Saturday,41,5,18,326
+Cardiology,19,Friday,50,1,7,367
+General Medicine,15,Saturday,20,9,5,98
+Neurology,21,Monday,18,6,1,42
+Cardiology,6,Friday,13,7,14,234
+General Medicine,8,Friday,11,8,0,21
+Orthopedics,12,Tuesday,18,5,5,106
+Orthopedics,0,Wednesday,10,6,18,343
+Pediatrics,7,Sunday,89,7,3,126
+Emergency,23,Tuesday,19,7,12,241
+Pediatrics,21,Wednesday,56,2,14,355
+Neurology,3,Friday,76,1,8,600
+Cardiology,2,Sunday,38,8,2,69
+Neurology,2,Saturday,5,5,1,39
+General Medicine,21,Wednesday,73,2,15,417
+Orthopedics,12,Friday,98,3,17,433
+Pediatrics,7,Friday,90,6,17,327
+Pediatrics,6,Tuesday,24,6,5,106
+Pediatrics,0,Tuesday,84,8,17,379
+Neurology,15,Saturday,11,5,10,169
+Orthopedics,5,Thursday,11,5,6,126
+Cardiology,6,Monday,54,7,13,243
+General Medicine,11,Thursday,6,5,17,267
+Cardiology,22,Thursday,51,9,6,163
+Neurology,8,Sunday,18,6,9,163
+General Medicine,10,Sunday,35,7,7,144
+Pediatrics,9,Saturday,54,8,13,230
+Emergency,20,Sunday,65,5,17,334
+Neurology,0,Wednesday,45,4,4,156
+Neurology,17,Saturday,18,8,13,214
+Orthopedics,3,Saturday,9,9,9,178
+Cardiology,4,Friday,79,1,14,600
+Neurology,8,Friday,9,3,5,98
+Neurology,16,Friday,68,4,8,217
+Pediatrics,2,Monday,33,7,9,198
+Pediatrics,15,Wednesday,79,6,16,316
+General Medicine,4,Wednesday,9,1,0,81
+Emergency,15,Friday,40,4,13,250
+Orthopedics,2,Thursday,83,6,3,150
+Emergency,19,Monday,23,3,1,58
+General Medicine,14,Thursday,68,2,2,202
+Pediatrics,2,Tuesday,26,2,6,202
+Cardiology,19,Wednesday,38,4,13,250
+Pediatrics,13,Wednesday,60,1,11,482
+Orthopedics,15,Thursday,21,2,18,335
+Pediatrics,16,Monday,80,2,17,461
+Orthopedics,23,Wednesday,93,4,14,398
+Orthopedics,19,Thursday,60,4,0,88
+Orthopedics,22,Saturday,21,1,2,167
+General Medicine,17,Saturday,78,7,14,270
+Orthopedics,17,Sunday,96,7,3,114
+Orthopedics,21,Monday,86,1,14,600
+Cardiology,13,Thursday,22,8,9,154
+Emergency,17,Sunday,49,7,5,121
+Neurology,14,Saturday,82,7,12,242
+Emergency,14,Monday,60,6,6,141
+Orthopedics,5,Sunday,84,4,0,142
+Cardiology,14,Friday,54,8,10,192
+Pediatrics,17,Monday,62,2,13,356
+Cardiology,3,Tuesday,22,7,5,117
+Orthopedics,22,Friday,84,3,4,249
+Cardiology,7,Sunday,85,3,18,431
+Cardiology,14,Thursday,11,7,18,289
+Orthopedics,2,Friday,80,3,12,388
+General Medicine,14,Friday,14,5,6,110
+Cardiology,12,Sunday,73,8,7,164
+Neurology,8,Thursday,89,4,13,310
+Neurology,1,Thursday,7,7,18,345
+Cardiology,23,Saturday,87,7,18,413
+General Medicine,7,Tuesday,48,2,11,300
+Pediatrics,19,Thursday,74,8,8,166
+Orthopedics,16,Wednesday,18,9,13,220
+Neurology,12,Wednesday,8,6,5,93
+Pediatrics,0,Tuesday,22,5,14,285
+Cardiology,1,Monday,97,1,12,600
+Pediatrics,14,Sunday,56,1,6,377
+Emergency,11,Monday,42,9,10,184
+Neurology,13,Wednesday,84,4,9,242
+Cardiology,1,Thursday,24,1,0,150
+Orthopedics,17,Tuesday,92,3,6,247
+General Medicine,21,Monday,48,6,17,302
+Cardiology,6,Monday,55,8,2,68
+Orthopedics,22,Sunday,23,2,8,238
+General Medicine,5,Friday,72,8,4,143
+General Medicine,13,Wednesday,70,1,12,534
+Cardiology,7,Thursday,17,2,15,272
+Pediatrics,21,Tuesday,66,8,15,268
+Pediatrics,1,Monday,65,7,11,264
+General Medicine,16,Sunday,34,5,17,307
+Pediatrics,4,Friday,34,2,10,301
+Emergency,13,Wednesday,55,9,16,281
+General Medicine,23,Wednesday,92,5,6,228
+General Medicine,19,Sunday,52,8,14,255
+Orthopedics,20,Tuesday,37,4,5,132
+Pediatrics,20,Monday,78,9,5,130
+General Medicine,21,Tuesday,86,7,17,327
+Emergency,2,Sunday,23,2,18,407
+Orthopedics,4,Sunday,75,3,19,495
+Cardiology,15,Tuesday,61,2,18,431
+General Medicine,17,Saturday,23,5,1,49
+Emergency,16,Friday,92,2,2,267
+Neurology,10,Wednesday,83,5,13,281
+Emergency,16,Saturday,45,9,3,80
+Emergency,15,Thursday,46,2,16,385
+Orthopedics,22,Wednesday,91,9,5,157
+Cardiology,1,Wednesday,56,7,18,383
+Neurology,3,Friday,8,7,8,170
+Pediatrics,20,Thursday,8,5,3,71
+Pediatrics,6,Monday,9,8,6,102
+Emergency,1,Thursday,45,7,3,110
+Orthopedics,5,Monday,91,6,10,287
+Orthopedics,16,Thursday,65,2,1,184
+Pediatrics,6,Tuesday,79,6,9,213
+Neurology,4,Sunday,59,2,5,277
+Cardiology,4,Thursday,79,1,7,600
+Neurology,19,Saturday,17,9,14,238
+General Medicine,15,Saturday,18,5,12,211
+General Medicine,18,Friday,64,4,1,96
+Cardiology,8,Sunday,76,8,19,341
+Pediatrics,4,Sunday,29,5,0,43
+Cardiology,7,Monday,86,7,14,280
+Orthopedics,8,Wednesday,48,3,6,182
+General Medicine,4,Friday,86,8,17,384
+Emergency,9,Saturday,14,8,9,160
+Emergency,1,Saturday,75,3,14,421
+Pediatrics,8,Monday,54,9,4,93
+Orthopedics,10,Saturday,48,8,10,189
+Neurology,3,Saturday,18,1,7,234
+Orthopedics,21,Monday,19,8,7,121
+Emergency,21,Saturday,20,4,5,99
+Emergency,21,Wednesday,6,6,14,217
+General Medicine,1,Tuesday,34,9,14,295
+Orthopedics,22,Friday,34,5,4,129
+Orthopedics,5,Wednesday,86,7,12,305
+Emergency,13,Wednesday,35,1,13,385
+Neurology,0,Tuesday,81,9,10,249
+Pediatrics,17,Sunday,24,6,19,314
+Pediatrics,6,Friday,53,4,11,238
+Orthopedics,0,Wednesday,39,6,19,403
+Pediatrics,0,Saturday,27,5,0,52
+Emergency,0,Tuesday,65,3,2,176
+Emergency,23,Sunday,88,7,7,218
+Orthopedics,3,Friday,59,3,11,311
+Orthopedics,3,Thursday,71,2,14,481
+General Medicine,17,Monday,12,4,2,52
+Orthopedics,10,Saturday,44,7,7,159
+Neurology,0,Tuesday,63,5,18,418
+Pediatrics,9,Monday,36,9,19,305
+Orthopedics,8,Sunday,97,7,5,150
+Cardiology,22,Sunday,11,9,17,325
+General Medicine,3,Thursday,6,9,10,195
+Cardiology,5,Wednesday,89,2,11,476
+Emergency,15,Wednesday,10,1,1,79
+Pediatrics,1,Friday,96,4,4,224
+Orthopedics,22,Tuesday,40,4,3,125
+Cardiology,17,Tuesday,36,2,8,227
+Pediatrics,9,Sunday,49,3,12,279
+Emergency,23,Friday,46,3,12,325
+Neurology,23,Monday,57,5,14,330
+General Medicine,16,Wednesday,13,1,1,86
+Pediatrics,12,Wednesday,79,9,12,233
+Pediatrics,23,Sunday,91,8,6,188
+Neurology,17,Tuesday,79,8,16,299
+Pediatrics,21,Sunday,53,3,7,206
+Emergency,12,Tuesday,6,2,17,281
+Emergency,16,Friday,71,1,14,576
+Neurology,4,Thursday,15,6,14,276
+General Medicine,10,Monday,54,1,4,334
+Orthopedics,6,Saturday,39,5,1,67
+Cardiology,9,Thursday,19,9,15,245
+Orthopedics,16,Thursday,79,9,4,115
+Pediatrics,14,Tuesday,35,4,5,130
+Cardiology,17,Tuesday,96,7,11,233
+Neurology,22,Tuesday,66,7,4,150
+Neurology,21,Thursday,32,4,19,332
+General Medicine,18,Sunday,29,5,7,150
+Cardiology,1,Monday,88,9,10,253
+Emergency,3,Sunday,96,7,13,321
+Cardiology,2,Tuesday,29,7,16,320
+Pediatrics,6,Wednesday,79,7,9,197
+Emergency,23,Sunday,87,9,1,84
+Neurology,17,Monday,96,5,2,127
+Cardiology,9,Wednesday,5,6,12,190
+Orthopedics,6,Monday,63,3,16,359
+General Medicine,7,Tuesday,73,1,2,410
+Orthopedics,5,Sunday,78,2,9,403
+General Medicine,21,Saturday,46,8,7,134
+Pediatrics,0,Friday,38,1,3,297
+Orthopedics,3,Tuesday,70,7,12,281
+Cardiology,13,Thursday,22,5,6,116
+Cardiology,16,Saturday,81,6,6,166
+Orthopedics,19,Thursday,9,8,15,238
+Cardiology,17,Monday,24,4,4,96
+Pediatrics,10,Thursday,70,6,16,304
+Emergency,20,Saturday,79,3,9,274
+Pediatrics,13,Saturday,66,7,3,98
+General Medicine,8,Tuesday,98,2,13,446
+Pediatrics,14,Wednesday,36,8,4,90
+General Medicine,11,Tuesday,62,7,1,71
+Cardiology,9,Monday,54,8,13,239
+Emergency,18,Thursday,42,2,17,367
+Cardiology,23,Wednesday,59,3,10,308
+Neurology,18,Sunday,32,4,15,281
+Cardiology,5,Friday,78,9,17,375
+General Medicine,19,Saturday,90,5,15,327
+Cardiology,23,Wednesday,85,6,3,140
+Cardiology,5,Sunday,26,1,0,168
+Emergency,7,Wednesday,47,4,13,260
+Cardiology,0,Tuesday,87,4,11,334
+Emergency,21,Sunday,85,8,9,196
+Orthopedics,16,Friday,92,8,18,342
+Neurology,16,Saturday,40,6,3,92
+Emergency,23,Monday,56,8,19,392
+General Medicine,14,Monday,40,9,2,62
+Orthopedics,6,Wednesday,32,5,3,84
+Emergency,18,Sunday,82,1,14,600
+Emergency,21,Wednesday,62,1,10,474
+Neurology,22,Thursday,40,2,15,401
+General Medicine,2,Friday,74,2,3,277
+Pediatrics,21,Saturday,13,5,5,98
+Pediatrics,10,Wednesday,25,7,7,141
+Emergency,19,Thursday,68,7,12,235
+Cardiology,18,Sunday,80,4,19,402
+General Medicine,8,Friday,65,4,3,139
+Orthopedics,9,Saturday,98,3,4,239
+Cardiology,1,Monday,99,2,9,476
+Cardiology,0,Thursday,44,3,4,173
+General Medicine,15,Sunday,60,8,11,209
+Emergency,17,Friday,8,1,0,50
+Emergency,22,Thursday,35,4,9,227
+Emergency,16,Wednesday,31,7,4,97
+Emergency,5,Tuesday,62,5,18,396
+Pediatrics,13,Monday,29,2,18,345
+Emergency,22,Wednesday,73,1,19,600
+Pediatrics,14,Wednesday,74,6,11,238
+Pediatrics,13,Sunday,9,5,15,239
+Emergency,23,Sunday,95,3,4,276
+Neurology,21,Friday,12,9,16,260
+Orthopedics,2,Sunday,13,3,13,270
+Cardiology,23,Thursday,19,2,11,275
+Pediatrics,22,Monday,11,5,12,250
+General Medicine,18,Wednesday,76,9,13,247
+General Medicine,11,Friday,19,8,4,86
+Orthopedics,1,Monday,41,6,4,114
+General Medicine,2,Sunday,87,3,17,498
+Neurology,17,Sunday,43,6,13,248
+General Medicine,0,Thursday,10,5,17,323
+Cardiology,19,Sunday,87,1,19,600
+Cardiology,20,Wednesday,61,5,0,61
+Pediatrics,5,Saturday,96,7,6,197
+Emergency,4,Wednesday,85,9,16,353
+Neurology,0,Wednesday,23,1,2,177
+Pediatrics,18,Sunday,67,3,9,255
+Neurology,0,Monday,35,8,6,144
+Emergency,20,Sunday,79,6,11,243
+General Medicine,20,Monday,83,5,14,295
+General Medicine,15,Monday,14,2,15,273
+Emergency,11,Monday,91,3,7,262
+Pediatrics,21,Friday,71,2,5,256
+Emergency,7,Tuesday,66,1,3,384
+Orthopedics,15,Sunday,7,7,10,168
+Cardiology,0,Friday,22,3,16,341
+Pediatrics,3,Wednesday,29,7,1,57
+Neurology,9,Friday,24,7,5,103
+Orthopedics,10,Thursday,62,8,3,109
+Pediatrics,16,Saturday,97,1,2,523
+Emergency,22,Monday,90,5,6,227
+Emergency,6,Sunday,54,9,6,135
+Emergency,11,Thursday,83,7,15,294
+Emergency,20,Sunday,14,1,1,96
+Neurology,6,Saturday,25,8,7,121
+Orthopedics,11,Thursday,33,3,14,274
+General Medicine,14,Sunday,14,4,15,248
+Cardiology,1,Wednesday,17,4,0,34
+Neurology,13,Monday,51,8,9,178
+Neurology,12,Thursday,27,1,6,234
+General Medicine,3,Wednesday,54,8,15,327
+General Medicine,13,Monday,91,9,9,200
+Cardiology,13,Tuesday,99,9,11,229
+Cardiology,15,Wednesday,8,5,16,259
+General Medicine,6,Friday,71,4,12,268
+Emergency,18,Sunday,89,4,11,287
+Neurology,1,Monday,57,9,14,308
+Pediatrics,9,Thursday,6,8,13,204
+Cardiology,17,Saturday,72,7,18,335
+Cardiology,16,Thursday,69,3,18,392
+General Medicine,4,Friday,83,4,13,367
+Orthopedics,11,Sunday,61,9,17,306
+Pediatrics,5,Friday,74,8,4,139
+Pediatrics,21,Thursday,11,1,19,354
+Cardiology,8,Sunday,23,3,5,113
+Emergency,19,Saturday,48,2,17,381
+Orthopedics,0,Monday,67,2,13,451
+Pediatrics,21,Sunday,69,8,3,98
+Cardiology,14,Wednesday,43,6,0,44
+Pediatrics,20,Sunday,87,6,12,265
+Orthopedics,5,Friday,30,4,10,232
+Orthopedics,18,Friday,48,1,2,286
+Neurology,17,Friday,16,7,16,260
+General Medicine,5,Saturday,26,8,17,332
+General Medicine,12,Sunday,81,2,9,343
+Cardiology,0,Sunday,96,2,15,569
+Orthopedics,22,Tuesday,18,1,12,333
+Neurology,22,Saturday,90,4,19,492
+Neurology,12,Monday,34,6,11,203
+Pediatrics,6,Monday,48,5,3,101
+Pediatrics,14,Monday,88,4,7,226
+Neurology,11,Monday,95,4,11,291
+Pediatrics,0,Monday,42,7,18,374
+Orthopedics,14,Thursday,63,7,14,266
+Emergency,3,Friday,46,2,15,421
+Orthopedics,12,Saturday,56,7,11,213
+Neurology,22,Thursday,67,2,19,551
+Neurology,4,Saturday,65,4,17,420
+Orthopedics,1,Tuesday,38,1,11,441
+Pediatrics,22,Sunday,43,5,15,327
+Pediatrics,0,Wednesday,45,1,19,600
+General Medicine,15,Friday,41,4,10,217
+Neurology,22,Tuesday,69,9,19,405
+Cardiology,5,Thursday,83,8,13,301
+General Medicine,22,Wednesday,36,6,1,66
+Pediatrics,15,Sunday,12,8,12,199
+Orthopedics,13,Tuesday,22,5,13,231
+Pediatrics,2,Sunday,49,7,5,144
+Orthopedics,14,Sunday,97,8,11,238
+General Medicine,2,Saturday,37,7,6,157
+Neurology,22,Wednesday,9,4,3,85
+Pediatrics,1,Saturday,86,5,6,222
+Orthopedics,0,Sunday,78,6,12,306
+Neurology,8,Tuesday,40,6,10,189
+Cardiology,8,Sunday,27,9,7,128
+Orthopedics,22,Thursday,44,2,18,465
+General Medicine,6,Sunday,9,6,1,31
+Cardiology,2,Saturday,38,3,17,393
+Cardiology,17,Wednesday,28,2,9,219
+Emergency,10,Tuesday,21,6,5,104
+Pediatrics,6,Saturday,99,4,3,172
+Orthopedics,8,Sunday,75,5,18,357
+Cardiology,0,Thursday,85,5,13,344
+Emergency,13,Friday,96,3,13,359
+General Medicine,19,Thursday,26,4,17,291
+Neurology,5,Sunday,19,3,16,339
+Orthopedics,6,Thursday,19,7,17,283
+Cardiology,9,Friday,29,1,17,408
+Pediatrics,6,Thursday,57,6,4,122
+Emergency,1,Friday,25,4,8,194
+Cardiology,3,Sunday,70,1,0,419
+Pediatrics,20,Friday,95,1,3,533
+Cardiology,16,Saturday,36,5,6,133
+Orthopedics,0,Saturday,25,5,10,217
+Orthopedics,9,Friday,72,7,13,259
+Orthopedics,18,Tuesday,48,4,9,205
+General Medicine,14,Wednesday,87,9,18,327
+General Medicine,9,Tuesday,70,4,7,202
+Emergency,18,Friday,94,7,2,102
+Orthopedics,11,Wednesday,18,5,7,141
+Pediatrics,23,Saturday,19,5,17,341
+Cardiology,15,Wednesday,24,6,4,90
+Neurology,8,Friday,38,8,19,318
+Pediatrics,14,Saturday,40,5,10,191
+General Medicine,16,Wednesday,87,3,8,271
+General Medicine,13,Wednesday,13,6,18,284
+Pediatrics,17,Tuesday,75,2,11,355
+General Medicine,1,Wednesday,34,8,4,100
+Orthopedics,3,Sunday,81,8,15,338
+Emergency,17,Friday,95,3,12,348
+Cardiology,6,Monday,67,8,5,119
+Emergency,12,Monday,39,9,15,260
+Cardiology,14,Monday,17,5,17,283
+Cardiology,22,Friday,83,5,16,398
+Emergency,21,Monday,50,6,11,227
+Pediatrics,0,Tuesday,60,7,0,61
+Cardiology,10,Friday,13,3,6,125
+Emergency,9,Sunday,91,5,13,297
+Cardiology,4,Saturday,40,1,17,566
+Neurology,15,Sunday,7,5,0,22
+Pediatrics,10,Friday,23,4,19,322
+Orthopedics,20,Friday,32,1,9,303
+Cardiology,5,Wednesday,27,7,14,279
+Neurology,8,Wednesday,11,1,10,215
+Orthopedics,12,Wednesday,80,8,3,108
+Orthopedics,23,Thursday,18,2,14,317
+Cardiology,7,Tuesday,50,5,15,292
+Emergency,13,Friday,19,6,14,236
+Cardiology,23,Sunday,71,9,16,354
+Neurology,0,Friday,19,7,10,207
+Orthopedics,16,Wednesday,55,6,17,305
+Cardiology,23,Friday,92,5,15,388
+Emergency,4,Saturday,12,6,14,275
+Cardiology,1,Friday,73,4,10,297
+Pediatrics,23,Sunday,66,1,12,600
+Emergency,8,Monday,55,9,17,285
+Neurology,3,Saturday,67,5,7,224
+Orthopedics,16,Saturday,72,8,8,176
+Cardiology,16,Friday,82,7,10,219
+Emergency,20,Thursday,20,8,16,263
+Pediatrics,17,Wednesday,88,1,0,447
+Emergency,15,Tuesday,28,9,10,179
+General Medicine,7,Tuesday,10,1,6,141
+Pediatrics,10,Monday,61,3,7,206
+Neurology,20,Tuesday,35,8,18,300
+Orthopedics,20,Tuesday,10,1,3,105
+Neurology,17,Wednesday,83,1,3,465
+Cardiology,22,Wednesday,33,6,18,359
+Emergency,23,Thursday,71,5,8,244
+General Medicine,9,Sunday,79,6,16,313
+Pediatrics,12,Monday,7,3,17,280
+Pediatrics,16,Tuesday,32,6,0,43
+Emergency,17,Thursday,78,2,13,391
+General Medicine,9,Monday,52,8,3,88
+Emergency,15,Saturday,84,6,9,216
+Cardiology,19,Tuesday,14,4,13,226
+Neurology,4,Tuesday,37,4,6,172
+Pediatrics,12,Wednesday,71,7,11,225
+Cardiology,17,Friday,73,3,15,360
+Neurology,16,Monday,16,3,4,98
+Cardiology,8,Tuesday,61,6,10,218
+General Medicine,13,Monday,48,9,3,77
+Pediatrics,16,Sunday,17,1,12,276
+Emergency,3,Thursday,28,5,7,171
+Emergency,17,Thursday,48,1,6,338
+Neurology,19,Friday,61,1,10,467
+Orthopedics,23,Tuesday,20,3,10,232
+General Medicine,23,Sunday,25,3,16,343
+Neurology,14,Wednesday,80,4,13,309
+Orthopedics,10,Tuesday,55,3,1,119
+Cardiology,11,Monday,25,6,19,323
+General Medicine,8,Saturday,64,4,7,198
+Cardiology,12,Thursday,55,8,1,58
+Pediatrics,14,Monday,25,1,14,343
+General Medicine,14,Friday,10,8,4,81
+Orthopedics,4,Thursday,77,1,5,559
+Pediatrics,22,Wednesday,69,1,16,600
+Emergency,18,Thursday,80,7,7,173
+Orthopedics,19,Saturday,62,1,18,582
+Neurology,13,Sunday,82,9,4,117
+Emergency,16,Tuesday,10,8,18,288
+Emergency,17,Saturday,69,1,13,548
+Neurology,20,Sunday,90,2,9,377
+General Medicine,2,Saturday,38,2,12,348
+Emergency,1,Tuesday,60,2,4,259
+Orthopedics,0,Thursday,79,6,6,202
+Pediatrics,9,Friday,7,4,9,158
+Emergency,18,Tuesday,46,8,10,189
+Orthopedics,16,Tuesday,66,1,2,367
+Cardiology,11,Sunday,10,4,12,196
+Orthopedics,0,Wednesday,10,5,1,38
+Pediatrics,11,Thursday,67,9,3,86
+Orthopedics,16,Tuesday,24,5,2,68
+Neurology,23,Friday,25,3,14,312
+Pediatrics,2,Monday,6,4,3,78
+General Medicine,10,Thursday,94,7,3,128
+Cardiology,16,Wednesday,99,1,14,600
+Neurology,22,Saturday,94,6,5,203
+General Medicine,2,Tuesday,60,8,4,126
+Orthopedics,7,Friday,14,1,11,246
+Pediatrics,19,Thursday,91,8,6,157
+Cardiology,3,Friday,74,7,2,107
+Neurology,20,Friday,27,1,6,233
+General Medicine,21,Sunday,96,9,11,235
+General Medicine,6,Saturday,34,3,14,274
+Cardiology,13,Wednesday,82,2,18,476
+Orthopedics,13,Thursday,41,7,5,112
+Cardiology,3,Tuesday,59,3,7,251
+General Medicine,15,Wednesday,53,1,5,352
+Emergency,23,Tuesday,38,3,2,127
+Neurology,21,Monday,48,6,4,111
+Cardiology,0,Friday,26,3,8,205
+General Medicine,16,Monday,35,5,15,270
+Orthopedics,9,Sunday,11,9,15,239
+General Medicine,21,Friday,25,7,8,140
+Orthopedics,15,Saturday,20,2,17,314
+Cardiology,15,Wednesday,24,1,12,323
+Orthopedics,7,Tuesday,47,7,10,188
+Pediatrics,6,Sunday,48,4,9,195
+Pediatrics,5,Saturday,51,7,9,226
+Pediatrics,15,Tuesday,23,6,5,106
+Emergency,19,Wednesday,52,7,15,273
+Cardiology,15,Thursday,83,4,11,276
+General Medicine,6,Sunday,73,3,3,177
+General Medicine,8,Monday,15,5,4,85
+Emergency,13,Monday,83,3,1,169
+Orthopedics,10,Tuesday,33,3,18,339
+Emergency,13,Tuesday,49,4,0,74
+Orthopedics,6,Tuesday,72,8,3,96
+Orthopedics,0,Sunday,40,2,11,331
+Neurology,12,Wednesday,52,4,1,86
+General Medicine,19,Thursday,91,3,11,332
+Pediatrics,2,Monday,19,7,15,293
+Orthopedics,19,Saturday,48,2,1,144
+Neurology,3,Friday,71,1,16,600
+General Medicine,10,Sunday,78,1,1,412
+Pediatrics,1,Sunday,44,6,3,106
+Orthopedics,13,Wednesday,90,3,5,234
+Orthopedics,11,Monday,18,7,6,108
+Emergency,16,Thursday,67,8,14,267
+Emergency,11,Wednesday,85,5,19,379
+General Medicine,11,Saturday,89,5,11,261
+Pediatrics,0,Monday,55,2,4,253
+Orthopedics,12,Wednesday,83,8,13,267
+General Medicine,13,Monday,62,1,15,542
+General Medicine,23,Monday,19,9,10,203
+Cardiology,1,Sunday,69,1,11,600
+Emergency,11,Thursday,92,1,18,600
+Pediatrics,20,Sunday,59,1,16,549
+Orthopedics,15,Friday,80,7,6,156
+General Medicine,3,Thursday,14,4,8,174
+Orthopedics,7,Monday,46,7,13,240
+Cardiology,1,Wednesday,99,5,19,477
+Pediatrics,9,Saturday,15,7,11,193
+General Medicine,8,Thursday,20,7,14,231
+Orthopedics,22,Friday,77,4,11,330
+Emergency,14,Monday,82,2,12,395
+Cardiology,12,Saturday,23,8,8,135
+Pediatrics,22,Thursday,35,2,6,234
+Cardiology,16,Sunday,77,9,0,54
+Emergency,15,Sunday,57,5,9,205
+Pediatrics,1,Thursday,94,9,5,170
+Cardiology,19,Thursday,12,9,14,229
+Neurology,19,Thursday,28,8,14,232
+Emergency,13,Saturday,12,8,8,140
+Emergency,2,Sunday,87,4,12,361
+Emergency,22,Wednesday,52,4,0,79
+Neurology,11,Friday,34,2,8,223
+Neurology,7,Friday,62,4,2,115
+Orthopedics,1,Monday,90,4,8,296
+General Medicine,3,Tuesday,59,6,19,410
+Cardiology,13,Wednesday,77,3,14,345
+Orthopedics,15,Sunday,66,2,6,264
+Cardiology,18,Monday,52,8,3,98
+General Medicine,1,Monday,8,2,19,390
+Neurology,11,Thursday,41,8,16,272
+General Medicine,13,Tuesday,12,7,3,69
+Neurology,5,Sunday,5,3,18,346
+General Medicine,12,Tuesday,96,6,4,160
+Orthopedics,3,Wednesday,74,6,15,362
+Pediatrics,21,Tuesday,51,5,2,92
+Orthopedics,17,Monday,79,8,10,209
+Cardiology,11,Tuesday,9,5,14,232
+Orthopedics,19,Tuesday,54,7,18,320
+Emergency,21,Friday,28,6,13,222
+Cardiology,20,Sunday,51,7,15,272
+General Medicine,18,Sunday,22,9,5,93
+Cardiology,7,Monday,88,3,4,214
+Pediatrics,6,Saturday,32,7,16,278
+Neurology,15,Tuesday,81,3,15,371
+General Medicine,18,Tuesday,9,2,1,45
+Cardiology,5,Thursday,34,7,10,213
+General Medicine,19,Sunday,5,4,3,57
+General Medicine,20,Tuesday,90,1,5,534
+General Medicine,10,Sunday,86,6,6,180
+Neurology,4,Tuesday,50,6,16,343
+Orthopedics,15,Friday,73,6,7,177
+General Medicine,6,Monday,35,2,0,99
+Emergency,4,Sunday,74,1,14,600
+Pediatrics,10,Wednesday,95,3,19,453
+Neurology,14,Monday,60,2,11,327
+Cardiology,2,Thursday,93,6,14,364
+Neurology,4,Monday,97,6,14,356
+Cardiology,22,Tuesday,32,5,8,199
+Neurology,20,Thursday,20,5,15,248
+Cardiology,4,Monday,58,9,1,69
+General Medicine,8,Thursday,57,5,14,275
+Orthopedics,14,Wednesday,16,6,14,229
+Cardiology,2,Monday,24,4,6,161
+Cardiology,5,Sunday,86,1,12,600
+Emergency,16,Sunday,38,4,16,302
+Cardiology,20,Saturday,57,2,10,304
+Emergency,7,Tuesday,68,3,9,252
+Pediatrics,20,Thursday,27,7,0,27
+General Medicine,10,Saturday,31,7,13,232
+Emergency,5,Saturday,21,1,4,215
+Orthopedics,7,Friday,52,8,7,153
+General Medicine,9,Thursday,25,7,0,29
+Emergency,23,Saturday,54,1,6,442
+General Medicine,2,Friday,44,8,1,51
+General Medicine,22,Saturday,99,2,6,422
+General Medicine,13,Tuesday,7,8,6,103
+Pediatrics,22,Wednesday,21,3,8,190
+Orthopedics,13,Friday,65,7,3,105
+Neurology,9,Wednesday,54,6,6,152
+Neurology,11,Thursday,94,5,19,393
+Emergency,5,Tuesday,91,2,17,595
+General Medicine,11,Friday,10,2,12,219
+Emergency,22,Thursday,32,1,10,367
+Pediatrics,13,Saturday,76,9,8,180
+Pediatrics,1,Sunday,59,8,13,285
+Cardiology,8,Monday,62,8,7,150
+Pediatrics,9,Thursday,49,1,13,447
+Cardiology,16,Wednesday,76,5,16,324
+Orthopedics,16,Tuesday,23,6,13,231
+Emergency,2,Tuesday,33,2,4,186
+Orthopedics,18,Thursday,27,5,9,168
+Pediatrics,0,Saturday,36,6,5,134
+Orthopedics,11,Monday,14,9,9,165
+Orthopedics,6,Wednesday,95,1,10,600
+Orthopedics,3,Thursday,53,3,5,205
+Pediatrics,9,Thursday,69,9,9,175
+General Medicine,12,Sunday,33,1,13,361
+Orthopedics,1,Tuesday,63,1,19,600
+Cardiology,9,Wednesday,49,1,2,285
+Pediatrics,20,Monday,71,7,6,156
+Orthopedics,21,Tuesday,55,5,1,83
+General Medicine,3,Thursday,99,6,6,226
+Pediatrics,17,Tuesday,15,8,16,262
+Neurology,4,Tuesday,90,2,12,490
+General Medicine,18,Friday,86,2,8,347
+Cardiology,1,Tuesday,10,3,12,250
+Orthopedics,11,Saturday,71,3,14,337
+Neurology,16,Tuesday,66,3,12,298
+Neurology,9,Saturday,9,4,16,260
+Pediatrics,1,Wednesday,13,3,7,154
+Neurology,5,Tuesday,32,2,8,244
+Cardiology,7,Monday,87,9,8,191
+Cardiology,18,Saturday,96,6,7,188
+Emergency,10,Saturday,95,3,15,384
+Cardiology,11,Thursday,81,9,19,336
+General Medicine,8,Wednesday,42,4,6,154
+Neurology,1,Tuesday,47,4,16,373
+Cardiology,7,Sunday,25,8,6,110
+Pediatrics,10,Monday,95,7,5,153
+Emergency,20,Thursday,66,7,4,114
+Neurology,3,Wednesday,50,7,16,343
+Emergency,9,Saturday,74,5,7,187
+Neurology,20,Monday,42,7,0,36
+Pediatrics,19,Tuesday,53,4,15,298
+Emergency,15,Sunday,79,8,16,288
+Orthopedics,7,Friday,85,9,2,86
+General Medicine,3,Friday,43,3,12,313
+General Medicine,9,Wednesday,75,7,7,161
+Neurology,11,Sunday,34,9,15,252
+Orthopedics,13,Monday,25,1,6,223
+Emergency,15,Thursday,5,2,14,223
+Orthopedics,21,Monday,93,7,1,87
+Orthopedics,17,Sunday,36,2,1,110
+Emergency,20,Saturday,12,7,9,154
+Pediatrics,21,Friday,73,1,4,441
+Orthopedics,20,Wednesday,34,3,3,111
+Orthopedics,11,Tuesday,12,5,14,237
+Pediatrics,17,Monday,23,6,12,208
+Orthopedics,6,Friday,63,9,16,286
+Orthopedics,19,Thursday,59,9,0,43
+Orthopedics,23,Wednesday,34,3,17,400
+General Medicine,22,Tuesday,83,8,14,325
+Cardiology,6,Monday,40,4,13,258
+Pediatrics,8,Thursday,59,7,8,173
+Orthopedics,0,Tuesday,48,6,11,264
+General Medicine,5,Saturday,31,8,4,111
+Pediatrics,5,Friday,81,6,1,113
+Neurology,21,Saturday,82,4,6,196
+Neurology,11,Friday,58,2,8,269
+Orthopedics,21,Thursday,52,7,17,299
+General Medicine,11,Saturday,34,4,3,96
+General Medicine,9,Friday,43,9,1,49
+Pediatrics,22,Wednesday,17,9,0,19
+Pediatrics,5,Thursday,20,7,11,215
+General Medicine,16,Friday,48,5,12,243
+Pediatrics,18,Monday,75,3,13,332
+General Medicine,17,Friday,31,3,4,121
+Cardiology,5,Saturday,49,9,2,88
+General Medicine,23,Wednesday,39,9,3,87
+Neurology,18,Tuesday,83,4,16,353
+Pediatrics,9,Tuesday,32,1,18,440
+General Medicine,23,Friday,11,5,10,202
+General Medicine,7,Tuesday,66,8,7,152
+Pediatrics,20,Friday,55,4,11,248
+Cardiology,23,Wednesday,50,4,17,394
+Cardiology,5,Tuesday,24,9,17,337
+Pediatrics,20,Saturday,42,9,8,149
+Emergency,6,Saturday,65,7,4,120
+Pediatrics,23,Monday,36,8,16,323
+Pediatrics,0,Friday,30,4,12,274
+Cardiology,17,Tuesday,62,8,5,133
+Cardiology,23,Saturday,43,6,13,294
+Pediatrics,19,Sunday,24,3,14,261
+Pediatrics,11,Wednesday,86,7,13,273
+Pediatrics,15,Wednesday,54,3,3,142
+Cardiology,9,Sunday,83,7,17,326
+Pediatrics,9,Sunday,56,5,0,61
+Pediatrics,13,Monday,90,4,11,285
+Orthopedics,19,Wednesday,26,3,8,181
+Emergency,9,Wednesday,57,8,9,181
+Neurology,9,Tuesday,89,4,17,383
+Emergency,10,Friday,70,8,16,293
+Orthopedics,22,Thursday,47,3,18,437
+Neurology,1,Wednesday,86,9,3,123
+Pediatrics,19,Wednesday,27,6,15,258
+Orthopedics,7,Thursday,81,5,6,181
+Pediatrics,22,Wednesday,68,5,8,239
+Cardiology,6,Tuesday,13,3,7,135
+General Medicine,7,Tuesday,11,2,6,120
+Orthopedics,0,Thursday,45,6,9,218
+Cardiology,20,Saturday,58,1,7,405
+Orthopedics,1,Wednesday,69,7,16,368
+Orthopedics,17,Saturday,6,5,11,169
+Cardiology,14,Wednesday,8,4,13,223
+Neurology,0,Friday,82,9,11,270
+Emergency,4,Wednesday,36,1,1,250
+Pediatrics,1,Tuesday,6,4,11,219
+Orthopedics,19,Monday,68,3,13,313
+Pediatrics,2,Sunday,18,6,6,149
+General Medicine,18,Monday,24,5,12,220
+Cardiology,17,Monday,93,7,3,122
+Pediatrics,21,Monday,53,1,0,276
+Cardiology,17,Sunday,12,5,16,261
+Pediatrics,13,Saturday,96,2,2,282
+Emergency,23,Sunday,67,2,16,500
+Emergency,7,Saturday,50,2,7,241
+Emergency,11,Sunday,25,9,2,56
+Emergency,20,Sunday,91,3,9,308
+Emergency,9,Wednesday,36,4,1,65
+Emergency,22,Saturday,12,5,3,81
+Cardiology,19,Wednesday,99,4,13,334
+Orthopedics,16,Friday,20,4,10,189
+Pediatrics,10,Wednesday,44,5,13,252
+Emergency,1,Monday,31,9,12,266
+Cardiology,3,Thursday,22,9,3,87
+Cardiology,0,Thursday,39,6,1,65
+Cardiology,14,Tuesday,56,3,1,114
+Orthopedics,12,Tuesday,19,6,10,175
+Pediatrics,7,Wednesday,67,4,4,151
+Orthopedics,3,Sunday,57,3,8,270
+Neurology,9,Sunday,95,6,19,375
+Cardiology,18,Thursday,85,6,16,322
+Neurology,17,Monday,70,2,11,337
+General Medicine,4,Saturday,35,9,17,336
+Emergency,18,Monday,65,8,2,84
+Emergency,22,Monday,68,6,4,161
+Orthopedics,21,Wednesday,38,1,19,482
+Pediatrics,15,Wednesday,59,2,13,350
+Neurology,0,Friday,63,4,15,375
+Pediatrics,11,Monday,7,7,18,293
+Orthopedics,23,Sunday,21,9,8,170
+Emergency,1,Sunday,82,5,16,384
+Pediatrics,20,Monday,82,2,6,313
+Pediatrics,7,Wednesday,50,1,9,398
+Emergency,17,Wednesday,42,1,3,258
+Neurology,15,Friday,39,5,9,181
+Emergency,4,Friday,5,7,2,47
+Pediatrics,21,Tuesday,33,9,8,147
+Neurology,12,Thursday,8,9,12,201
+Neurology,18,Monday,65,8,0,41
+Emergency,2,Sunday,21,1,14,387
+Pediatrics,7,Monday,32,5,14,252
+Orthopedics,11,Friday,54,6,10,204
+Pediatrics,1,Friday,94,6,9,263
+Cardiology,10,Tuesday,12,4,6,120
+General Medicine,11,Thursday,38,1,0,199
+Orthopedics,17,Tuesday,63,3,6,203
+Neurology,12,Sunday,22,4,4,99
+Orthopedics,4,Thursday,99,4,15,428
+Neurology,21,Saturday,63,4,7,190
+Neurology,11,Monday,31,5,1,51
+Orthopedics,1,Tuesday,20,9,7,164
+Neurology,4,Friday,14,4,13,271
+Neurology,6,Tuesday,80,9,3,97
+Cardiology,23,Saturday,26,9,14,288
+Pediatrics,11,Tuesday,20,1,6,202
+Pediatrics,15,Monday,16,5,19,311
+General Medicine,22,Saturday,79,9,7,184
+General Medicine,7,Friday,88,4,10,265
+Cardiology,8,Friday,55,5,1,84
+General Medicine,14,Wednesday,5,4,8,140
+Orthopedics,4,Saturday,31,2,5,186
+Emergency,12,Wednesday,71,2,0,185
+Emergency,4,Wednesday,16,2,2,100
+Emergency,10,Monday,34,1,9,320
+Cardiology,9,Tuesday,13,3,4,94
+Cardiology,19,Friday,57,1,11,457
+Neurology,12,Friday,65,4,0,92
+Emergency,8,Tuesday,58,1,8,418
+Orthopedics,20,Friday,41,4,12,243
+General Medicine,13,Tuesday,69,3,18,402
+Orthopedics,17,Saturday,46,9,6,121
+General Medicine,14,Monday,53,1,15,501
+Emergency,9,Monday,8,8,7,119
+Emergency,23,Sunday,68,9,18,379
+Emergency,6,Monday,83,7,6,158
+Cardiology,7,Tuesday,55,1,3,336
+General Medicine,2,Sunday,95,4,9,319
+Cardiology,14,Tuesday,76,1,0,387
+Cardiology,15,Thursday,64,4,16,333
+Pediatrics,3,Sunday,91,3,12,406
+Orthopedics,20,Friday,83,2,18,478
+Orthopedics,5,Friday,95,1,12,600
+Neurology,0,Thursday,35,6,8,194
+Cardiology,3,Thursday,76,7,4,147
+General Medicine,10,Monday,98,6,0,96
+Pediatrics,11,Thursday,62,9,1,61
+Pediatrics,4,Tuesday,86,9,10,250
+Orthopedics,22,Wednesday,8,2,3,87
+Cardiology,20,Tuesday,26,2,8,197
+Neurology,15,Sunday,7,9,4,81
+Cardiology,12,Thursday,83,1,4,474
+Emergency,12,Friday,51,5,7,165
+Cardiology,16,Tuesday,42,1,1,241
+Emergency,6,Friday,37,7,6,120
+Emergency,7,Tuesday,82,9,16,296
+Neurology,12,Friday,52,6,10,199
+General Medicine,22,Saturday,69,2,14,469
+Orthopedics,15,Tuesday,30,6,2,56
+Cardiology,3,Sunday,12,9,12,241
+Emergency,7,Friday,54,3,17,355
+Cardiology,15,Wednesday,84,9,19,334
+General Medicine,20,Sunday,42,8,19,323
+Orthopedics,9,Monday,14,7,2,51
+General Medicine,11,Tuesday,46,8,1,50
+Orthopedics,11,Wednesday,41,6,4,114
+Pediatrics,4,Monday,30,3,19,417
+Orthopedics,15,Tuesday,96,7,4,145
+Neurology,0,Wednesday,16,4,12,251
+General Medicine,8,Wednesday,88,5,7,194
+Emergency,11,Sunday,53,8,15,256
+Pediatrics,4,Saturday,18,7,17,327
+Neurology,21,Wednesday,50,7,15,277
+Cardiology,19,Saturday,39,8,0,31
+General Medicine,21,Thursday,33,3,7,175
+Emergency,23,Sunday,16,3,1,55
+Orthopedics,2,Friday,86,2,4,338
+Emergency,4,Sunday,48,1,14,548
+Cardiology,1,Monday,70,6,13,317
+Pediatrics,13,Friday,6,6,2,38
+Pediatrics,1,Friday,63,8,6,162
+General Medicine,12,Saturday,21,6,3,71
+Pediatrics,6,Friday,14,6,10,164
+General Medicine,9,Wednesday,22,1,11,276
+General Medicine,12,Saturday,26,7,14,238
+General Medicine,15,Friday,87,7,5,140
+Orthopedics,13,Saturday,62,9,0,50
+Neurology,10,Thursday,57,7,17,311
+General Medicine,9,Saturday,5,8,13,205
+General Medicine,5,Tuesday,92,4,6,261
+Neurology,3,Wednesday,65,9,9,217
+Emergency,20,Monday,93,1,8,600
+General Medicine,0,Tuesday,35,8,1,53
+Orthopedics,6,Tuesday,35,3,7,175
+Pediatrics,23,Tuesday,70,1,0,433
+Pediatrics,8,Friday,23,2,19,353
+Cardiology,7,Saturday,57,6,1,69
+Cardiology,4,Saturday,80,5,6,223
+Pediatrics,18,Sunday,78,3,15,362
+Pediatrics,9,Friday,99,9,3,107
+Orthopedics,10,Wednesday,26,8,16,262
+Neurology,14,Friday,27,3,3,96
+Cardiology,5,Friday,91,2,2,319
+Neurology,14,Friday,19,8,8,144
+Orthopedics,4,Wednesday,30,5,14,304
+Pediatrics,18,Sunday,7,9,19,299
+General Medicine,21,Wednesday,91,1,2,502
+Neurology,18,Thursday,24,3,11,215
+Pediatrics,9,Sunday,44,5,14,255
+Pediatrics,11,Thursday,43,2,19,396
+Emergency,21,Thursday,76,3,7,245
+Neurology,3,Thursday,22,4,11,241
+General Medicine,17,Saturday,45,4,12,244
+Neurology,15,Tuesday,74,9,14,256
+Pediatrics,7,Tuesday,31,1,10,312
+General Medicine,3,Thursday,19,9,16,310
+Orthopedics,22,Thursday,41,9,11,240
+Emergency,11,Monday,62,6,19,345
+Pediatrics,1,Tuesday,9,1,17,379
+Cardiology,3,Monday,77,6,15,355
+Cardiology,4,Sunday,11,8,2,57
+Emergency,2,Monday,45,5,8,200
+Orthopedics,8,Friday,88,5,6,191
+Pediatrics,20,Saturday,14,1,18,342
+Neurology,17,Sunday,66,1,4,402
+Emergency,10,Wednesday,30,8,18,289
+Orthopedics,2,Tuesday,72,5,9,254
+Neurology,22,Thursday,28,8,19,380
+Cardiology,1,Sunday,82,2,11,465
+Cardiology,8,Thursday,45,4,7,157
+Neurology,13,Wednesday,69,9,2,72
+Emergency,3,Sunday,21,3,18,388
+Cardiology,8,Tuesday,28,6,10,184
+Pediatrics,12,Sunday,31,7,7,131
+General Medicine,17,Thursday,11,3,12,215
+Neurology,14,Thursday,77,1,9,532
+Neurology,9,Friday,16,2,17,305
+Cardiology,15,Monday,89,7,11,228
+Emergency,11,Sunday,7,7,6,115
+Pediatrics,19,Thursday,83,1,10,576
+Emergency,4,Saturday,89,7,9,248
+Orthopedics,1,Tuesday,14,6,2,70
+Orthopedics,9,Saturday,37,6,6,126
+General Medicine,0,Wednesday,50,7,3,102
+Cardiology,6,Sunday,63,7,7,155
+Cardiology,16,Friday,56,1,7,393
+Cardiology,15,Tuesday,10,5,5,95
+General Medicine,23,Friday,6,8,12,236
+Orthopedics,2,Monday,33,8,11,227
+Emergency,13,Thursday,44,3,2,114
+General Medicine,9,Tuesday,65,3,5,190
+General Medicine,21,Wednesday,72,7,18,330
+Emergency,6,Sunday,72,4,10,256
+Cardiology,16,Monday,33,6,3,84
+Pediatrics,5,Monday,66,9,14,311
+Emergency,22,Friday,64,2,1,218
+Orthopedics,21,Monday,88,2,14,449
+Neurology,3,Tuesday,45,6,16,349
+Neurology,16,Friday,91,3,1,174
+General Medicine,8,Monday,86,1,6,535
+Neurology,3,Sunday,93,2,15,564
+Pediatrics,6,Wednesday,69,7,4,112
+Cardiology,22,Sunday,68,4,15,385
+Orthopedics,1,Saturday,83,2,18,579
+Pediatrics,16,Tuesday,67,8,1,56
+Orthopedics,23,Wednesday,52,4,14,339
+Orthopedics,7,Wednesday,24,4,3,90
+Cardiology,22,Friday,41,2,1,161
+General Medicine,14,Thursday,68,1,9,482
+Neurology,14,Friday,95,1,4,543
+Cardiology,7,Tuesday,90,3,17,421
+Pediatrics,15,Tuesday,9,6,3,65
+General Medicine,18,Friday,38,7,0,39
+Pediatrics,10,Thursday,43,9,17,289
+General Medicine,1,Sunday,71,5,19,443
+Pediatrics,22,Friday,85,9,5,158
+Cardiology,23,Tuesday,66,8,19,412
+General Medicine,16,Thursday,92,1,19,600
+General Medicine,15,Tuesday,28,3,13,250
+Orthopedics,14,Thursday,7,8,9,139
+Orthopedics,12,Thursday,75,9,17,311
+Emergency,14,Friday,93,4,8,241
+Pediatrics,3,Friday,71,6,11,266
+Orthopedics,15,Friday,83,4,9,247
+Emergency,11,Thursday,97,9,18,332
+Orthopedics,3,Thursday,54,2,5,266
+Pediatrics,2,Tuesday,33,6,13,282
+General Medicine,21,Wednesday,78,3,7,240
+Neurology,16,Friday,36,4,13,263
+Pediatrics,21,Saturday,91,2,10,386
+Cardiology,17,Tuesday,43,8,15,253
+Orthopedics,17,Tuesday,13,8,19,311
+Orthopedics,22,Monday,18,1,5,214
+General Medicine,16,Friday,72,6,14,282
+Cardiology,11,Sunday,68,1,14,557
+General Medicine,22,Tuesday,24,6,13,270
+Cardiology,20,Monday,32,7,11,187
+Neurology,23,Saturday,18,2,1,82
+Orthopedics,3,Saturday,48,9,7,184
+Orthopedics,11,Sunday,81,8,18,325
+Neurology,22,Friday,99,9,13,313
+Emergency,21,Thursday,43,4,4,115
+General Medicine,20,Monday,32,4,8,167
+Neurology,19,Thursday,68,8,12,226
+General Medicine,14,Saturday,93,1,8,597
+Pediatrics,22,Saturday,36,8,13,274
+Orthopedics,15,Wednesday,13,7,4,72
+General Medicine,4,Wednesday,32,7,1,57
+Cardiology,20,Sunday,99,9,6,155
+General Medicine,14,Wednesday,21,7,15,250
+Pediatrics,16,Wednesday,91,2,10,391
+Orthopedics,17,Sunday,81,1,10,572
+Neurology,4,Tuesday,59,1,11,560
+Pediatrics,12,Wednesday,14,7,12,198
+Orthopedics,18,Tuesday,84,5,7,198
+General Medicine,12,Tuesday,10,4,15,240
+Emergency,17,Friday,52,5,0,56
+Emergency,13,Tuesday,79,6,12,258
+Cardiology,3,Tuesday,71,6,10,274
+Orthopedics,3,Wednesday,96,1,3,600
+Emergency,19,Tuesday,45,2,3,178
+Neurology,19,Thursday,83,3,14,355
+Orthopedics,18,Sunday,64,4,2,126
+Neurology,12,Wednesday,81,6,18,349
+Neurology,11,Sunday,46,9,1,51
+Emergency,6,Monday,85,2,5,295
+Orthopedics,11,Wednesday,75,8,7,161
+General Medicine,20,Tuesday,32,9,16,264
+Pediatrics,3,Thursday,17,2,4,140
+Emergency,1,Sunday,85,9,1,93
+Emergency,1,Wednesday,19,7,11,222
+General Medicine,4,Thursday,40,9,4,100
+Orthopedics,22,Sunday,96,6,9,268
+Orthopedics,9,Monday,19,2,8,187
+Neurology,9,Saturday,79,8,19,345
+General Medicine,8,Monday,60,9,7,154
+General Medicine,12,Saturday,99,8,0,67
+Orthopedics,6,Friday,8,2,5,102
+Neurology,4,Saturday,56,8,10,232
+Emergency,9,Friday,95,3,2,192
+Cardiology,9,Wednesday,14,3,14,244
+Pediatrics,5,Friday,98,9,10,252
+Emergency,18,Thursday,49,9,4,101
+Orthopedics,20,Friday,88,9,15,284
+Pediatrics,7,Thursday,33,4,6,148
+Cardiology,0,Sunday,57,7,5,140
+Cardiology,16,Sunday,33,8,8,147
+Neurology,6,Saturday,27,5,6,124
+Pediatrics,13,Saturday,61,1,2,347
+Neurology,20,Saturday,54,9,10,187
+Emergency,20,Friday,25,6,11,204
+General Medicine,16,Saturday,47,3,10,237
+General Medicine,8,Friday,14,3,1,43
+General Medicine,16,Friday,80,1,0,409
+Pediatrics,4,Tuesday,34,8,1,53
+General Medicine,19,Tuesday,55,2,13,347
+Emergency,7,Friday,37,1,12,372
+Neurology,5,Sunday,22,7,4,93
+Pediatrics,10,Thursday,82,9,1,71
+Neurology,18,Wednesday,26,6,18,298
+Pediatrics,3,Monday,68,8,16,344
+Neurology,17,Tuesday,25,8,10,175
+Cardiology,0,Friday,5,9,15,284
+Neurology,12,Monday,19,7,19,307
+General Medicine,13,Tuesday,40,9,17,288
+Cardiology,23,Wednesday,51,9,19,384
+Neurology,0,Thursday,58,1,7,486
+Pediatrics,10,Friday,90,6,1,97
+Pediatrics,16,Wednesday,36,8,16,276
+Pediatrics,3,Sunday,62,9,10,233
+Orthopedics,11,Tuesday,50,4,13,276
+Emergency,9,Friday,58,2,15,377
+Pediatrics,5,Monday,37,9,14,290
+Cardiology,0,Sunday,43,9,14,299
+Pediatrics,6,Sunday,27,8,2,59
+Orthopedics,20,Saturday,47,3,6,179
+General Medicine,15,Thursday,59,5,11,235
+Cardiology,23,Sunday,6,2,2,69
+Orthopedics,13,Tuesday,70,3,18,398
+General Medicine,22,Thursday,42,1,9,425
+Cardiology,19,Friday,33,4,7,159
+Neurology,19,Saturday,71,5,15,305
+Emergency,5,Wednesday,75,2,15,501
+Emergency,21,Thursday,40,3,11,251
+Orthopedics,4,Monday,33,6,4,122
+General Medicine,23,Tuesday,41,6,19,389
+Emergency,20,Monday,91,7,5,148
+General Medicine,17,Thursday,49,9,5,109
+General Medicine,14,Saturday,20,4,7,137
+Orthopedics,5,Wednesday,35,5,16,347
+Orthopedics,18,Wednesday,38,2,11,268
+Orthopedics,0,Monday,54,6,13,311
+Emergency,0,Friday,69,4,1,122
+Orthopedics,12,Friday,86,5,18,365
+Emergency,2,Saturday,66,7,5,150
+Orthopedics,9,Wednesday,47,6,17,305
+Pediatrics,20,Monday,60,8,3,94
+General Medicine,2,Monday,19,6,4,108
+Orthopedics,8,Monday,52,8,5,111
+Cardiology,7,Thursday,53,4,14,288
+General Medicine,2,Saturday,85,7,5,169
+General Medicine,12,Friday,48,3,7,195
+Orthopedics,5,Friday,14,1,8,237
+Neurology,12,Thursday,24,9,5,92
+Orthopedics,22,Tuesday,74,9,1,83
+General Medicine,19,Thursday,12,6,15,243
+Cardiology,19,Saturday,49,2,19,421
+General Medicine,11,Monday,38,8,0,38
+Cardiology,12,Thursday,55,6,15,287
+Emergency,1,Monday,8,7,0,15
+Pediatrics,20,Saturday,43,1,0,220
+General Medicine,23,Sunday,88,3,6,303
+Orthopedics,22,Saturday,28,1,15,450
+Emergency,15,Wednesday,92,1,16,600
+Pediatrics,22,Monday,59,1,15,600
+Orthopedics,5,Friday,30,4,15,331
+Neurology,18,Thursday,29,7,5,105
+Orthopedics,20,Sunday,40,7,17,293
+Cardiology,12,Saturday,75,5,2,113
+Cardiology,16,Monday,78,6,7,174
+Neurology,22,Sunday,62,2,3,255
+Emergency,8,Tuesday,16,5,3,69
+Pediatrics,16,Wednesday,5,7,16,254
+Orthopedics,1,Tuesday,54,9,4,131
+Cardiology,18,Saturday,29,6,13,226
+Emergency,18,Tuesday,84,4,14,323
+Neurology,23,Tuesday,9,3,11,227
+General Medicine,6,Wednesday,87,9,12,236
+Cardiology,21,Wednesday,72,7,17,314
+Neurology,9,Wednesday,10,6,13,216
+Orthopedics,9,Sunday,30,7,18,308
+Pediatrics,19,Wednesday,59,8,6,137
+Cardiology,8,Tuesday,43,5,5,131
+Cardiology,16,Friday,13,3,4,90
+Orthopedics,14,Friday,49,3,3,135
+General Medicine,1,Wednesday,18,2,17,369
+Emergency,3,Sunday,59,8,13,285
+Pediatrics,18,Thursday,13,1,15,306
+Cardiology,16,Monday,19,8,19,304
+Pediatrics,4,Saturday,41,3,13,331
+Cardiology,6,Sunday,54,9,4,95
+Pediatrics,17,Thursday,88,2,10,380
+Neurology,20,Saturday,76,9,11,217
+Cardiology,21,Thursday,25,6,17,281
+Pediatrics,6,Thursday,61,1,3,358
+Emergency,16,Friday,23,5,12,207
+Neurology,6,Monday,97,9,19,348
+Neurology,3,Thursday,62,6,12,279
+Emergency,7,Wednesday,99,7,3,125
+Pediatrics,12,Saturday,10,4,6,115
+Orthopedics,3,Sunday,8,1,1,77
+Emergency,5,Friday,47,5,17,370
+Pediatrics,4,Saturday,97,2,5,389
+Emergency,11,Wednesday,46,8,15,269
+Emergency,3,Wednesday,7,4,2,59
+Cardiology,23,Thursday,5,1,14,299
+Pediatrics,8,Wednesday,59,7,19,341
+Orthopedics,3,Monday,19,2,9,228
+Cardiology,18,Wednesday,51,3,8,209
+Emergency,23,Thursday,89,9,10,255
+General Medicine,13,Saturday,50,9,13,228
+Emergency,4,Wednesday,62,2,11,392
+Emergency,17,Friday,99,3,6,265
+Pediatrics,9,Sunday,75,9,10,200
+Pediatrics,18,Friday,85,1,16,600
+Cardiology,11,Friday,87,2,8,341
+Orthopedics,17,Saturday,43,2,12,302
+Cardiology,16,Tuesday,7,3,15,246
+Neurology,23,Sunday,34,3,2,120
+Emergency,10,Friday,39,2,4,163
+General Medicine,2,Friday,61,8,16,339
+Emergency,22,Tuesday,33,8,0,41
+Emergency,16,Saturday,54,8,8,170
+Cardiology,0,Sunday,66,2,16,492
+General Medicine,14,Friday,56,9,12,226
+General Medicine,8,Thursday,18,7,14,227
+General Medicine,14,Saturday,39,5,7,145
+Cardiology,23,Sunday,32,7,7,168
+Emergency,2,Friday,62,8,1,70
+Cardiology,21,Friday,34,9,9,157
+Pediatrics,18,Tuesday,94,2,4,299
+Pediatrics,12,Sunday,11,6,15,242
+Cardiology,11,Thursday,43,9,18,295
+General Medicine,19,Saturday,99,6,0,95
+Emergency,0,Wednesday,73,2,12,449
+Cardiology,20,Monday,39,1,3,252
+Cardiology,16,Thursday,56,3,6,199
+Cardiology,12,Wednesday,18,5,0,32
+Neurology,0,Thursday,67,7,1,81
+Pediatrics,9,Sunday,40,3,15,305
+General Medicine,14,Wednesday,95,9,13,263
+Orthopedics,6,Sunday,28,4,4,109
+General Medicine,21,Wednesday,44,2,13,319
+Orthopedics,17,Thursday,33,3,16,304
+Neurology,15,Tuesday,57,5,11,228
+Cardiology,13,Thursday,26,3,19,337
+Neurology,17,Sunday,76,5,11,247
+Neurology,6,Thursday,19,4,2,68
+Emergency,16,Wednesday,73,3,1,147
+Pediatrics,17,Monday,68,6,14,280
+Orthopedics,11,Wednesday,8,8,10,157
+Cardiology,7,Friday,79,4,9,241
+Orthopedics,21,Thursday,22,9,17,272
+General Medicine,1,Saturday,46,6,1,66
+Orthopedics,6,Thursday,34,5,6,135
+General Medicine,3,Tuesday,19,3,6,151
+Pediatrics,17,Sunday,74,5,6,172
+General Medicine,5,Saturday,59,5,13,310
+Orthopedics,8,Wednesday,57,4,1,94
+Orthopedics,8,Tuesday,20,6,1,44
+General Medicine,13,Thursday,77,3,14,343
+Neurology,7,Wednesday,38,1,10,347
+Pediatrics,18,Wednesday,31,7,9,169
+Emergency,2,Friday,17,7,2,66
+Cardiology,17,Friday,31,4,16,286
+Orthopedics,4,Monday,77,9,8,209
+Cardiology,13,Friday,73,2,14,406
+Emergency,3,Sunday,90,1,13,600
+Cardiology,6,Saturday,35,3,18,334
+Emergency,19,Wednesday,7,7,16,253
+General Medicine,11,Friday,34,9,19,316
+Neurology,1,Monday,25,2,16,376
+Orthopedics,10,Thursday,10,6,15,243
+Emergency,13,Saturday,96,3,19,449
+Cardiology,21,Friday,36,5,7,155
+Orthopedics,22,Wednesday,46,9,6,147
+Neurology,15,Thursday,66,3,11,283
+General Medicine,19,Sunday,93,1,0,475
+Orthopedics,5,Wednesday,36,5,11,265
+Emergency,22,Thursday,90,1,5,600
+Neurology,3,Sunday,92,8,15,346
+Cardiology,14,Sunday,43,7,17,293
+Neurology,23,Saturday,68,2,18,546
+Neurology,0,Wednesday,34,9,2,71
+Pediatrics,6,Friday,67,5,2,108
+Neurology,11,Friday,35,7,4,99
+Neurology,9,Monday,91,4,2,159
+Orthopedics,4,Thursday,44,1,18,595
+Cardiology,11,Monday,37,8,4,95
+Orthopedics,17,Tuesday,67,1,13,545
+Orthopedics,9,Friday,29,3,15,284
+Emergency,5,Thursday,40,6,0,47
+Orthopedics,11,Saturday,28,8,16,262
+Pediatrics,6,Monday,99,8,10,224
+Pediatrics,17,Saturday,62,2,8,279
+Emergency,1,Saturday,43,9,3,89
+General Medicine,9,Saturday,50,4,1,85
+Cardiology,14,Monday,81,4,8,232
+Cardiology,11,Tuesday,14,2,4,107
+Orthopedics,16,Sunday,91,1,3,506
+Orthopedics,3,Sunday,86,7,4,149
+General Medicine,6,Monday,36,3,17,329
+Orthopedics,8,Sunday,40,4,12,243
+Cardiology,18,Wednesday,32,9,4,90
+Neurology,22,Sunday,20,6,18,358
+Pediatrics,6,Friday,20,1,2,138
+Neurology,22,Monday,22,9,17,331
+Neurology,1,Sunday,12,9,5,110
+Cardiology,5,Monday,84,5,5,197
+Neurology,17,Tuesday,79,8,4,121
+General Medicine,5,Wednesday,74,7,0,76
+Emergency,12,Monday,5,8,7,117
+Orthopedics,18,Friday,66,9,0,51
+Emergency,1,Sunday,80,2,5,341
+Pediatrics,11,Friday,42,5,19,340
+Orthopedics,14,Sunday,96,8,13,259
+Neurology,13,Monday,49,3,10,245
+Pediatrics,5,Saturday,62,6,1,95
+Orthopedics,17,Sunday,85,6,3,136
+General Medicine,4,Saturday,5,7,12,241
+General Medicine,17,Wednesday,36,3,6,164
+General Medicine,2,Friday,12,8,5,107
+General Medicine,2,Saturday,44,8,2,75
+Neurology,21,Friday,60,9,8,159
+Emergency,21,Sunday,67,8,13,249
+Orthopedics,9,Sunday,92,3,19,454
+Neurology,18,Wednesday,78,6,10,218
+General Medicine,2,Sunday,78,9,4,130
+Emergency,11,Wednesday,40,1,13,405
+Pediatrics,15,Saturday,93,3,18,429
+Pediatrics,16,Sunday,61,2,7,265
+Pediatrics,6,Monday,78,8,6,154
+General Medicine,12,Thursday,87,6,6,176
+Pediatrics,23,Tuesday,49,8,2,89
+Cardiology,1,Thursday,83,2,2,291
+Orthopedics,3,Thursday,84,6,17,391
+Orthopedics,9,Friday,6,7,12,192
+General Medicine,6,Wednesday,97,8,0,58
+Cardiology,23,Friday,72,9,4,134
+Neurology,16,Saturday,54,5,3,112
+Neurology,19,Tuesday,33,3,15,286
+Pediatrics,5,Saturday,99,2,14,564
+Emergency,18,Monday,85,8,17,321
+Neurology,4,Tuesday,14,1,16,377
+Emergency,9,Friday,31,6,13,228
+Orthopedics,8,Sunday,19,2,13,250
+Emergency,12,Sunday,64,3,18,391
+Orthopedics,18,Friday,35,8,5,110
+Cardiology,20,Saturday,25,1,12,317
+Cardiology,23,Friday,64,6,17,378
+General Medicine,5,Friday,62,3,14,396
+General Medicine,3,Thursday,45,6,6,166
+Pediatrics,23,Monday,50,3,18,438
+Neurology,2,Sunday,49,8,16,347
+Pediatrics,2,Thursday,30,5,8,195
+Orthopedics,3,Friday,55,4,10,273
+Pediatrics,4,Wednesday,40,9,4,107
+Emergency,7,Thursday,56,5,1,72
+Orthopedics,15,Friday,85,4,14,318
+General Medicine,21,Sunday,55,8,11,213
+Cardiology,2,Friday,7,8,9,167
+General Medicine,23,Monday,18,8,9,193
+Neurology,11,Saturday,53,4,19,365
+Orthopedics,7,Tuesday,81,1,10,560
+Orthopedics,12,Thursday,95,2,9,383
+Emergency,3,Thursday,5,4,6,130
+Neurology,13,Thursday,61,2,13,357
+Cardiology,13,Friday,21,3,12,231
+Orthopedics,12,Monday,54,9,4,93
+Orthopedics,5,Friday,18,9,18,351
+Emergency,16,Friday,63,9,9,176
+Pediatrics,3,Saturday,85,7,7,200
+Cardiology,7,Wednesday,7,4,17,267
+General Medicine,16,Monday,44,1,0,227
+Neurology,2,Thursday,93,3,4,270
+Orthopedics,16,Tuesday,70,8,10,199
+Orthopedics,8,Thursday,38,4,19,339
+General Medicine,1,Friday,94,2,10,471
+Cardiology,12,Monday,99,8,15,292
+Pediatrics,19,Sunday,13,7,9,151
+Orthopedics,1,Monday,98,9,14,332
+Cardiology,19,Monday,88,2,6,328
+General Medicine,10,Wednesday,25,5,14,246
+Emergency,21,Thursday,97,6,15,316
+Pediatrics,14,Wednesday,29,2,5,157
+Neurology,10,Sunday,48,2,10,278
+Orthopedics,22,Sunday,29,4,16,346
+Cardiology,2,Saturday,13,8,14,279
+Emergency,2,Tuesday,66,5,15,354
+Neurology,11,Saturday,30,9,1,46
+Cardiology,23,Friday,61,4,3,167
+Cardiology,4,Wednesday,41,3,18,411
+Neurology,19,Wednesday,20,8,5,102
+Emergency,6,Saturday,41,1,17,478
+General Medicine,6,Friday,80,9,10,208
+Emergency,12,Monday,28,4,8,164
+Pediatrics,8,Friday,30,9,2,60
+Orthopedics,20,Thursday,24,8,1,35
+Neurology,12,Saturday,13,3,17,285
+General Medicine,11,Friday,91,3,14,368
+Neurology,12,Monday,33,9,17,276
+Neurology,23,Friday,35,3,18,406
+Emergency,9,Wednesday,23,4,14,250
+Orthopedics,0,Tuesday,24,9,16,319
+Pediatrics,7,Wednesday,91,4,17,356
+Cardiology,21,Sunday,31,3,17,317
+Cardiology,15,Tuesday,98,7,10,230
+Neurology,12,Sunday,89,6,17,333
+Orthopedics,2,Friday,48,1,2,333
+General Medicine,2,Thursday,39,8,12,261
+Emergency,23,Friday,75,1,13,600
+Orthopedics,4,Monday,26,4,3,104
+Orthopedics,10,Friday,78,6,17,334
+Emergency,6,Tuesday,91,6,4,157
+Neurology,20,Wednesday,19,7,13,217
+Orthopedics,23,Thursday,98,5,11,329
+Cardiology,9,Sunday,17,5,6,112
+Emergency,9,Friday,8,4,11,195
+General Medicine,19,Friday,86,6,7,183
+Pediatrics,1,Wednesday,60,7,2,88
+Neurology,2,Thursday,27,1,0,177
+Emergency,7,Saturday,38,9,2,53
+Pediatrics,10,Sunday,21,8,10,179
+Pediatrics,12,Friday,32,7,17,290
+General Medicine,6,Friday,18,9,6,104
+Orthopedics,12,Saturday,38,3,8,196
+General Medicine,1,Sunday,79,4,3,182
+Orthopedics,5,Tuesday,61,7,9,228
+Orthopedics,8,Tuesday,81,6,17,326
+Emergency,19,Monday,59,2,15,375
+Emergency,1,Wednesday,70,2,11,421
+Neurology,17,Thursday,97,7,18,358
+Orthopedics,15,Friday,41,9,2,59
+Pediatrics,11,Sunday,72,9,7,151
+Cardiology,6,Friday,80,7,18,335
+Neurology,6,Monday,30,8,8,142
+Emergency,16,Sunday,65,3,18,391
+General Medicine,12,Sunday,96,1,16,600
+Neurology,10,Friday,71,7,12,243
+Neurology,5,Wednesday,88,8,1,94
+Neurology,22,Monday,78,2,3,293
+Neurology,13,Wednesday,56,9,10,201
+Cardiology,5,Monday,22,4,1,57
+General Medicine,5,Friday,57,9,3,98
+General Medicine,1,Monday,67,3,3,189
+General Medicine,21,Tuesday,57,8,19,323
+Orthopedics,19,Sunday,31,2,0,89
+Pediatrics,14,Thursday,35,3,10,216
+General Medicine,16,Friday,95,1,1,495
+Neurology,7,Saturday,5,5,18,281
+Neurology,4,Thursday,10,4,7,149
+General Medicine,16,Friday,15,1,19,366
+General Medicine,19,Thursday,38,9,3,83
+Neurology,0,Tuesday,88,6,15,367
+Orthopedics,21,Thursday,67,6,14,276
+Emergency,17,Monday,57,2,4,212
+Emergency,14,Thursday,89,7,4,134
+General Medicine,4,Friday,89,9,14,321
+Cardiology,6,Saturday,22,6,16,265
+General Medicine,17,Saturday,25,8,2,58
+General Medicine,5,Wednesday,23,5,17,346
+Emergency,21,Sunday,8,2,10,176
+Neurology,20,Thursday,81,4,5,171
+General Medicine,4,Saturday,86,1,11,600
+Neurology,18,Thursday,33,1,16,408
+Neurology,9,Sunday,29,6,13,224
+Cardiology,14,Saturday,60,2,5,228
+Neurology,9,Sunday,81,6,9,218
+Emergency,15,Thursday,67,1,15,575
+Orthopedics,11,Friday,31,3,17,320
+Orthopedics,17,Thursday,64,9,19,328
+Pediatrics,22,Sunday,87,2,5,359
+General Medicine,0,Friday,53,8,18,366
+Emergency,15,Friday,69,6,2,102
+Neurology,21,Wednesday,42,6,11,214
+Orthopedics,5,Saturday,87,7,15,359
+Emergency,2,Monday,56,5,2,108
+Orthopedics,1,Friday,5,4,15,287
+Neurology,1,Sunday,44,6,3,109
+Orthopedics,12,Saturday,85,8,19,339
+General Medicine,8,Tuesday,25,4,12,228
+General Medicine,15,Thursday,90,5,3,138
+Pediatrics,4,Sunday,19,7,3,77
+Pediatrics,22,Tuesday,54,6,6,163
+Orthopedics,20,Sunday,52,4,11,238
+Emergency,6,Thursday,36,4,1,68
+General Medicine,12,Wednesday,53,4,15,306
+Emergency,19,Sunday,72,1,6,455
+Emergency,23,Friday,49,5,18,388
+Orthopedics,12,Monday,36,8,10,182
+Emergency,6,Friday,8,7,0,5
+General Medicine,9,Thursday,69,5,8,205
+Neurology,14,Sunday,75,3,4,188
+Pediatrics,20,Monday,77,1,16,600
+Neurology,5,Friday,69,7,0,66
+Emergency,4,Monday,84,3,16,459
+Neurology,22,Thursday,22,4,11,246
+General Medicine,1,Wednesday,58,5,12,300
+General Medicine,20,Wednesday,51,8,10,194
+Emergency,14,Sunday,10,7,12,197
+Orthopedics,15,Friday,70,9,12,240
+Neurology,18,Tuesday,13,3,5,99
+Orthopedics,8,Thursday,72,1,5,451
+Orthopedics,21,Friday,27,1,19,421
+Cardiology,18,Friday,47,1,9,388
+Emergency,6,Wednesday,55,2,18,419
+Pediatrics,3,Sunday,76,2,2,285
+General Medicine,2,Monday,29,7,6,150
+General Medicine,23,Thursday,84,9,4,126
+Emergency,19,Monday,39,8,7,137
+Pediatrics,10,Saturday,21,4,4,89
+General Medicine,0,Saturday,22,2,11,284
+Emergency,5,Thursday,31,3,3,132
+General Medicine,10,Sunday,19,5,18,299
+Orthopedics,0,Tuesday,85,9,17,372
+Neurology,20,Saturday,73,8,2,87
+Neurology,6,Wednesday,84,3,6,235
+General Medicine,5,Tuesday,19,9,7,152
+Cardiology,13,Friday,46,3,14,296
+Pediatrics,1,Saturday,38,8,16,323
+Pediatrics,3,Wednesday,52,1,18,600
+Pediatrics,10,Friday,87,4,3,173
+Orthopedics,14,Tuesday,12,4,15,242
+Pediatrics,17,Thursday,14,6,12,206
+Neurology,0,Friday,9,2,11,232
+Orthopedics,2,Monday,52,7,3,114
+Emergency,2,Thursday,30,5,11,242
+Pediatrics,6,Thursday,90,6,16,323
+Pediatrics,0,Tuesday,27,6,8,181
+Emergency,10,Tuesday,66,6,11,236
+Pediatrics,5,Wednesday,17,8,14,276
+Emergency,19,Wednesday,13,4,19,309
+Orthopedics,2,Monday,24,8,1,47
+Neurology,18,Thursday,96,9,8,192
+Emergency,1,Sunday,61,4,13,340
+Cardiology,17,Monday,28,1,3,191
+Emergency,11,Monday,37,3,3,124
+Pediatrics,9,Sunday,24,1,5,205
+Orthopedics,4,Sunday,64,7,4,133
+General Medicine,8,Sunday,52,1,16,511
+Orthopedics,1,Tuesday,68,4,12,329
+General Medicine,1,Monday,34,1,19,537
+Emergency,5,Monday,77,2,16,532
+Neurology,9,Friday,21,1,18,379
+Cardiology,17,Sunday,18,5,0,21
+Orthopedics,11,Sunday,23,7,16,256
+Pediatrics,3,Wednesday,75,3,2,198
+General Medicine,21,Wednesday,63,8,13,243
+Pediatrics,20,Thursday,71,5,11,250
+Neurology,16,Wednesday,48,5,14,264
+General Medicine,14,Saturday,36,5,5,118
+Orthopedics,5,Thursday,15,8,19,377
+Emergency,15,Sunday,6,2,1,30
+Pediatrics,16,Friday,94,2,3,296
+Neurology,2,Wednesday,72,8,12,277
+Orthopedics,9,Friday,21,9,12,217
+Orthopedics,4,Wednesday,85,2,16,559
+Orthopedics,13,Wednesday,96,4,5,201
+Orthopedics,20,Friday,98,8,10,214
+General Medicine,12,Monday,44,2,18,392
+Orthopedics,5,Monday,91,4,15,407
+Pediatrics,11,Monday,50,1,7,368
+Neurology,7,Saturday,92,2,0,233
+General Medicine,4,Monday,97,7,9,251
+Orthopedics,14,Wednesday,8,1,1,50
+Cardiology,15,Sunday,42,1,18,490
+Cardiology,0,Tuesday,67,2,13,448
+Neurology,15,Friday,33,4,2,81
+Emergency,4,Sunday,23,7,8,165
+Emergency,2,Tuesday,95,4,7,289
+General Medicine,19,Sunday,33,5,10,192
+General Medicine,14,Saturday,39,4,14,266
+General Medicine,12,Tuesday,74,4,5,181
+Emergency,23,Thursday,27,9,1,45
+Cardiology,15,Monday,50,6,0,53
+Emergency,22,Saturday,48,3,2,139
+Pediatrics,10,Sunday,52,6,17,312
+Orthopedics,20,Wednesday,56,7,13,248
+General Medicine,1,Monday,12,7,16,307
+Cardiology,21,Monday,59,8,1,62
+Neurology,5,Tuesday,70,4,18,440
+Neurology,5,Thursday,81,1,8,600
+Orthopedics,13,Monday,44,6,7,145
+Cardiology,10,Sunday,89,8,9,195
+Emergency,7,Sunday,35,5,8,163
+Emergency,7,Friday,52,3,7,202
+Pediatrics,0,Friday,65,4,6,212
+Pediatrics,20,Monday,56,8,5,120
+Emergency,6,Tuesday,42,6,1,48
+Neurology,5,Tuesday,95,5,8,270
+General Medicine,20,Wednesday,40,9,8,152
+Neurology,7,Saturday,91,3,18,435
+Pediatrics,18,Saturday,59,7,8,179
+Orthopedics,21,Saturday,89,9,1,77
+Emergency,20,Thursday,17,4,18,310
+Pediatrics,23,Tuesday,41,3,15,363
+Pediatrics,19,Wednesday,51,1,13,460
+General Medicine,7,Friday,94,9,19,351
+Emergency,13,Sunday,75,1,0,384
+General Medicine,17,Saturday,26,2,12,253
+Emergency,15,Friday,43,9,1,55
+General Medicine,8,Friday,91,5,13,299
+Neurology,14,Monday,62,4,0,90
+Orthopedics,9,Thursday,34,9,14,234
+Orthopedics,21,Wednesday,22,9,17,281
+Emergency,15,Thursday,22,2,8,185
+Cardiology,3,Monday,78,3,7,288
+Pediatrics,19,Wednesday,43,3,6,175
+Pediatrics,12,Wednesday,98,5,8,222
+Emergency,21,Tuesday,30,3,8,167
+General Medicine,4,Thursday,75,6,10,256
+Cardiology,21,Thursday,11,2,3,81
+Neurology,6,Tuesday,73,6,6,168
+General Medicine,22,Friday,69,6,6,190
+General Medicine,8,Monday,50,2,3,179
+Emergency,7,Thursday,22,6,11,199
+Emergency,15,Tuesday,17,6,16,266
+Pediatrics,5,Sunday,29,6,19,389
+Emergency,15,Wednesday,12,5,2,56
+Emergency,5,Saturday,78,7,8,220
+Emergency,13,Sunday,36,5,4,104
+Pediatrics,20,Tuesday,21,1,19,395
+Neurology,0,Saturday,83,9,15,342
+Neurology,8,Friday,83,3,7,247
+Emergency,23,Monday,52,2,15,432
+Pediatrics,12,Saturday,67,6,18,335
+Neurology,18,Friday,44,8,15,263
+General Medicine,16,Saturday,88,2,17,487
+Neurology,10,Wednesday,19,4,14,243
+Neurology,7,Wednesday,10,2,17,288
+Pediatrics,22,Wednesday,98,9,13,315
+General Medicine,4,Wednesday,67,2,15,488
+Pediatrics,9,Tuesday,12,2,4,91
+Emergency,6,Wednesday,99,5,7,219
+Orthopedics,9,Sunday,36,5,15,269
+Neurology,3,Wednesday,49,7,0,63
+Orthopedics,8,Sunday,56,1,10,436
+Pediatrics,13,Tuesday,83,2,10,362
+Pediatrics,1,Wednesday,86,6,1,119
+Pediatrics,8,Friday,17,2,18,333
+Orthopedics,20,Friday,28,4,4,96
+Pediatrics,0,Thursday,44,6,2,97
+Emergency,22,Friday,18,7,7,156
+Pediatrics,9,Monday,96,5,3,150
+Cardiology,9,Monday,79,8,12,249
+Orthopedics,19,Monday,74,6,13,257
+Cardiology,21,Tuesday,66,5,0,81
+Pediatrics,2,Friday,93,4,4,229
+Emergency,5,Sunday,65,6,6,192
+Neurology,5,Monday,5,6,5,113
+General Medicine,20,Thursday,93,6,14,298
+General Medicine,1,Tuesday,70,1,14,600
+Pediatrics,17,Thursday,36,6,7,141
+Emergency,22,Friday,17,1,1,135
+Orthopedics,1,Wednesday,37,5,13,290
+Cardiology,11,Thursday,36,7,15,259
+Cardiology,21,Wednesday,60,1,9,442
+Cardiology,4,Tuesday,28,1,14,429
+Orthopedics,19,Thursday,95,6,3,138
+General Medicine,6,Thursday,8,7,11,180
+Emergency,23,Saturday,92,6,9,273
+Orthopedics,15,Tuesday,27,5,1,45
+Cardiology,19,Tuesday,33,6,3,85
+Pediatrics,0,Monday,25,3,19,397
+Neurology,0,Friday,34,9,5,131
+Orthopedics,16,Thursday,94,5,13,305
+Orthopedics,0,Thursday,24,2,2,111
+Emergency,20,Sunday,20,7,14,230
+Emergency,19,Tuesday,71,3,0,124
+Orthopedics,12,Tuesday,53,1,18,551
+Cardiology,8,Friday,62,3,0,110
+Neurology,14,Tuesday,48,9,12,220
+Emergency,2,Wednesday,29,5,7,168
+Cardiology,13,Wednesday,27,7,17,289
+Pediatrics,22,Saturday,63,3,2,181
+Emergency,10,Wednesday,5,4,17,279
+Cardiology,23,Wednesday,19,1,19,466
+Cardiology,21,Friday,85,3,8,271
+Neurology,11,Thursday,85,7,5,145
+Neurology,12,Wednesday,56,4,19,365
+Pediatrics,12,Saturday,62,2,1,177
+Cardiology,0,Tuesday,45,5,3,126
+General Medicine,23,Wednesday,48,5,17,371
+Cardiology,9,Saturday,8,2,6,119
+Neurology,2,Friday,81,6,10,274
+General Medicine,23,Sunday,72,4,4,194
+Emergency,3,Sunday,11,1,7,196
+Emergency,15,Sunday,50,3,10,242
+Orthopedics,7,Tuesday,13,9,19,302
+Neurology,15,Saturday,91,7,19,364
+Orthopedics,16,Wednesday,37,6,14,249
+General Medicine,18,Thursday,37,1,2,224
+Neurology,21,Tuesday,88,9,6,149
+Pediatrics,14,Tuesday,8,9,7,124
+Cardiology,15,Sunday,69,1,10,494
+Pediatrics,14,Thursday,38,6,9,177
+General Medicine,1,Sunday,95,7,19,442
+Neurology,10,Tuesday,89,2,8,348
+General Medicine,0,Wednesday,92,8,14,328
+Cardiology,14,Sunday,83,8,19,352
+Emergency,18,Sunday,68,6,4,124
+Emergency,3,Sunday,29,9,14,281
+General Medicine,10,Tuesday,59,3,3,154
+Orthopedics,4,Wednesday,13,2,4,105
+Neurology,2,Thursday,21,2,14,316
+Neurology,12,Monday,25,6,16,273
+Emergency,9,Thursday,64,7,7,159
+Pediatrics,10,Wednesday,17,6,18,293
+Cardiology,17,Friday,7,3,8,138
+Pediatrics,1,Sunday,72,5,9,258
+Pediatrics,6,Thursday,8,8,4,80
+General Medicine,8,Friday,96,6,9,225
+Emergency,9,Friday,11,2,0,42
+Emergency,17,Wednesday,30,7,3,75
+Emergency,22,Wednesday,79,8,4,143
+General Medicine,6,Sunday,28,4,6,136
+Orthopedics,6,Monday,14,1,4,142
+Pediatrics,2,Saturday,17,2,19,399
+General Medicine,11,Tuesday,48,4,7,174
+Neurology,6,Thursday,43,7,16,277
+Cardiology,16,Wednesday,23,2,0,75
+Orthopedics,0,Thursday,55,6,17,362
+Neurology,4,Saturday,23,2,11,282
+Pediatrics,15,Saturday,80,7,2,93
+Emergency,14,Sunday,56,2,19,429
+Pediatrics,1,Friday,90,3,13,424
+General Medicine,8,Sunday,51,9,15,269
+Cardiology,6,Tuesday,34,4,17,304
+General Medicine,3,Monday,50,5,9,223
+Orthopedics,19,Thursday,80,9,14,259
+Orthopedics,17,Tuesday,97,7,9,214
+Cardiology,20,Monday,25,8,0,17
+Neurology,3,Thursday,79,3,18,498
+Neurology,12,Tuesday,52,4,1,82
+Orthopedics,0,Wednesday,66,7,12,281
+Orthopedics,23,Thursday,62,4,15,379
+Emergency,2,Tuesday,22,2,7,200
+Neurology,15,Saturday,63,6,2,85
+Cardiology,21,Monday,95,9,18,332
+Neurology,3,Tuesday,52,2,13,399
+Emergency,22,Wednesday,67,1,10,600
+General Medicine,15,Sunday,16,8,11,189
+Orthopedics,18,Thursday,91,1,10,600
+Orthopedics,0,Thursday,38,1,10,420
+Emergency,4,Thursday,65,3,17,446
+Cardiology,18,Wednesday,91,5,9,234
+Orthopedics,21,Monday,57,9,15,258
+Pediatrics,23,Thursday,29,2,7,225
+Orthopedics,10,Monday,66,1,5,411
+Pediatrics,12,Tuesday,8,1,18,319
+Emergency,19,Saturday,98,8,12,251
+Emergency,4,Saturday,98,2,14,555
+Orthopedics,20,Monday,17,9,12,204
+Neurology,3,Monday,46,9,0,36
+Pediatrics,3,Saturday,53,2,1,186
+Cardiology,3,Thursday,82,3,12,390
+Orthopedics,3,Friday,60,2,1,216
+Cardiology,19,Friday,51,6,10,202
+Orthopedics,20,Wednesday,12,7,12,198
+Neurology,17,Sunday,59,6,9,198
+Neurology,17,Saturday,92,3,14,370
+Neurology,15,Saturday,22,3,0,51
+General Medicine,8,Wednesday,39,2,13,304
+Neurology,17,Friday,93,2,9,383
+Emergency,21,Tuesday,85,5,17,348
+Emergency,1,Thursday,36,8,10,217
+General Medicine,20,Thursday,28,6,6,124
+Pediatrics,3,Tuesday,11,9,14,270
+Cardiology,11,Tuesday,17,5,2,60
+Orthopedics,6,Friday,95,4,1,142
+Orthopedics,14,Wednesday,73,9,7,150
+General Medicine,6,Tuesday,94,5,7,215
+Emergency,21,Wednesday,46,1,10,399
+Orthopedics,20,Sunday,35,5,15,262
+Emergency,16,Monday,78,5,1,105
+Pediatrics,15,Thursday,30,5,4,103
+Cardiology,18,Friday,90,2,6,326
+Pediatrics,8,Thursday,80,6,19,369
+General Medicine,13,Friday,36,5,12,219
+Neurology,16,Monday,95,2,1,259
+Neurology,4,Thursday,56,8,2,90
+Neurology,1,Monday,24,6,8,185
+Pediatrics,19,Friday,44,3,9,224
+Orthopedics,15,Tuesday,63,9,12,218
+Cardiology,13,Sunday,81,4,12,282
+Neurology,13,Thursday,18,3,4,103
+General Medicine,0,Monday,48,7,6,161
+General Medicine,2,Saturday,90,8,16,368
+Neurology,6,Thursday,86,7,14,285
+Neurology,14,Thursday,52,1,4,325
+Cardiology,18,Thursday,97,1,6,583
+Neurology,19,Wednesday,47,5,1,74
+Cardiology,1,Monday,20,8,17,327
+General Medicine,18,Monday,39,3,9,207
+Neurology,8,Thursday,57,8,0,46
+Pediatrics,18,Tuesday,38,3,13,270
+Pediatrics,4,Thursday,7,4,18,337
+General Medicine,17,Wednesday,72,7,15,289
+Cardiology,15,Friday,9,3,18,297
+Pediatrics,3,Wednesday,14,4,5,117
+Cardiology,11,Tuesday,56,8,11,221
+Pediatrics,6,Thursday,33,4,2,76
+Pediatrics,13,Monday,35,9,6,123
+Cardiology,22,Sunday,70,4,2,154
+Orthopedics,11,Saturday,80,4,16,347
+Pediatrics,2,Thursday,95,5,14,378
+Neurology,4,Tuesday,73,1,18,600
+General Medicine,16,Monday,41,7,18,323
+Orthopedics,9,Wednesday,31,9,10,169
+Cardiology,9,Friday,91,9,19,332
+Orthopedics,10,Friday,37,1,1,204
+Emergency,16,Sunday,72,6,6,159
+Emergency,4,Thursday,63,3,18,465
+Pediatrics,12,Wednesday,68,4,6,185
+Pediatrics,9,Sunday,89,8,9,199
+Neurology,8,Saturday,92,4,11,297
+General Medicine,16,Saturday,48,8,17,291
+Orthopedics,0,Sunday,99,4,5,260
+Emergency,3,Tuesday,92,9,19,419
+Pediatrics,3,Friday,53,6,7,199
+General Medicine,17,Wednesday,57,1,4,350
+Orthopedics,8,Thursday,78,2,2,233
+Pediatrics,17,Monday,53,7,1,55
+Pediatrics,13,Thursday,70,7,5,136
+Emergency,14,Thursday,99,3,6,266
+Emergency,5,Wednesday,67,1,7,552
+Pediatrics,23,Friday,29,8,3,88
+Cardiology,9,Wednesday,8,7,11,173
+Pediatrics,14,Monday,55,8,11,214
+General Medicine,3,Sunday,15,1,16,384
+Pediatrics,17,Wednesday,21,3,18,308
+Neurology,17,Tuesday,70,2,8,308
+Neurology,16,Thursday,74,1,11,541
+Neurology,11,Friday,77,5,16,324
+Cardiology,6,Saturday,73,3,9,273
+Cardiology,15,Monday,88,8,18,337
+Pediatrics,10,Saturday,33,6,10,190
+Neurology,13,Thursday,89,9,19,337
+Cardiology,2,Wednesday,77,9,12,283
+Emergency,18,Saturday,96,6,3,133
+Pediatrics,17,Tuesday,76,2,14,407
+General Medicine,9,Wednesday,99,9,11,232
+Orthopedics,5,Thursday,24,2,9,246
+Pediatrics,12,Saturday,31,3,6,144
+Orthopedics,9,Sunday,12,6,1,39
+Neurology,17,Monday,89,2,6,327
+Orthopedics,19,Saturday,65,5,7,177
+Neurology,15,Sunday,32,2,18,363
+Emergency,5,Sunday,91,4,5,243
+Orthopedics,12,Saturday,74,3,7,228
+Pediatrics,3,Friday,7,5,19,359
+Neurology,22,Saturday,73,6,3,125
+Pediatrics,13,Thursday,77,7,19,353
+Cardiology,0,Sunday,11,8,8,166
+Neurology,19,Monday,64,9,4,102
+Orthopedics,4,Thursday,8,4,5,113
+Neurology,7,Tuesday,9,4,18,289
+Pediatrics,11,Wednesday,15,7,11,175
+Emergency,1,Saturday,19,9,4,104
+Neurology,11,Friday,68,2,4,241
+Orthopedics,4,Monday,17,6,17,334
+Cardiology,21,Friday,11,8,5,91
+General Medicine,4,Friday,10,5,8,172
+Emergency,12,Friday,60,5,10,212
+Cardiology,8,Saturday,68,8,13,243
+Neurology,9,Monday,54,1,1,296
+Pediatrics,0,Monday,34,6,13,286
+Pediatrics,2,Sunday,26,9,18,338
+Orthopedics,17,Friday,29,6,9,174
+Pediatrics,11,Sunday,32,7,4,89
+Emergency,2,Sunday,88,4,3,196
+Pediatrics,8,Wednesday,43,1,6,315
+Orthopedics,1,Saturday,71,9,12,268
+General Medicine,2,Saturday,9,6,9,175
+Neurology,13,Thursday,69,3,9,261
+Neurology,3,Sunday,19,4,3,105
+Pediatrics,18,Saturday,94,6,15,308
+Cardiology,12,Friday,71,6,14,274
+Neurology,6,Tuesday,44,9,10,178
+General Medicine,11,Friday,73,4,18,370
+Pediatrics,2,Monday,99,5,2,160
+Orthopedics,22,Saturday,81,5,14,355
+General Medicine,22,Saturday,47,3,15,377
+Pediatrics,8,Thursday,5,2,13,210
+General Medicine,1,Sunday,26,8,4,113
+Neurology,21,Tuesday,66,9,16,280
+Orthopedics,8,Saturday,83,9,17,316
+Pediatrics,11,Thursday,30,5,18,319
+Emergency,11,Thursday,22,9,0,28
+Orthopedics,14,Tuesday,52,4,8,200
+Emergency,1,Friday,13,2,13,289
+General Medicine,17,Friday,5,3,19,304
+Cardiology,12,Friday,13,1,19,365
+Orthopedics,13,Wednesday,27,5,10,185
+General Medicine,4,Sunday,49,1,1,329
+Emergency,9,Sunday,6,1,19,330
+Neurology,11,Friday,18,7,4,85
+Neurology,9,Tuesday,42,2,14,323
+Cardiology,23,Wednesday,44,8,11,245
+Orthopedics,10,Sunday,67,6,13,258
+Orthopedics,1,Friday,86,4,10,317
+Orthopedics,4,Wednesday,20,9,8,174
+General Medicine,6,Tuesday,97,8,19,356
+Cardiology,5,Friday,79,3,7,300
+Orthopedics,21,Monday,10,3,11,192
+General Medicine,22,Saturday,7,4,2,61
+Neurology,2,Tuesday,18,9,14,284
+Emergency,12,Thursday,70,9,7,153
+General Medicine,2,Thursday,99,5,6,236
+Neurology,23,Tuesday,79,9,16,355
+Neurology,20,Thursday,90,6,11,237
+Emergency,5,Sunday,71,8,19,411
+Neurology,10,Tuesday,35,8,17,282
+Cardiology,16,Monday,37,7,17,299
+Emergency,9,Tuesday,92,4,14,338
+Neurology,11,Friday,5,4,2,50
+Pediatrics,16,Friday,48,6,18,324
+General Medicine,3,Wednesday,19,9,14,273
+Neurology,1,Thursday,41,7,15,315
+Cardiology,10,Saturday,31,5,16,272
+Orthopedics,6,Thursday,52,5,0,69
+Neurology,1,Sunday,31,8,10,207
+Orthopedics,17,Tuesday,16,6,5,98
+Pediatrics,20,Saturday,71,1,8,491
+Neurology,3,Saturday,34,1,19,567
+Emergency,7,Thursday,91,9,15,284
+Orthopedics,19,Saturday,70,8,5,120
+Pediatrics,13,Saturday,11,6,11,185
+Emergency,11,Friday,38,1,18,471
+Emergency,21,Monday,36,2,12,282
+Emergency,20,Tuesday,43,3,12,260
+Emergency,17,Thursday,47,3,3,132
+Neurology,10,Friday,47,2,8,244
+General Medicine,7,Sunday,82,2,13,410
+Neurology,1,Sunday,7,6,13,257
+Neurology,14,Wednesday,50,7,16,287
+Pediatrics,8,Saturday,36,4,4,114
+Pediatrics,18,Saturday,47,1,18,520
+General Medicine,19,Thursday,85,6,1,97
+Pediatrics,7,Monday,7,7,12,195
+Cardiology,18,Monday,78,4,10,257
+General Medicine,4,Thursday,67,6,1,89
+Pediatrics,10,Thursday,44,9,0,28
+General Medicine,14,Friday,22,4,2,66
+Neurology,7,Sunday,71,4,11,260
+Neurology,18,Thursday,66,5,6,165
+General Medicine,22,Sunday,14,3,0,45
+Cardiology,7,Wednesday,56,2,8,273
+Cardiology,18,Sunday,77,9,17,309
+General Medicine,17,Friday,50,1,19,549
+Pediatrics,9,Saturday,59,5,5,149
+Orthopedics,6,Saturday,50,5,8,184
+Cardiology,8,Sunday,79,8,7,169
+Emergency,0,Saturday,64,6,17,374
+Neurology,18,Saturday,30,6,14,235
+General Medicine,4,Tuesday,31,6,0,38
+Emergency,18,Wednesday,42,4,13,255
+General Medicine,0,Friday,26,1,17,479
+Neurology,14,Friday,30,3,18,329
+Neurology,15,Saturday,90,6,18,352
+Cardiology,22,Monday,73,5,9,262
+Cardiology,6,Friday,39,1,19,492
+Emergency,11,Wednesday,70,5,5,158
+General Medicine,7,Thursday,77,2,16,440
+Neurology,4,Wednesday,55,1,13,570
+Emergency,9,Saturday,22,4,12,213
+Orthopedics,20,Saturday,47,6,7,154
+Emergency,4,Tuesday,16,7,9,181
+Pediatrics,16,Sunday,7,9,8,138
+Emergency,4,Friday,86,5,4,180
+Pediatrics,21,Sunday,11,8,3,54
+Pediatrics,14,Sunday,10,8,5,92
+Pediatrics,12,Friday,86,9,5,131
+Orthopedics,0,Friday,49,3,12,328
+Emergency,10,Saturday,90,3,3,202
+Emergency,22,Friday,43,9,7,169
+Orthopedics,0,Monday,55,7,4,137
+Neurology,10,Monday,13,4,1,38
+Cardiology,17,Thursday,27,1,8,267
+Emergency,17,Friday,16,7,10,180
+Cardiology,20,Tuesday,92,6,19,375
+General Medicine,15,Thursday,66,3,19,401
+General Medicine,12,Saturday,77,5,10,238
+Orthopedics,6,Friday,81,3,6,228
+General Medicine,0,Monday,44,8,13,272
+General Medicine,15,Tuesday,58,5,5,150
+Neurology,0,Thursday,85,6,3,153
+Neurology,16,Tuesday,11,2,5,120
+Neurology,5,Friday,21,8,2,66
+General Medicine,1,Wednesday,54,9,5,134
+Orthopedics,16,Tuesday,28,3,2,86
+Pediatrics,5,Tuesday,6,6,0,19
+Pediatrics,13,Saturday,96,6,17,356
+Cardiology,17,Monday,87,2,3,276
+Pediatrics,5,Friday,37,8,5,125
+Pediatrics,9,Tuesday,25,5,16,274
+Neurology,23,Friday,78,8,17,379
+Neurology,17,Monday,57,8,5,115
+General Medicine,8,Saturday,50,3,1,108
+Cardiology,7,Friday,49,5,11,222
+Emergency,9,Sunday,13,7,11,186
+Cardiology,16,Monday,10,5,3,64
+Cardiology,22,Monday,55,6,15,328
+Orthopedics,5,Thursday,39,2,19,470
+General Medicine,13,Saturday,86,8,9,202
+Orthopedics,21,Saturday,57,5,9,209
+Cardiology,21,Sunday,23,6,6,123
+Cardiology,5,Friday,73,1,13,600
+Cardiology,6,Wednesday,29,2,6,165
+Pediatrics,11,Sunday,15,4,11,188
+Orthopedics,2,Thursday,78,9,10,253
+Cardiology,13,Saturday,21,6,16,269
+Neurology,21,Monday,40,8,10,198
+General Medicine,18,Saturday,94,2,2,281
+General Medicine,22,Sunday,99,5,18,455
+Neurology,15,Wednesday,25,1,3,177
+General Medicine,6,Tuesday,22,4,7,144
+Pediatrics,7,Tuesday,64,1,13,529
+Pediatrics,17,Saturday,22,9,19,313
+Emergency,12,Saturday,5,2,13,216
+Emergency,20,Thursday,18,7,15,258
+Emergency,8,Saturday,12,3,14,239
+General Medicine,9,Wednesday,70,2,11,355
+Pediatrics,20,Saturday,55,4,15,305
+Pediatrics,22,Friday,83,7,19,423
+Pediatrics,8,Sunday,64,7,18,315
+Neurology,14,Wednesday,38,9,4,84
+Pediatrics,19,Thursday,40,3,11,247
+Neurology,1,Friday,66,7,4,145
+Emergency,12,Friday,5,6,9,152
+Emergency,1,Sunday,89,7,16,385
+General Medicine,18,Tuesday,46,7,14,247
+Emergency,1,Wednesday,5,5,7,141
+General Medicine,2,Sunday,88,9,7,194
+Cardiology,5,Friday,58,7,7,179
+Cardiology,2,Thursday,51,7,9,212
+Orthopedics,9,Sunday,43,3,19,361
+General Medicine,23,Tuesday,34,1,12,422
+Orthopedics,5,Friday,11,5,15,289
+Orthopedics,22,Sunday,26,8,8,175
+Cardiology,15,Wednesday,54,5,15,297
+General Medicine,16,Tuesday,49,3,9,221
+Cardiology,18,Wednesday,78,9,2,88
+Orthopedics,2,Wednesday,76,2,13,475
+General Medicine,17,Wednesday,95,3,12,350
+Orthopedics,6,Sunday,14,4,3,73
+Pediatrics,8,Tuesday,18,1,3,135
+General Medicine,19,Sunday,50,4,5,142
+General Medicine,11,Sunday,79,4,18,381
+Orthopedics,4,Sunday,10,9,10,198
+Pediatrics,2,Friday,25,8,7,146
+Neurology,10,Saturday,66,2,13,368
+Cardiology,3,Monday,23,7,7,161
+Orthopedics,4,Friday,92,6,13,330
+General Medicine,0,Tuesday,86,7,6,191
+Cardiology,17,Monday,66,4,17,355
+Cardiology,11,Monday,87,5,11,264
+Cardiology,12,Monday,57,6,13,260
+Neurology,8,Saturday,28,9,14,233
+Emergency,1,Sunday,60,2,17,504
+Orthopedics,4,Thursday,66,9,11,247
+Emergency,12,Tuesday,38,1,9,339
+Emergency,15,Saturday,26,4,11,203
+Emergency,15,Saturday,72,5,7,189
+Cardiology,23,Thursday,61,9,5,145
+Pediatrics,2,Monday,14,6,18,354
+Cardiology,21,Sunday,70,4,0,92
+Cardiology,3,Thursday,12,2,12,265
+General Medicine,10,Thursday,42,5,15,277
+General Medicine,22,Saturday,66,8,17,375
+Emergency,13,Tuesday,32,8,11,191
+Cardiology,2,Wednesday,14,6,4,90
+Emergency,15,Sunday,49,1,12,426
+General Medicine,21,Thursday,69,8,7,156
+Pediatrics,14,Sunday,71,4,5,171
+Orthopedics,9,Thursday,13,2,2,70
+Emergency,8,Monday,9,1,19,338
+Pediatrics,10,Sunday,14,7,3,71
+Orthopedics,15,Monday,16,2,11,214
+Neurology,9,Saturday,86,4,12,303
+Emergency,16,Monday,62,4,1,104
+Emergency,18,Sunday,25,1,18,400
+Neurology,1,Friday,25,2,3,141
+Neurology,23,Sunday,69,1,12,600
+Emergency,22,Thursday,7,6,18,349
+Neurology,1,Monday,73,3,7,291
+Cardiology,5,Tuesday,93,1,7,600
+Orthopedics,18,Friday,68,8,15,275
+Orthopedics,7,Saturday,53,4,10,234
+Orthopedics,2,Wednesday,76,7,17,386
+Cardiology,13,Thursday,21,2,3,112
+Neurology,15,Thursday,77,6,0,74
+Pediatrics,0,Tuesday,36,6,0,41
+Neurology,20,Wednesday,74,7,13,259
+Emergency,2,Wednesday,25,1,3,226
+General Medicine,21,Saturday,11,1,10,219
+Orthopedics,17,Saturday,11,2,17,295
+Neurology,8,Friday,31,2,15,308
+Pediatrics,5,Thursday,12,5,16,323
+Emergency,22,Monday,77,1,1,500
+Cardiology,20,Saturday,32,2,3,126
+Cardiology,0,Tuesday,83,6,2,136
+Pediatrics,20,Tuesday,70,3,14,335
+Emergency,9,Tuesday,75,4,1,120
+Orthopedics,5,Sunday,51,1,18,600
+Neurology,22,Saturday,86,5,8,259
+Emergency,11,Saturday,90,4,9,251
+Cardiology,3,Tuesday,14,8,18,341
+Pediatrics,12,Saturday,37,3,4,134
+Pediatrics,16,Sunday,11,1,13,256
+Neurology,7,Monday,7,5,9,154
+Pediatrics,19,Monday,18,1,15,325
+Pediatrics,2,Friday,48,5,5,173
+Emergency,11,Thursday,50,9,7,139
+Orthopedics,6,Monday,65,5,1,88
+Neurology,11,Friday,40,2,17,361
+Emergency,1,Wednesday,17,2,19,413
+Orthopedics,23,Thursday,20,9,7,151
+Emergency,13,Monday,84,5,4,153
+General Medicine,21,Sunday,9,8,16,259
+Emergency,22,Wednesday,93,4,15,416
+Pediatrics,4,Friday,42,2,4,201
+Orthopedics,8,Monday,54,4,16,318
+Neurology,20,Monday,42,4,3,108
+Neurology,10,Saturday,60,9,0,39
+Orthopedics,4,Wednesday,67,6,5,171
+Pediatrics,2,Monday,52,6,0,75
+Cardiology,16,Tuesday,94,5,3,151
+Emergency,1,Sunday,63,6,1,81
+Pediatrics,23,Saturday,81,1,12,600
+General Medicine,0,Saturday,48,5,13,315
+Orthopedics,6,Monday,94,6,16,330
+Emergency,13,Sunday,59,8,10,197
+Neurology,4,Saturday,59,4,2,127
+Cardiology,18,Thursday,5,5,6,100
+General Medicine,10,Wednesday,12,4,9,158
+Neurology,22,Thursday,8,7,10,194
+Orthopedics,1,Friday,89,6,9,259
+Emergency,7,Thursday,90,4,7,228
+Orthopedics,8,Sunday,57,6,4,114
+Emergency,2,Tuesday,62,4,1,132
+Pediatrics,1,Saturday,41,8,14,295
+Cardiology,6,Sunday,53,3,15,325
+Pediatrics,4,Saturday,71,8,3,122
+Pediatrics,20,Tuesday,23,2,15,294
+Orthopedics,4,Saturday,5,6,11,215
+Cardiology,19,Thursday,33,8,13,230
+Emergency,12,Friday,91,1,11,600
+Emergency,20,Monday,37,6,15,255
+General Medicine,19,Tuesday,56,9,15,258
+Neurology,5,Thursday,45,2,11,341
+General Medicine,19,Sunday,27,1,1,154
+General Medicine,17,Thursday,9,2,13,223
+Emergency,1,Thursday,75,5,10,279
+Orthopedics,5,Monday,61,6,8,215
+Pediatrics,8,Wednesday,10,1,6,142
+Pediatrics,2,Saturday,53,7,11,252
+Pediatrics,0,Saturday,26,4,16,347
+Cardiology,0,Sunday,81,9,8,208
+Emergency,18,Friday,80,6,5,154
+Orthopedics,4,Sunday,8,9,11,214
+Cardiology,12,Wednesday,76,1,19,600
+Neurology,18,Saturday,68,4,9,229
+Orthopedics,11,Friday,41,2,8,236
+General Medicine,15,Sunday,35,6,11,200
+Orthopedics,18,Friday,41,4,0,62
+Orthopedics,2,Thursday,49,9,1,59
+Pediatrics,11,Tuesday,94,3,18,440
+Orthopedics,4,Thursday,12,1,0,77
+General Medicine,1,Monday,44,1,15,549
+General Medicine,21,Saturday,97,9,15,289
+Emergency,6,Friday,9,9,17,263
+Orthopedics,12,Sunday,32,5,17,305
+Pediatrics,14,Tuesday,85,2,12,405
+Orthopedics,21,Sunday,91,9,11,220
+Neurology,2,Saturday,13,8,8,166
+Neurology,20,Friday,6,6,4,66
+Pediatrics,19,Friday,67,7,8,169
+Emergency,4,Thursday,55,6,12,290
+Emergency,23,Tuesday,35,5,15,316
+General Medicine,7,Tuesday,11,4,9,162
+General Medicine,21,Saturday,34,7,15,265
+Cardiology,0,Friday,62,4,13,333
+Pediatrics,7,Tuesday,7,9,1,39
+Orthopedics,23,Tuesday,55,5,18,402
+Pediatrics,17,Sunday,60,8,10,197
+Cardiology,19,Saturday,77,6,18,339
+General Medicine,15,Thursday,14,4,10,172
+Pediatrics,17,Sunday,65,3,13,302
+Pediatrics,19,Sunday,54,6,14,261
+General Medicine,11,Wednesday,51,1,6,360
+Cardiology,12,Monday,94,2,14,449
+General Medicine,12,Wednesday,5,7,7,113
+Emergency,9,Tuesday,98,4,3,171
+Orthopedics,6,Friday,61,5,17,319
+General Medicine,13,Monday,42,1,13,419
+Cardiology,23,Monday,66,2,17,508
+Neurology,15,Friday,83,4,3,158
+Emergency,14,Monday,93,8,1,81
+Neurology,11,Friday,74,4,5,182
+General Medicine,8,Monday,86,3,10,299
+Emergency,7,Sunday,69,3,0,122
+Orthopedics,17,Saturday,66,5,14,280
+General Medicine,22,Saturday,60,3,11,326
+Orthopedics,17,Wednesday,71,8,17,304
+Pediatrics,12,Sunday,21,5,4,90
+Neurology,17,Monday,12,7,10,176
+Emergency,14,Thursday,64,8,18,318
+Orthopedics,3,Friday,44,5,0,71
+Cardiology,16,Sunday,85,8,16,307
+Orthopedics,4,Monday,93,3,7,323
+Cardiology,21,Saturday,66,7,15,286
+General Medicine,15,Saturday,45,8,10,189
+Emergency,8,Friday,16,7,18,284
+Orthopedics,9,Thursday,97,2,10,402
+Orthopedics,23,Monday,93,8,14,334
+Emergency,17,Monday,58,6,7,172
+Orthopedics,16,Thursday,93,3,13,355
+Cardiology,17,Thursday,97,4,0,133
+Orthopedics,6,Thursday,15,7,9,149
+Neurology,3,Saturday,64,3,6,257
+General Medicine,4,Friday,72,1,17,600
+Pediatrics,22,Sunday,82,6,11,284
+Cardiology,15,Thursday,50,3,1,117
+Neurology,2,Friday,42,6,17,366
+General Medicine,17,Wednesday,65,3,6,214
+Emergency,22,Monday,21,6,19,384
+Cardiology,20,Monday,70,4,11,268
+Pediatrics,13,Tuesday,76,4,19,388
+General Medicine,14,Wednesday,40,2,13,312
+Pediatrics,16,Sunday,78,4,9,238
+Emergency,0,Thursday,11,4,8,167
+Emergency,20,Thursday,20,7,14,232
+Cardiology,16,Sunday,18,5,19,314
+Orthopedics,22,Saturday,84,8,9,231
+Emergency,10,Wednesday,29,7,18,294
+General Medicine,16,Thursday,8,9,18,279
+Orthopedics,13,Tuesday,33,8,11,193
+Neurology,19,Friday,60,9,11,208
+Pediatrics,18,Monday,10,1,8,176
+Orthopedics,20,Wednesday,5,3,19,297
+Pediatrics,6,Monday,43,5,3,99
+Orthopedics,23,Friday,5,9,0,26
+Neurology,12,Wednesday,67,8,15,274
+Emergency,17,Friday,61,7,0,58
+Neurology,22,Thursday,71,2,12,441
+Emergency,13,Sunday,69,6,2,100
+Emergency,0,Thursday,69,4,11,318
+Pediatrics,6,Sunday,25,5,8,155
+General Medicine,7,Thursday,34,5,3,84
+Neurology,17,Friday,37,4,1,65
+Orthopedics,8,Friday,52,4,8,200
+Neurology,0,Friday,26,4,19,396
+Pediatrics,21,Monday,98,2,12,439
+Emergency,16,Friday,58,1,13,498
+Pediatrics,18,Thursday,8,2,2,65
+Cardiology,5,Tuesday,91,7,17,397
+Cardiology,2,Friday,59,1,8,500
+Orthopedics,23,Tuesday,48,6,14,313
+Pediatrics,4,Sunday,93,4,9,324
+Orthopedics,1,Thursday,16,2,16,350
+Orthopedics,19,Friday,85,3,12,325
+Cardiology,3,Monday,83,7,0,87
+Orthopedics,9,Monday,78,6,10,235
+Cardiology,9,Sunday,56,6,4,113
+Emergency,23,Tuesday,97,8,8,230
+Pediatrics,20,Saturday,80,8,6,152
+Orthopedics,10,Monday,69,6,6,158
+Cardiology,15,Monday,69,1,1,373
+Neurology,16,Monday,14,7,18,287
+Orthopedics,15,Thursday,22,8,19,311
+General Medicine,6,Monday,51,5,17,321
+Emergency,15,Wednesday,70,4,9,231
+Emergency,2,Friday,53,7,4,134
+Neurology,15,Sunday,76,6,15,296
+Cardiology,7,Monday,26,6,4,84
+Orthopedics,11,Saturday,90,3,14,363
+Cardiology,2,Saturday,30,4,15,329
+Emergency,16,Monday,94,5,3,139
+Cardiology,20,Monday,13,9,13,212
+Emergency,17,Wednesday,25,8,16,261
+Cardiology,10,Monday,99,3,16,404
+Neurology,3,Monday,67,6,15,353
+Pediatrics,15,Friday,10,1,8,172
+Neurology,16,Saturday,18,3,1,66
+Neurology,8,Wednesday,37,7,10,194
+Pediatrics,5,Saturday,75,7,14,327
+Pediatrics,23,Wednesday,28,2,2,119
+Orthopedics,19,Saturday,77,3,15,364
+Orthopedics,1,Monday,79,7,18,414
+Neurology,8,Saturday,91,6,5,166
+Neurology,20,Saturday,55,7,13,249
+Emergency,5,Wednesday,6,9,4,97
+Emergency,2,Sunday,19,8,4,90
+Orthopedics,19,Tuesday,39,6,5,122
+General Medicine,5,Wednesday,40,4,17,389
+General Medicine,6,Wednesday,96,9,17,315
+Orthopedics,0,Wednesday,43,7,18,370
+Emergency,22,Thursday,8,5,1,48
+Emergency,0,Sunday,68,2,16,512
+General Medicine,4,Thursday,78,9,0,58
+Cardiology,5,Thursday,10,7,8,156
+Cardiology,12,Wednesday,61,9,12,223
+Emergency,1,Tuesday,34,9,3,79
+Cardiology,14,Wednesday,78,5,4,143
+Pediatrics,14,Monday,71,7,17,312
+Orthopedics,12,Tuesday,94,5,9,244
+Orthopedics,13,Thursday,19,3,3,93
+Emergency,21,Saturday,21,8,12,208
+Neurology,6,Saturday,95,8,12,245
+General Medicine,13,Sunday,22,9,16,261
+Emergency,23,Friday,23,6,7,158
+Cardiology,9,Sunday,80,2,3,256
+General Medicine,16,Tuesday,92,3,2,197
+Neurology,13,Thursday,73,6,10,218
+Cardiology,7,Tuesday,28,1,11,309
+Pediatrics,3,Tuesday,95,2,8,450
+Cardiology,15,Saturday,52,8,14,257
+Pediatrics,23,Wednesday,34,8,12,255
+General Medicine,12,Monday,19,6,4,80
+Pediatrics,21,Friday,51,3,4,159
+General Medicine,19,Thursday,48,2,18,399
+General Medicine,17,Tuesday,31,6,10,174
+General Medicine,13,Friday,88,1,8,567
+General Medicine,17,Tuesday,68,6,2,98
+General Medicine,4,Saturday,45,9,17,346
+Cardiology,8,Monday,72,7,12,243
+General Medicine,2,Saturday,9,9,11,218
+Cardiology,7,Friday,57,2,8,267
+General Medicine,19,Thursday,12,5,9,160
+Pediatrics,21,Tuesday,26,9,12,208
+General Medicine,9,Monday,11,7,19,302
+Neurology,21,Saturday,26,9,19,309
+General Medicine,18,Friday,50,6,12,231
+General Medicine,20,Saturday,34,7,8,161
+Pediatrics,2,Tuesday,20,5,9,200
+Orthopedics,10,Tuesday,83,6,18,349
+Pediatrics,10,Thursday,9,1,5,132
+Neurology,16,Monday,71,1,6,457
+Orthopedics,15,Wednesday,27,2,14,287
+Emergency,6,Saturday,65,4,18,354
+Emergency,3,Tuesday,78,9,13,298
+Neurology,22,Friday,9,7,15,293
+Pediatrics,18,Saturday,27,6,13,228
+Cardiology,11,Thursday,83,1,19,600
+Neurology,14,Thursday,86,5,1,110
+Orthopedics,10,Tuesday,29,4,8,171
+Orthopedics,4,Tuesday,12,5,2,52
+General Medicine,4,Tuesday,99,9,5,163
+Emergency,14,Sunday,25,3,4,112
+Orthopedics,17,Wednesday,6,4,13,217
+Neurology,10,Tuesday,26,8,14,245
+Orthopedics,11,Saturday,76,3,17,396
+Neurology,1,Saturday,91,3,16,478
+Cardiology,19,Sunday,76,9,8,163
+General Medicine,14,Sunday,72,5,18,361
+Emergency,19,Monday,68,1,8,465
+Orthopedics,3,Friday,98,7,15,366
+Neurology,21,Tuesday,23,7,5,100
+Pediatrics,17,Saturday,91,6,7,190
+Emergency,5,Sunday,86,6,2,127
+Cardiology,22,Saturday,57,3,4,208
+Neurology,18,Saturday,97,3,6,257
+General Medicine,10,Sunday,91,9,0,61
+General Medicine,23,Wednesday,56,1,3,399
+Cardiology,1,Sunday,51,7,15,329
+Cardiology,7,Sunday,86,7,13,265
+General Medicine,10,Friday,58,8,0,44
+Orthopedics,4,Sunday,48,6,3,120
+Orthopedics,17,Thursday,11,8,9,150
+Neurology,22,Sunday,96,1,10,600
+Pediatrics,17,Saturday,5,1,6,118
+Neurology,13,Tuesday,67,9,3,90
+Pediatrics,21,Saturday,43,4,0,59
+Cardiology,9,Friday,23,3,0,48
+Emergency,2,Thursday,35,6,16,326
+Neurology,8,Sunday,81,9,9,193
+Neurology,2,Wednesday,28,4,4,130
+Pediatrics,10,Monday,73,9,6,148
+Cardiology,11,Sunday,91,5,7,210
+Cardiology,11,Tuesday,87,7,1,91
+Pediatrics,2,Monday,69,3,8,298
+Cardiology,20,Wednesday,37,3,3,115
+General Medicine,6,Friday,63,3,11,288
+Orthopedics,13,Friday,37,8,10,185
+General Medicine,23,Wednesday,36,6,4,134
+Emergency,10,Saturday,63,9,11,218
+Neurology,6,Wednesday,96,9,3,110
+Emergency,20,Sunday,45,8,12,220
+Neurology,9,Tuesday,16,1,0,94
+Orthopedics,10,Thursday,77,6,17,337
+Cardiology,14,Sunday,15,4,3,66
+General Medicine,18,Sunday,23,4,3,90
+Pediatrics,15,Sunday,58,3,7,213
+General Medicine,21,Monday,61,9,19,334
+Orthopedics,20,Monday,46,2,5,196
+Emergency,19,Friday,75,1,3,426
+Pediatrics,11,Sunday,35,3,3,115
+Cardiology,17,Saturday,56,4,10,234
+Orthopedics,22,Friday,6,4,8,157
+Pediatrics,12,Tuesday,87,6,13,275
+Orthopedics,4,Wednesday,42,1,3,310
+Orthopedics,3,Monday,36,1,12,446
+Cardiology,13,Sunday,14,2,5,129
+Neurology,7,Tuesday,12,4,12,203
+Pediatrics,8,Friday,94,7,2,111
+Cardiology,18,Friday,98,6,6,182
+Orthopedics,2,Monday,79,9,0,66
+Cardiology,4,Friday,24,7,10,208
+Neurology,20,Saturday,24,5,1,52
+General Medicine,17,Friday,13,6,4,79
+Pediatrics,0,Thursday,76,9,13,307
+Neurology,7,Wednesday,19,1,12,282
+Emergency,18,Friday,92,9,15,291
+Pediatrics,16,Thursday,67,6,14,285
+Neurology,16,Tuesday,95,4,2,164
+Orthopedics,10,Friday,25,5,5,105
+Pediatrics,1,Saturday,9,1,8,204
+Pediatrics,5,Tuesday,39,7,2,84
+Cardiology,21,Sunday,89,8,12,245
+Orthopedics,13,Friday,72,5,12,264
+Emergency,2,Monday,52,2,6,283
+General Medicine,11,Thursday,84,8,4,122
+Neurology,3,Thursday,99,7,7,219
+Cardiology,11,Monday,94,9,7,168
+Neurology,12,Wednesday,66,4,6,190
+Emergency,1,Sunday,39,9,18,362
+Emergency,1,Saturday,74,4,6,243
+Pediatrics,14,Thursday,25,3,3,101
+Emergency,22,Tuesday,84,3,9,346
+Neurology,16,Saturday,43,2,12,294
+Orthopedics,6,Thursday,38,3,3,117
+Orthopedics,13,Sunday,19,8,18,294
+Pediatrics,11,Wednesday,10,8,9,151
+General Medicine,16,Sunday,70,2,6,281
+Neurology,13,Tuesday,92,2,4,301
+Neurology,5,Sunday,60,2,2,224
+Emergency,18,Saturday,53,7,1,64
+Neurology,23,Tuesday,96,6,10,286
+Cardiology,5,Monday,5,1,9,208
+General Medicine,17,Friday,69,2,12,360
+Emergency,23,Monday,32,1,6,323
+Cardiology,4,Saturday,24,7,9,185
+Pediatrics,23,Friday,52,6,3,116
+Orthopedics,23,Monday,76,2,19,583
+Pediatrics,5,Friday,69,2,15,486
+Orthopedics,1,Thursday,94,2,19,600
+Pediatrics,7,Sunday,55,8,5,129
+Neurology,14,Tuesday,47,7,8,167
+Cardiology,14,Friday,53,1,12,449
+Orthopedics,10,Thursday,29,4,6,131
+Emergency,21,Sunday,78,4,17,355
+Cardiology,21,Sunday,80,7,13,261
+Emergency,23,Wednesday,45,2,4,228
+Cardiology,0,Monday,75,4,12,339
+Cardiology,17,Wednesday,68,1,7,453
+Pediatrics,11,Saturday,65,4,14,306
+Orthopedics,11,Thursday,16,1,18,362
+Orthopedics,10,Wednesday,85,2,8,342
+Cardiology,7,Wednesday,73,2,5,271
+Neurology,6,Sunday,18,3,13,226
+Neurology,22,Thursday,38,8,9,205
+Emergency,20,Sunday,52,6,8,180
+Emergency,1,Tuesday,65,6,16,358
+Pediatrics,10,Friday,85,9,12,235
+Cardiology,21,Saturday,39,8,16,265
+Emergency,9,Saturday,69,2,18,450
+Emergency,2,Monday,63,6,12,287
+General Medicine,19,Sunday,40,1,8,339
+Cardiology,9,Friday,83,9,0,54
+Pediatrics,17,Monday,23,4,0,40
+Emergency,13,Saturday,46,4,4,134
+Pediatrics,17,Friday,73,9,7,145
+Orthopedics,23,Wednesday,23,3,17,365
+Pediatrics,7,Tuesday,43,5,3,93
+Neurology,9,Wednesday,73,1,0,370
+Neurology,21,Tuesday,56,6,14,262
+Pediatrics,12,Sunday,16,3,19,319
+Neurology,20,Thursday,87,1,3,485
+Orthopedics,7,Monday,51,6,8,170
+Cardiology,3,Monday,80,2,19,600
+Neurology,3,Thursday,40,8,9,207
+Neurology,4,Friday,67,2,14,481
+Pediatrics,0,Thursday,80,4,2,169
+Orthopedics,16,Sunday,86,3,1,171
+Cardiology,1,Saturday,55,9,4,128
+Pediatrics,7,Thursday,47,2,0,122
+Pediatrics,6,Tuesday,38,3,10,230
+General Medicine,14,Saturday,53,7,11,208
+Orthopedics,4,Thursday,22,4,2,84
+Cardiology,1,Monday,65,6,15,353
+Orthopedics,6,Wednesday,61,3,13,297
+Cardiology,7,Tuesday,97,1,11,600
+Orthopedics,6,Sunday,9,6,19,302
+Pediatrics,6,Tuesday,93,4,15,345
+Pediatrics,13,Friday,28,2,7,186
+Emergency,20,Wednesday,97,7,16,328
+Neurology,17,Tuesday,68,5,16,313
+General Medicine,5,Thursday,63,6,6,190
+Orthopedics,3,Tuesday,42,6,14,309
+General Medicine,9,Tuesday,37,9,8,144
+Emergency,17,Tuesday,14,2,3,88
+Neurology,11,Friday,41,6,7,150
+Orthopedics,15,Tuesday,91,9,9,203
+Cardiology,6,Tuesday,15,4,14,243
+Neurology,5,Friday,28,6,17,342
+Pediatrics,4,Saturday,92,7,13,327
+Emergency,2,Wednesday,75,1,4,517
+Neurology,11,Sunday,25,5,8,159
+Neurology,14,Saturday,24,4,12,216
+Pediatrics,9,Monday,14,2,18,309
+Orthopedics,19,Friday,93,2,10,391
+Cardiology,18,Friday,51,2,11,296
+Pediatrics,15,Tuesday,51,7,2,75
+Cardiology,10,Tuesday,19,4,1,54
+Orthopedics,7,Sunday,48,6,14,250
+Neurology,2,Monday,66,7,4,140
+Cardiology,22,Tuesday,10,9,6,126
+Emergency,6,Thursday,70,2,3,232
+Emergency,22,Tuesday,80,9,4,136
+Pediatrics,6,Tuesday,8,5,15,248
+Orthopedics,13,Thursday,27,6,14,249
+Pediatrics,1,Monday,17,6,15,305
+Pediatrics,9,Thursday,85,3,3,193
+General Medicine,18,Friday,35,7,5,119
+Pediatrics,8,Thursday,20,7,17,273
+General Medicine,15,Wednesday,45,8,2,71
+Emergency,18,Friday,94,5,4,170
+Emergency,17,Tuesday,96,2,1,275
+Pediatrics,8,Sunday,5,3,15,248
+Emergency,15,Friday,16,9,5,90
+Orthopedics,12,Monday,60,6,14,274
+General Medicine,9,Monday,54,8,17,298
+General Medicine,19,Thursday,24,8,5,105
+Pediatrics,13,Friday,70,5,12,261
+Emergency,11,Tuesday,40,1,12,397
+Cardiology,18,Monday,83,6,0,79
+General Medicine,6,Saturday,42,7,15,270
+Pediatrics,22,Tuesday,26,9,3,80
+Pediatrics,14,Saturday,65,2,16,418
+Orthopedics,15,Wednesday,54,2,17,389
+Neurology,7,Saturday,63,1,15,553
+Neurology,9,Monday,24,5,0,36
+General Medicine,3,Thursday,40,2,5,223
+Orthopedics,18,Wednesday,19,3,10,181
+Orthopedics,18,Friday,66,2,5,247
+Orthopedics,20,Tuesday,7,4,16,265
+General Medicine,14,Monday,97,3,3,212
+Neurology,13,Wednesday,95,9,13,250
+Orthopedics,0,Wednesday,9,2,13,266
+Emergency,15,Monday,60,7,19,344
+Pediatrics,9,Friday,35,3,7,175
+Pediatrics,18,Friday,90,8,1,88
+Cardiology,21,Thursday,39,4,4,122
+Cardiology,2,Sunday,75,4,3,173
+General Medicine,4,Saturday,74,9,9,234
+General Medicine,8,Friday,30,3,19,342
+Pediatrics,17,Thursday,5,7,2,39
+Emergency,10,Saturday,87,1,15,600
+Neurology,15,Wednesday,11,7,9,155
+Neurology,1,Monday,40,2,14,389
+General Medicine,11,Friday,80,6,3,120
+Emergency,21,Thursday,88,9,0,66
+General Medicine,5,Wednesday,91,6,14,351
+Neurology,10,Friday,29,3,9,188
+General Medicine,7,Tuesday,98,1,19,600
+Orthopedics,11,Sunday,63,4,17,342
+General Medicine,1,Wednesday,65,4,15,384
+Pediatrics,8,Friday,33,8,8,154
+General Medicine,14,Wednesday,99,7,18,352
+Pediatrics,1,Monday,22,7,16,316
+Emergency,0,Monday,45,7,9,220
+Neurology,9,Sunday,23,2,18,338
+Cardiology,1,Monday,8,9,7,145
+Cardiology,11,Saturday,69,6,18,331
+Neurology,22,Tuesday,45,2,4,208
+Cardiology,7,Monday,19,1,1,124
+General Medicine,4,Tuesday,58,1,14,600
+Emergency,21,Monday,68,1,16,592
+Emergency,0,Saturday,76,4,9,293
+Neurology,14,Wednesday,19,4,1,53
+Cardiology,5,Friday,83,9,8,212
+General Medicine,11,Friday,54,1,1,287
+Emergency,7,Monday,26,3,17,312
+Emergency,12,Friday,22,3,11,219
+Orthopedics,18,Monday,84,8,14,275
+Orthopedics,0,Monday,6,2,19,371
+Emergency,10,Sunday,40,6,5,120
+Neurology,19,Thursday,24,4,17,295
+Pediatrics,0,Thursday,20,6,12,256
+Pediatrics,7,Sunday,71,5,3,127
+General Medicine,4,Thursday,34,9,11,237
+Emergency,16,Tuesday,59,9,8,168
+Emergency,7,Thursday,70,1,1,379
+Emergency,9,Monday,30,3,15,285
+Neurology,1,Saturday,61,1,0,369
+Orthopedics,8,Saturday,73,6,3,118
+Emergency,23,Wednesday,6,3,14,282
+Emergency,22,Thursday,60,1,19,600
+Cardiology,2,Saturday,88,6,0,103
+Neurology,17,Thursday,66,5,19,361
+General Medicine,6,Wednesday,38,8,14,232
+Emergency,14,Saturday,60,2,2,192
+Cardiology,20,Monday,59,8,12,234
+Pediatrics,21,Tuesday,24,5,17,289
+General Medicine,19,Sunday,54,8,12,213
+Emergency,17,Sunday,29,4,9,183
+Emergency,2,Sunday,88,4,19,493
+Cardiology,22,Thursday,29,4,6,158
+Neurology,13,Saturday,57,6,7,161
+Emergency,23,Saturday,18,4,0,37
+Pediatrics,1,Wednesday,64,9,17,361
+Emergency,13,Monday,47,9,11,199
+Pediatrics,21,Friday,66,3,17,382
+General Medicine,10,Saturday,80,7,11,239
+General Medicine,15,Tuesday,73,5,19,365
+Orthopedics,7,Wednesday,67,9,8,174
+Orthopedics,6,Saturday,6,2,1,32
+Pediatrics,10,Saturday,58,3,13,297
+Neurology,2,Wednesday,20,5,3,94
+Emergency,16,Wednesday,59,5,14,279
+Emergency,13,Thursday,98,7,16,321
+Orthopedics,5,Saturday,47,8,18,373
+Pediatrics,7,Friday,65,8,5,123
+Emergency,21,Tuesday,42,1,8,346
+Emergency,4,Monday,49,1,16,598
+Neurology,7,Monday,55,3,14,311
+Cardiology,1,Friday,46,1,4,366
+Orthopedics,14,Wednesday,28,1,17,407
+Orthopedics,11,Wednesday,34,8,3,75
+Cardiology,16,Wednesday,41,1,1,228
+Emergency,0,Saturday,57,9,18,367
+Neurology,14,Wednesday,67,2,4,234
+Neurology,13,Wednesday,15,9,3,62
+Orthopedics,19,Saturday,82,7,4,129
+Neurology,21,Saturday,27,9,18,290
+General Medicine,15,Friday,84,3,12,330
+Cardiology,8,Thursday,54,1,15,502
+Emergency,0,Saturday,89,1,11,600
+General Medicine,16,Tuesday,59,6,8,182
+Cardiology,12,Wednesday,59,7,15,278
+Pediatrics,20,Thursday,8,9,13,209
+Orthopedics,20,Monday,58,6,0,61
+Neurology,4,Friday,65,5,19,424
+Pediatrics,9,Thursday,82,2,3,254
+Neurology,5,Saturday,87,2,8,415
+General Medicine,23,Wednesday,9,8,18,342
+Emergency,18,Wednesday,99,1,13,600
+Emergency,12,Wednesday,22,8,11,185
+Emergency,0,Thursday,48,7,3,103
+Neurology,19,Wednesday,35,7,6,130
+Pediatrics,14,Saturday,98,5,16,342
+Emergency,13,Thursday,25,3,0,56
+Pediatrics,7,Wednesday,51,7,13,241
+Neurology,9,Monday,34,7,14,240
+General Medicine,8,Monday,59,7,11,211
+Pediatrics,16,Tuesday,72,2,11,354
+General Medicine,8,Wednesday,73,3,5,209
+Neurology,2,Wednesday,45,3,12,317
+Neurology,10,Thursday,49,4,15,300
+Orthopedics,11,Thursday,78,9,13,252
+Neurology,9,Sunday,95,1,6,579
+Neurology,16,Wednesday,84,7,15,299
+Cardiology,16,Tuesday,34,7,8,151
+Emergency,10,Wednesday,81,4,13,310
+Orthopedics,21,Saturday,89,1,6,555
+Orthopedics,3,Thursday,49,3,11,313
+Orthopedics,6,Wednesday,49,5,2,87
+Cardiology,20,Thursday,83,2,13,409
+General Medicine,13,Wednesday,88,7,18,343
+Neurology,6,Friday,88,7,10,226
+Emergency,23,Thursday,49,5,4,143
+Pediatrics,7,Tuesday,59,6,12,233
+General Medicine,0,Friday,63,1,9,556
+Neurology,23,Saturday,9,4,6,139
+Cardiology,21,Wednesday,36,4,16,290
+Neurology,3,Sunday,10,8,15,295
+Neurology,11,Saturday,98,2,7,360
+Cardiology,23,Thursday,30,1,16,482
+Orthopedics,2,Friday,41,7,12,266
+Orthopedics,12,Saturday,17,6,10,175
+Emergency,19,Tuesday,97,5,19,390
+Emergency,5,Sunday,73,8,17,375
+Orthopedics,10,Thursday,29,2,4,142
+General Medicine,22,Friday,17,2,5,154
+Pediatrics,3,Saturday,92,9,19,413
+Neurology,19,Friday,99,1,13,600
+Pediatrics,15,Friday,24,6,11,194
+Neurology,6,Saturday,76,3,3,176
+Orthopedics,21,Monday,64,5,6,166
+Emergency,10,Wednesday,77,8,10,213
+General Medicine,23,Thursday,25,7,19,377
+Emergency,0,Thursday,65,4,1,126
+Pediatrics,6,Sunday,88,8,3,112
+Emergency,11,Sunday,83,2,6,304
+Orthopedics,6,Sunday,30,7,0,35
+General Medicine,22,Thursday,58,5,14,338
+Pediatrics,6,Friday,46,6,19,333
+General Medicine,9,Sunday,15,3,7,140
+Neurology,15,Saturday,41,7,4,94
+Emergency,7,Wednesday,15,7,13,218
+General Medicine,8,Tuesday,31,2,17,341
+Cardiology,8,Thursday,98,1,2,517
+Emergency,1,Saturday,87,2,1,291
+Neurology,12,Wednesday,38,8,15,258
+General Medicine,12,Wednesday,42,3,13,270
+Pediatrics,22,Monday,65,4,15,385
+Neurology,22,Saturday,91,8,10,257
+Cardiology,3,Thursday,57,3,16,409
+General Medicine,23,Sunday,69,6,2,123
+Orthopedics,11,Friday,7,2,4,89
+Emergency,16,Sunday,71,3,2,153
+Pediatrics,1,Wednesday,32,1,14,456
+Orthopedics,12,Wednesday,18,9,4,76
+General Medicine,17,Tuesday,56,4,2,103
+General Medicine,14,Sunday,34,6,5,106
+Neurology,7,Monday,62,7,13,252
+General Medicine,14,Wednesday,58,2,1,166
+Pediatrics,0,Wednesday,73,8,17,366
+Orthopedics,19,Friday,19,9,5,94
+Pediatrics,9,Friday,42,2,4,187
+Cardiology,11,Tuesday,82,5,13,289
+Cardiology,4,Saturday,18,2,16,359
+Emergency,8,Tuesday,61,5,10,216
+Emergency,22,Tuesday,63,7,0,68
+Cardiology,7,Friday,12,6,9,155
+General Medicine,15,Sunday,76,4,8,221
+Pediatrics,13,Sunday,23,2,19,351
+Cardiology,12,Sunday,36,7,11,197
+Emergency,22,Saturday,99,9,0,78
+Cardiology,20,Friday,33,1,17,429
+General Medicine,12,Monday,45,3,11,246
+Cardiology,4,Thursday,79,7,1,96
+Pediatrics,15,Thursday,49,9,0,41
+Orthopedics,10,Monday,17,5,0,21
+General Medicine,21,Sunday,31,7,0,29
+Emergency,4,Thursday,23,7,11,231
+Pediatrics,12,Saturday,30,4,6,134
+Cardiology,10,Friday,57,5,3,118
+Cardiology,18,Thursday,55,2,19,438
+Orthopedics,2,Saturday,41,8,3,104
+Emergency,14,Friday,13,1,14,288
+Emergency,6,Saturday,96,2,0,254
+Neurology,6,Monday,56,3,5,178
+Emergency,5,Tuesday,58,7,13,292
+Orthopedics,2,Monday,7,6,13,249
+Neurology,12,Thursday,73,7,9,189
+Neurology,6,Friday,12,5,6,110
+Cardiology,4,Saturday,18,4,11,235
+Cardiology,22,Thursday,7,7,18,340
+Emergency,17,Thursday,28,3,8,189
+Neurology,21,Tuesday,17,7,2,48
+Cardiology,7,Sunday,47,2,3,171
+Orthopedics,16,Thursday,33,8,12,221
+Cardiology,19,Tuesday,76,6,9,204
+General Medicine,0,Friday,55,3,13,349
+General Medicine,13,Friday,46,3,5,160
+Cardiology,16,Saturday,35,5,7,146
+Neurology,9,Sunday,67,3,18,397
+Neurology,11,Tuesday,30,6,9,170
+Pediatrics,15,Monday,22,2,4,119
+General Medicine,13,Friday,86,8,4,125
+Orthopedics,15,Sunday,61,9,4,104
+Neurology,7,Saturday,11,7,8,130
+Emergency,22,Monday,52,3,8,262
+General Medicine,9,Friday,84,4,14,327
+Orthopedics,16,Friday,64,2,8,283
+Orthopedics,17,Saturday,37,9,13,219
+Neurology,19,Saturday,7,5,5,90
+Orthopedics,15,Wednesday,8,2,19,311
+Neurology,16,Thursday,8,6,7,124
+Cardiology,15,Thursday,46,7,1,55
+General Medicine,18,Monday,13,2,4,101
+Pediatrics,23,Thursday,55,1,16,600
+Cardiology,23,Monday,21,7,9,197
+General Medicine,7,Sunday,21,1,13,306
+Neurology,5,Friday,24,3,17,359
+General Medicine,5,Wednesday,18,4,0,39
+Neurology,20,Wednesday,26,2,1,95
+Cardiology,8,Friday,56,7,3,97
+Emergency,3,Saturday,31,5,12,261
+Emergency,11,Tuesday,47,1,15,467
+General Medicine,11,Tuesday,7,8,4,67
+Emergency,22,Thursday,92,7,9,264
+Neurology,16,Saturday,98,4,16,380
+Orthopedics,14,Monday,12,2,10,191
+Neurology,8,Sunday,90,7,4,134
+Orthopedics,6,Wednesday,93,2,14,446
+Cardiology,9,Thursday,14,6,3,65
+Pediatrics,15,Friday,33,1,6,269
+Orthopedics,11,Saturday,44,7,9,180
+Emergency,6,Wednesday,69,7,3,102
+Neurology,17,Monday,25,4,19,330
+Cardiology,14,Monday,28,4,4,110
+Emergency,5,Tuesday,77,5,4,176
+Cardiology,11,Thursday,64,2,10,324
+Pediatrics,10,Friday,30,9,18,304
+Neurology,19,Wednesday,13,4,4,95
+General Medicine,2,Sunday,24,9,7,150
+Neurology,1,Monday,60,3,6,242
+Pediatrics,5,Wednesday,40,9,7,168
+Neurology,23,Friday,40,1,12,467
+General Medicine,21,Wednesday,77,7,4,131
+Orthopedics,4,Thursday,26,4,17,357
+Cardiology,17,Tuesday,5,7,8,132
+General Medicine,15,Wednesday,73,6,1,79
+Emergency,7,Saturday,77,4,15,322
+Pediatrics,19,Tuesday,41,4,13,254
+Orthopedics,21,Friday,87,8,16,289
+Emergency,10,Tuesday,76,7,5,145
+Emergency,9,Wednesday,17,4,2,65
+Pediatrics,23,Wednesday,88,6,16,392
+Orthopedics,11,Saturday,47,6,12,234
+Emergency,20,Monday,41,1,5,288
+Emergency,5,Saturday,98,2,7,433
+Orthopedics,19,Wednesday,78,4,5,180
+Neurology,4,Sunday,99,6,15,387
+Emergency,22,Tuesday,29,6,5,115
+Cardiology,8,Saturday,97,1,16,600
+Orthopedics,15,Saturday,92,8,2,88
+Emergency,21,Sunday,25,2,11,236
+Pediatrics,13,Sunday,45,5,5,124
+General Medicine,21,Sunday,77,4,6,195
+Cardiology,7,Monday,46,5,10,203
+General Medicine,19,Wednesday,46,5,8,174
+General Medicine,18,Wednesday,6,8,15,241
+Emergency,13,Friday,72,7,4,122
+Cardiology,6,Monday,12,9,14,231
+Cardiology,4,Friday,65,1,3,458
+Neurology,17,Friday,18,6,4,77
+General Medicine,1,Friday,81,6,6,215
+Cardiology,10,Thursday,25,2,2,92
+Neurology,21,Friday,28,8,3,74
+Orthopedics,7,Saturday,54,6,14,268
+Neurology,0,Tuesday,86,9,1,89
+Pediatrics,21,Saturday,49,5,4,117
+Emergency,11,Saturday,68,7,6,156
+Orthopedics,1,Wednesday,68,6,16,374
+Orthopedics,17,Thursday,30,5,7,144
+Pediatrics,6,Friday,36,6,8,157
+Neurology,16,Wednesday,61,4,9,217
+Emergency,21,Monday,57,3,10,251
+Neurology,22,Monday,37,1,0,233
+Cardiology,13,Wednesday,56,1,14,491
+Neurology,23,Tuesday,99,6,7,236
+Orthopedics,6,Wednesday,22,9,18,296
+Emergency,21,Wednesday,39,8,11,196
+Neurology,2,Thursday,16,2,5,149
+Emergency,5,Monday,55,9,9,212
+Emergency,19,Monday,93,8,4,130
+Cardiology,1,Friday,99,9,6,184
+Cardiology,16,Saturday,14,4,6,126
+Orthopedics,11,Wednesday,56,9,8,161
+Pediatrics,11,Wednesday,38,2,14,308
+Emergency,16,Tuesday,71,1,5,438
+Pediatrics,9,Sunday,43,9,15,265
+Orthopedics,2,Sunday,12,8,6,136
+Emergency,19,Monday,33,7,14,234
+Emergency,17,Tuesday,26,8,1,39
+General Medicine,12,Thursday,88,1,7,552
+Pediatrics,11,Friday,74,9,11,220
+Neurology,16,Tuesday,65,9,10,190
+Cardiology,3,Monday,47,9,5,142
+Neurology,22,Thursday,53,6,19,398
+Pediatrics,9,Wednesday,33,4,12,230
+Cardiology,10,Thursday,85,2,15,441
+Neurology,5,Saturday,35,4,7,194
+General Medicine,5,Tuesday,57,7,16,336
+Cardiology,8,Monday,38,1,12,379
+Emergency,14,Tuesday,42,9,3,77
+Neurology,1,Wednesday,61,3,19,470
+Cardiology,3,Sunday,8,4,9,193
+General Medicine,4,Wednesday,6,5,19,371
+Cardiology,16,Monday,16,3,15,259
+Cardiology,7,Saturday,39,4,16,299
+General Medicine,7,Friday,74,5,7,185
+Neurology,21,Thursday,76,1,10,533
+Orthopedics,11,Thursday,25,9,4,78
+Neurology,20,Wednesday,65,4,15,310
+Pediatrics,7,Tuesday,39,9,7,142
+General Medicine,18,Sunday,52,4,15,302
+Neurology,2,Tuesday,19,1,3,174
+Cardiology,17,Saturday,75,5,5,155
+General Medicine,20,Friday,19,9,7,120
+Emergency,18,Tuesday,10,3,8,137
+Neurology,18,Thursday,85,5,12,277
+General Medicine,14,Sunday,72,3,16,369
+Neurology,5,Tuesday,26,3,8,218
+General Medicine,15,Sunday,36,1,12,359
+Cardiology,7,Friday,26,2,8,199
+Emergency,15,Thursday,31,2,5,167
+Emergency,17,Sunday,19,9,9,160
+Pediatrics,19,Tuesday,48,7,4,105
+General Medicine,15,Thursday,90,8,6,160
+Neurology,10,Wednesday,96,2,10,401
+Emergency,6,Wednesday,13,9,8,133
+Emergency,16,Saturday,38,3,9,206
+Orthopedics,16,Wednesday,77,2,10,350
+Orthopedics,11,Tuesday,19,1,2,140
+Emergency,12,Friday,66,9,7,158
+General Medicine,9,Thursday,49,8,16,284
+Pediatrics,6,Sunday,88,4,6,210
+Emergency,13,Monday,76,7,11,218
+Cardiology,22,Wednesday,62,3,15,410
+Neurology,0,Wednesday,96,3,14,460
+Pediatrics,16,Monday,23,4,12,220
+Cardiology,3,Sunday,20,2,17,380
+Pediatrics,20,Sunday,79,4,17,359
+Cardiology,4,Monday,12,3,4,105
+Neurology,19,Sunday,37,8,13,224
+Neurology,23,Tuesday,78,2,10,425
+Orthopedics,22,Sunday,22,9,2,67
+General Medicine,6,Thursday,39,3,16,317
+Cardiology,9,Sunday,47,4,11,228
+Orthopedics,16,Wednesday,54,3,2,139
+Cardiology,6,Friday,7,3,1,37
+Orthopedics,0,Tuesday,95,8,3,133
+Neurology,6,Tuesday,63,8,17,302
+Pediatrics,23,Sunday,32,6,19,382
+Orthopedics,10,Friday,50,4,13,268
+Cardiology,8,Friday,68,1,7,448
+Cardiology,11,Saturday,74,4,1,118
+General Medicine,2,Friday,51,8,18,379
+Neurology,3,Sunday,18,6,9,195
+Cardiology,3,Sunday,11,2,4,118
+Emergency,12,Monday,78,3,10,292
+Pediatrics,22,Wednesday,83,7,8,229
+Orthopedics,18,Saturday,35,4,15,283
+General Medicine,9,Sunday,97,4,4,190
+Pediatrics,4,Monday,85,5,14,360
+Neurology,6,Saturday,55,8,13,241
+General Medicine,23,Wednesday,33,7,8,190
+Orthopedics,15,Saturday,19,9,19,303
+Orthopedics,0,Monday,94,5,4,206
+Emergency,11,Thursday,80,1,14,600
+Neurology,1,Sunday,29,4,8,205
+General Medicine,6,Wednesday,65,6,3,103
+General Medicine,10,Tuesday,45,6,3,96
+Cardiology,12,Wednesday,73,9,19,337
+Emergency,1,Wednesday,8,5,6,142
+Emergency,6,Wednesday,61,5,14,283
+General Medicine,14,Thursday,35,6,16,282
+General Medicine,10,Sunday,7,6,17,266
+Pediatrics,1,Monday,71,3,6,263
+Pediatrics,6,Sunday,94,6,18,364
+Pediatrics,3,Tuesday,54,8,9,212
+Emergency,10,Monday,21,6,12,203
+Cardiology,1,Saturday,64,5,1,118
+Orthopedics,15,Saturday,78,3,19,423
+Pediatrics,6,Saturday,70,1,10,514
+Cardiology,12,Monday,92,5,4,159
+Neurology,4,Friday,79,6,5,178
+Pediatrics,16,Thursday,28,6,2,62
+Orthopedics,20,Friday,91,6,0,88
+Neurology,11,Sunday,36,3,2,105
+Neurology,18,Saturday,91,4,2,150
+Orthopedics,6,Thursday,23,3,3,98
+Pediatrics,5,Monday,70,2,6,330
+Emergency,7,Saturday,64,8,14,259
+Orthopedics,12,Monday,70,7,10,212
+Orthopedics,4,Thursday,19,8,17,340
+Orthopedics,1,Monday,89,6,11,302
+Neurology,8,Monday,39,7,3,79
+Cardiology,10,Tuesday,73,1,10,525
+Emergency,23,Sunday,31,5,5,142
+Pediatrics,5,Friday,92,4,18,470
+Pediatrics,6,Friday,11,3,17,284
+Cardiology,6,Friday,10,2,14,241
+Orthopedics,18,Wednesday,37,9,2,63
+Emergency,5,Tuesday,62,8,16,355
+Pediatrics,10,Saturday,53,2,0,142
+General Medicine,10,Saturday,21,6,1,46
+Pediatrics,6,Saturday,46,3,18,361
+Orthopedics,1,Friday,98,3,8,349
+General Medicine,18,Sunday,76,5,7,193
+Cardiology,3,Friday,44,7,11,254
+Emergency,5,Sunday,50,7,14,316
+Cardiology,16,Tuesday,75,1,6,473
+Cardiology,4,Sunday,74,7,15,338
+Emergency,6,Monday,72,7,6,154
+Emergency,8,Friday,5,6,19,300
+Pediatrics,0,Saturday,83,6,11,293
+Pediatrics,0,Monday,99,2,16,593
+Emergency,18,Friday,93,3,10,319
+General Medicine,5,Thursday,56,3,3,174
+Neurology,17,Wednesday,39,3,18,341
+Pediatrics,9,Friday,73,2,1,206
+Neurology,10,Thursday,9,9,1,34
+General Medicine,0,Tuesday,21,6,16,312
+Emergency,0,Thursday,57,2,8,320
+General Medicine,12,Tuesday,56,3,0,99
+Pediatrics,4,Friday,18,6,9,203
+Cardiology,19,Tuesday,33,4,14,262
+Emergency,0,Thursday,12,7,14,268
+Orthopedics,19,Sunday,5,6,1,28
+Neurology,2,Wednesday,33,6,13,283
+General Medicine,17,Monday,40,3,3,131
+Emergency,8,Monday,55,8,17,291
+General Medicine,13,Wednesday,41,9,8,147
+Emergency,16,Saturday,97,6,1,104
+Pediatrics,22,Monday,73,2,1,247
+Pediatrics,13,Friday,57,1,17,548
+Pediatrics,3,Saturday,56,3,16,411
+General Medicine,4,Friday,92,3,8,352
+Orthopedics,20,Thursday,87,8,7,163
+Pediatrics,16,Thursday,16,5,1,41
+Emergency,21,Saturday,56,1,1,307
+Pediatrics,1,Saturday,5,4,4,82
+Cardiology,22,Saturday,11,7,11,228
+Pediatrics,21,Saturday,21,5,15,255
+General Medicine,4,Tuesday,47,6,13,286
+Orthopedics,3,Sunday,75,4,19,475
+Cardiology,3,Saturday,21,2,1,97
+General Medicine,5,Sunday,63,9,7,176
+General Medicine,19,Saturday,7,2,3,76
+General Medicine,20,Thursday,33,2,19,379
+Emergency,12,Friday,26,2,8,187
+General Medicine,21,Sunday,42,1,19,497
+Emergency,4,Thursday,58,3,18,454
+General Medicine,22,Monday,97,6,1,116
+Neurology,22,Tuesday,54,7,15,334
+Cardiology,6,Tuesday,73,1,10,518
+Neurology,19,Friday,34,5,7,153
+General Medicine,0,Saturday,27,5,11,250
+Cardiology,13,Thursday,89,1,2,487
+Cardiology,23,Monday,94,4,12,346
+Orthopedics,3,Thursday,51,1,1,342
+Neurology,16,Saturday,25,1,12,312
+Orthopedics,20,Saturday,24,7,7,131
+Cardiology,13,Wednesday,27,7,14,235
+Emergency,15,Thursday,72,3,8,258
+Cardiology,13,Friday,25,7,10,178
+Orthopedics,15,Thursday,25,3,2,79
+Neurology,23,Tuesday,5,2,6,143
+General Medicine,19,Monday,19,4,13,233
+General Medicine,7,Sunday,21,3,14,249
+Neurology,23,Friday,55,7,8,205
+General Medicine,2,Wednesday,67,1,19,600
+General Medicine,18,Monday,18,6,10,167
+Orthopedics,0,Monday,63,2,6,313
+Neurology,1,Sunday,87,8,11,275
+Pediatrics,14,Tuesday,54,5,18,344
+Emergency,21,Tuesday,38,3,17,335
+Emergency,9,Tuesday,10,7,12,198
+General Medicine,17,Friday,53,2,10,292
+Emergency,21,Thursday,10,5,0,9
+Neurology,13,Monday,73,8,5,134
+Neurology,16,Thursday,11,1,1,79
+Cardiology,12,Thursday,81,1,12,592
+Cardiology,0,Tuesday,55,3,12,338
+Emergency,4,Thursday,5,3,18,355
+Pediatrics,12,Monday,17,7,8,148
+Cardiology,13,Monday,47,6,18,325
+Cardiology,23,Saturday,31,7,0,32
+Neurology,2,Wednesday,75,4,7,259
+Pediatrics,14,Friday,7,2,13,220
+General Medicine,18,Thursday,62,2,15,393
+Emergency,16,Friday,93,1,3,523
+Cardiology,2,Friday,21,9,17,331
+Pediatrics,15,Friday,49,7,13,241
+Pediatrics,13,Sunday,82,3,8,258
+Emergency,11,Saturday,62,2,14,375
+Pediatrics,11,Friday,60,3,2,138
+Pediatrics,10,Saturday,58,7,3,107
+Pediatrics,16,Monday,91,5,17,356
+Cardiology,7,Sunday,92,3,13,354
+Emergency,16,Thursday,33,9,14,238
+Pediatrics,20,Saturday,58,2,7,256
+Pediatrics,22,Wednesday,31,7,9,192
+Cardiology,19,Friday,49,6,11,217
+Emergency,10,Sunday,91,6,8,205
+Neurology,1,Wednesday,35,7,7,173
+Cardiology,9,Monday,40,6,16,290
+Emergency,9,Monday,85,2,8,351
+Pediatrics,10,Tuesday,65,5,12,256
+Emergency,5,Friday,41,3,13,332
+Emergency,3,Tuesday,71,9,4,133
+General Medicine,23,Sunday,40,8,8,172
+Emergency,11,Wednesday,9,2,15,263
+Neurology,10,Thursday,50,1,18,532
+Emergency,22,Tuesday,83,4,6,247
+Neurology,22,Monday,56,4,11,290
+Pediatrics,12,Friday,53,2,1,154
+Neurology,4,Wednesday,10,7,17,326
+Pediatrics,5,Saturday,14,3,17,349
+Pediatrics,0,Sunday,27,7,15,293
+Neurology,5,Sunday,21,7,10,211
+Cardiology,17,Monday,88,1,1,473
+Orthopedics,21,Saturday,48,6,13,244
+Emergency,8,Sunday,45,4,3,101
+General Medicine,23,Thursday,19,8,6,133
+Orthopedics,14,Friday,48,8,1,56
+Emergency,7,Thursday,62,3,13,310
+Emergency,18,Sunday,90,4,6,213
+Pediatrics,23,Thursday,54,1,8,491
+Emergency,15,Sunday,56,2,7,255
+General Medicine,5,Friday,74,7,8,220
+Emergency,5,Friday,72,7,6,178
+Neurology,21,Saturday,67,9,18,321
+Orthopedics,2,Thursday,62,9,16,351
+Neurology,9,Wednesday,27,9,12,201
+General Medicine,0,Saturday,48,6,10,239
+Emergency,13,Friday,87,8,17,307
+General Medicine,3,Monday,99,9,16,360
+Pediatrics,11,Sunday,48,7,15,279
+Neurology,5,Saturday,56,4,9,256
+Neurology,10,Tuesday,71,4,3,144
+Cardiology,11,Wednesday,32,6,3,78
+Emergency,9,Sunday,71,4,10,250
+Pediatrics,17,Saturday,82,7,7,172
+Neurology,6,Friday,22,8,8,145
+Neurology,6,Friday,31,8,15,254
+Pediatrics,10,Wednesday,55,8,9,186
+General Medicine,3,Tuesday,64,2,8,349
+General Medicine,19,Saturday,78,2,2,230
+Emergency,0,Saturday,53,2,1,185
+Cardiology,12,Thursday,19,2,8,168
+Neurology,17,Monday,87,4,12,299
+Cardiology,8,Friday,77,5,5,161
+General Medicine,23,Saturday,72,4,3,183
+General Medicine,23,Saturday,19,5,13,261
