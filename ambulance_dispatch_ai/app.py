@@ -38,8 +38,15 @@ def save_history(history):
 
 history = load_history()
 
-st.sidebar.title("🤖 System Configuration")
-api_key = st.sidebar.text_input("Gemini API Key", type="password", help="Required for Triage Agent. Get one from Google AI Studio.")
+# Automatically load API Key from .env if present
+env_path = os.path.join(os.path.dirname(__file__), '..', '.env')
+if os.path.exists(env_path):
+    with open(env_path) as f:
+        for line in f:
+            if line.startswith('GEMINI_API_KEY='):
+                os.environ['GEMINI_API_KEY'] = line.strip().split('=', 1)[1]
+
+api_key = os.environ.get("GEMINI_API_KEY")
 if api_key:
     genai.configure(api_key=api_key)
     
@@ -182,7 +189,7 @@ elif page == "Emergency Dispatch":
                     # --- AGENT 1: Triage ---
                     with st.spinner("🤖 Triage Agent analyzing symptoms..."):
                         if not api_key:
-                            st.error("Please enter your Gemini API Key in the sidebar to use the Gen AI Triage Agent.")
+                            st.error("GEMINI_API_KEY not found in environment. Please add it to your .env file or Streamlit Cloud Secrets.")
                             severity = "Critical" if hr > 140 or spo2 < 90 else "Moderate"
                             specialty = "Cardiac" if "chest" in incident.lower() or "heart" in incident.lower() else "General"
                             st.session_state.agent_logs.append("⚠️ **Triage Agent**: No API Key provided. Using local fallback triage logic.")
