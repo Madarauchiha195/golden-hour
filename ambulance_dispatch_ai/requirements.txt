@@ -14,3 +14,5 @@ streamlit-folium
 pydantic
 requests
 polyline
+streamlit-geolocation
+google-generativeai
